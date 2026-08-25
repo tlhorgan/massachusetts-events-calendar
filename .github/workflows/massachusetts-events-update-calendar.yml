@@ -28,7 +28,7 @@ jobs:
           python -m playwright install --with-deps chromium
 
       - name: Generate Massachusetts calendar
-        run: python generate_calendar.py
+        run: python generate_calendar_with_northborough.py
 
       - name: Commit updated calendar
         run: |
