@@ -30,6 +30,9 @@ jobs:
       - name: Generate Massachusetts calendar
         run: python generate_calendar.py
 
+      - name: Add Worcester college calendars
+        run: python add_worcester_colleges.py
+
       - name: Generate Northborough calendar
         run: python generate_northborough.py
 
