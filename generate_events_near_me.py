@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import math
 import re
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -15,36 +16,93 @@ from playwright.sync_api import sync_playwright
 
 
 OUTPUT = Path("events-near-me.ics")
-HOME_ADDRESS = "17 Reservoir St, Northborough, MA 01532"
 CALENDAR_NAME = "Events Near Me"
 TZNAME = "America/New_York"
 LOOKAHEAD_DAYS = 120
 MAX_RESULTS_PER_QUERY = 25
 MAX_PAGES_TO_PARSE = 80
+RADIUS_MILES = 30.0
+CENTER_LABEL = "Northborough, MA 01532"
+CENTER_LAT = 42.3195
+CENTER_LON = -71.6412
 
-# When Google blocks a cloud runner, build a useful local feed from the calendars
-# generated earlier in the same workflow. These communities are roughly within
-# a 15-20 mile local-events radius of the Northborough home address.
-LOCAL_TOWNS = {
-    "northborough",
-    "westborough",
-    "southborough",
-    "marlborough",
-    "hudson",
-    "berlin",
-    "boylston",
-    "west boylston",
-    "shrewsbury",
-    "grafton",
-    "hopkinton",
-    "upton",
-    "ashland",
-    "framingham",
-    "worcester",
+# Approximate municipal-center coordinates used to apply a true distance test
+# rather than relying on a hand-maintained yes/no town list. Locations near the
+# edge of the radius are approximate because events are tested by municipality
+# center when only a town/city name is available.
+TOWN_CENTERS = {
+    "northborough": (42.3195, -71.6412),
+    "westborough": (42.2695, -71.6162),
+    "southborough": (42.3057, -71.5245),
+    "marlborough": (42.3459, -71.5523),
+    "hudson": (42.3918, -71.5662),
+    "berlin": (42.3812, -71.6370),
+    "boylston": (42.3518, -71.7312),
+    "west boylston": (42.3668, -71.7856),
+    "shrewsbury": (42.2959, -71.7128),
+    "grafton": (42.2070, -71.6856),
+    "hopkinton": (42.2287, -71.5226),
+    "upton": (42.1745, -71.6023),
+    "ashland": (42.2612, -71.4634),
+    "framingham": (42.2793, -71.4162),
+    "worcester": (42.2626, -71.8023),
+    "clinton": (42.4168, -71.6828),
+    "bolton": (42.4334, -71.6078),
+    "stow": (42.4370, -71.5056),
+    "maynard": (42.4334, -71.4495),
+    "acton": (42.4851, -71.4328),
+    "sudbury": (42.3834, -71.4162),
+    "wayland": (42.3626, -71.3615),
+    "natick": (42.2834, -71.3495),
+    "sherborn": (42.2387, -71.3698),
+    "holliston": (42.2001, -71.4245),
+    "milford": (42.1398, -71.5162),
+    "hopedale": (42.1307, -71.5412),
+    "mendon": (42.1057, -71.5523),
+    "millbury": (42.1934, -71.7601),
+    "sutton": (42.1501, -71.7628),
+    "auburn": (42.1945, -71.8356),
+    "leicester": (42.2459, -71.9087),
+    "paxton": (42.3112, -71.9281),
+    "holden": (42.3518, -71.8634),
+    "rutland": (42.3695, -71.9481),
+    "sterling": (42.4376, -71.7606),
+    "lancaster": (42.4557, -71.6737),
+    "harvard": (42.5001, -71.5823),
+    "littleton": (42.5376, -71.5120),
+    "boxborough": (42.4834, -71.5162),
+    "concord": (42.4604, -71.3489),
+    "lincoln": (42.4259, -71.3039),
+    "weston": (42.3668, -71.3031),
+    "wellesley": (42.2968, -71.2924),
+    "needham": (42.2834, -71.2328),
+    "newton": (42.3370, -71.2092),
+    "waltham": (42.3765, -71.2356),
+    "medway": (42.1418, -71.3967),
+    "millis": (42.1676, -71.3578),
+    "franklin": (42.0834, -71.3967),
+    "bellingham": (42.0868, -71.4751),
+    "northbridge": (42.1515, -71.6495),
+    "uxbridge": (42.0773, -71.6301),
+    "douglas": (42.0543, -71.7395),
+    "oxford": (42.1168, -71.8648),
+    "charlton": (42.1357, -71.9701),
+    "spencer": (42.2439, -71.9923),
+    "leominster": (42.5251, -71.7598),
+    "fitchburg": (42.5834, -71.8023),
+    "princeton": (42.4487, -71.8773),
+    "westminster": (42.5459, -71.9109),
+    "gardner": (42.5751, -71.9981),
+    "ayer": (42.5612, -71.5898),
+    "shirley": (42.5437, -71.6495),
+    "groton": (42.6112, -71.5745),
 }
+
 LOCAL_FEEDS = [
     Path("northborough-events.ics"),
     Path("massachusetts-events.ics"),
+    Path("central-massachusetts-events.ics"),
+    Path("worcester-colleges-events.ics"),
 ]
 
 HEADERS = {
@@ -55,13 +113,12 @@ HEADERS = {
     )
 }
 
-# Google remains the primary discovery source.
 SEARCH_QUERIES = [
-    f"events near {HOME_ADDRESS}",
-    f"live music near {HOME_ADDRESS}",
-    f"festivals fairs near {HOME_ADDRESS}",
-    f"community events near {HOME_ADDRESS}",
-    f"things to do this weekend near {HOME_ADDRESS}",
+    f"events within {int(RADIUS_MILES)} miles of {CENTER_LABEL}",
+    f"live music within {int(RADIUS_MILES)} miles of {CENTER_LABEL}",
+    f"festivals fairs within {int(RADIUS_MILES)} miles of {CENTER_LABEL}",
+    f"community events within {int(RADIUS_MILES)} miles of {CENTER_LABEL}",
+    f"things to do this weekend within {int(RADIUS_MILES)} miles of {CENTER_LABEL}",
 ]
 
 GOOGLE_HOSTS = {
@@ -90,6 +147,35 @@ def naive(value):
 def event_day(item) -> date:
     start = item["start"]
     return start.date() if isinstance(start, datetime) else start
+
+
+def distance_miles(lat1, lon1, lat2, lon2) -> float:
+    radius = 3958.7613
+    p1 = math.radians(lat1)
+    p2 = math.radians(lat2)
+    dlat = math.radians(lat2 - lat1)
+    dlon = math.radians(lon2 - lon1)
+    a = math.sin(dlat / 2) ** 2 + math.cos(p1) * math.cos(p2) * math.sin(dlon / 2) ** 2
+    return 2 * radius * math.asin(math.sqrt(a))
+
+
+def location_town(location: str):
+    value = norm(location)
+    if not value:
+        return None
+    # Match longer municipality names first (e.g. West Boylston before Boylston).
+    for town in sorted(TOWN_CENTERS, key=len, reverse=True):
+        if re.search(rf"\b{re.escape(town)}\b", value):
+            return town
+    return None
+
+
+def location_is_local(location: str) -> bool:
+    town = location_town(location)
+    if town is None:
+        return False
+    lat, lon = TOWN_CENTERS[town]
+    return distance_miles(CENTER_LAT, CENTER_LON, lat, lon) <= RADIUS_MILES
 
 
 def unwrap_google_url(href: str) -> str:
@@ -211,6 +297,10 @@ def parse_event_object(obj, source_page: str):
     if day < today or day > today + timedelta(days=LOOKAHEAD_DAYS):
         return None
 
+    location = extract_location(obj)
+    if not location_is_local(location):
+        return None
+
     event_url = obj.get("url")
     if isinstance(event_url, dict):
         event_url = event_url.get("url")
@@ -220,7 +310,7 @@ def parse_event_object(obj, source_page: str):
         "title": title,
         "start": start,
         "end": end,
-        "location": extract_location(obj),
+        "location": location,
         "description": extract_description(obj),
         "url": event_url,
         "source_page": source_page,
@@ -257,13 +347,6 @@ def parse_event_page(url: str):
     return items
 
 
-def location_is_local(location: str) -> bool:
-    value = norm(location)
-    if not value:
-        return False
-    return any(re.search(rf"\b{re.escape(town)}\b", value) for town in LOCAL_TOWNS)
-
-
 def local_fallback_items():
     """Read already-generated local/state feeds when Google blocks the runner."""
     today = datetime.now().date()
@@ -298,12 +381,13 @@ def local_fallback_items():
 
             location = clean(component.get("LOCATION", ""))
             # Every event in the dedicated Northborough feed is local even if a
-            # source omits its location. Statewide events must name a nearby town.
+            # source omits its location. Other feeds must resolve to a municipality
+            # whose center is within the configured radius.
             if feed_path.name != "northborough-events.ics" and not location_is_local(location):
                 continue
 
             if not location and feed_path.name == "northborough-events.ics":
-                location = "Northborough, MA 01532"
+                location = CENTER_LABEL
 
             title = clean(component.get("SUMMARY", ""))
             if not title:
@@ -325,7 +409,7 @@ def local_fallback_items():
             })
             added += 1
 
-        print(f"  fallback {feed_path.name}: {added} nearby events")
+        print(f"  fallback {feed_path.name}: {added} events within {RADIUS_MILES:g} miles")
 
     return items
 
@@ -381,7 +465,7 @@ def build_calendar(items):
 
         description = clean(item.get("description"))
         discovery = item.get("discovery", "Google Search")
-        note = f"Events Near Me centered on: {HOME_ADDRESS}\nDiscovery: {discovery}"
+        note = f"Events Near Me: within {RADIUS_MILES:g} miles of {CENTER_LABEL}\nDiscovery: {discovery}"
         if item.get("source_page"):
             note += f"\nSource page: {item['source_page']}"
         if description:
@@ -390,7 +474,7 @@ def build_calendar(items):
         cal.add_component(ev)
 
     OUTPUT.write_bytes(cal.to_ical())
-    print(f"Wrote {OUTPUT} with {len(items)} unique events")
+    print(f"Wrote {OUTPUT} with {len(items)} unique events within {RADIUS_MILES:g} miles")
 
 
 def main():
@@ -427,7 +511,7 @@ def main():
         items.extend(parse_event_page(url))
 
     unique = dedupe(items)
-    print(f"Parsed {len(items)} Google candidate events; {len(unique)} unique future events")
+    print(f"Parsed {len(items)} Google candidate events; {len(unique)} unique future events within radius")
 
     if not unique:
         if google_blocked:
