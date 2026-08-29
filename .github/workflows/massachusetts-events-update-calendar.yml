@@ -39,14 +39,17 @@ jobs:
       - name: Generate Northborough calendar
         run: python generate_northborough.py
 
+      - name: Generate Events Near Me calendar
+        run: python generate_events_near_me.py
+
       - name: Commit updated calendars
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add massachusetts-events.ics northborough-events.ics
+          git add massachusetts-events.ics northborough-events.ics events-near-me.ics
           if git diff --cached --quiet; then
             echo "No calendar changes"
           else
-            git commit -m "Update Massachusetts and Northborough events calendars"
+            git commit -m "Update Massachusetts, Northborough, and Events Near Me calendars"
             git push
           fi
