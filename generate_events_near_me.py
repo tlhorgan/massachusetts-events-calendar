@@ -22,6 +22,31 @@ LOOKAHEAD_DAYS = 120
 MAX_RESULTS_PER_QUERY = 25
 MAX_PAGES_TO_PARSE = 80
 
+# When Google blocks a cloud runner, build a useful local feed from the calendars
+# generated earlier in the same workflow. These communities are roughly within
+# a 15-20 mile local-events radius of the Northborough home address.
+LOCAL_TOWNS = {
+    "northborough",
+    "westborough",
+    "southborough",
+    "marlborough",
+    "hudson",
+    "berlin",
+    "boylston",
+    "west boylston",
+    "shrewsbury",
+    "grafton",
+    "hopkinton",
+    "upton",
+    "ashland",
+    "framingham",
+    "worcester",
+}
+LOCAL_FEEDS = [
+    Path("northborough-events.ics"),
+    Path("massachusetts-events.ics"),
+]
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -30,8 +55,7 @@ HEADERS = {
     )
 }
 
-# Google is used as the discovery source. Using several phrases improves coverage
-# without requiring a paid Google/Serp API key.
+# Google remains the primary discovery source.
 SEARCH_QUERIES = [
     f"events near {HOME_ADDRESS}",
     f"live music near {HOME_ADDRESS}",
@@ -100,7 +124,6 @@ def external_search_links(page, query: str):
         host = urlparse(target).netloc.lower().split(":")[0]
         if host in GOOGLE_HOSTS or host.endswith(".google.com"):
             continue
-        # Skip obvious non-event utility links.
         if any(x in host for x in ("gstatic.com", "googleusercontent.com", "youtube.com")):
             continue
         target = target.split("#")[0]
@@ -201,6 +224,7 @@ def parse_event_object(obj, source_page: str):
         "description": extract_description(obj),
         "url": event_url,
         "source_page": source_page,
+        "discovery": "Google Search",
     }
 
 
@@ -233,6 +257,79 @@ def parse_event_page(url: str):
     return items
 
 
+def location_is_local(location: str) -> bool:
+    value = norm(location)
+    if not value:
+        return False
+    return any(re.search(rf"\b{re.escape(town)}\b", value) for town in LOCAL_TOWNS)
+
+
+def local_fallback_items():
+    """Read already-generated local/state feeds when Google blocks the runner."""
+    today = datetime.now().date()
+    last_day = today + timedelta(days=LOOKAHEAD_DAYS)
+    items = []
+
+    for feed_path in LOCAL_FEEDS:
+        if not feed_path.exists() or feed_path.stat().st_size < 100:
+            print(f"  fallback feed unavailable: {feed_path}")
+            continue
+
+        try:
+            cal = Calendar.from_ical(feed_path.read_bytes())
+        except Exception as exc:
+            print(f"  fallback could not read {feed_path}: {exc}")
+            continue
+
+        added = 0
+        for component in cal.walk("VEVENT"):
+            try:
+                start = naive(component.decoded("DTSTART"))
+            except Exception:
+                continue
+            try:
+                end = naive(component.decoded("DTEND")) if component.get("DTEND") else None
+            except Exception:
+                end = None
+
+            day = start.date() if isinstance(start, datetime) else start
+            if day < today or day > last_day:
+                continue
+
+            location = clean(component.get("LOCATION", ""))
+            # Every event in the dedicated Northborough feed is local even if a
+            # source omits its location. Statewide events must name a nearby town.
+            if feed_path.name != "northborough-events.ics" and not location_is_local(location):
+                continue
+
+            if not location and feed_path.name == "northborough-events.ics":
+                location = "Northborough, MA 01532"
+
+            title = clean(component.get("SUMMARY", ""))
+            if not title:
+                continue
+            if end is None:
+                end = start + (timedelta(hours=2) if isinstance(start, datetime) else timedelta(days=1))
+
+            url = clean(component.get("URL", ""))
+            description = clean(component.get("DESCRIPTION", ""))
+            items.append({
+                "title": title,
+                "start": start,
+                "end": end,
+                "location": location,
+                "description": description,
+                "url": url,
+                "source_page": url or feed_path.name,
+                "discovery": f"Local fallback from {feed_path.name}",
+            })
+            added += 1
+
+        print(f"  fallback {feed_path.name}: {added} nearby events")
+
+    return items
+
+
 def duplicate(a, b) -> bool:
     if event_day(a) != event_day(b):
         return False
@@ -240,7 +337,6 @@ def duplicate(a, b) -> bool:
     tb = norm(b["title"])
     if ta == tb:
         return True
-    # Google often leads to several ticket/venue pages for the same event.
     if ta in tb or tb in ta:
         shorter = min(len(ta), len(tb))
         longer = max(len(ta), len(tb))
@@ -264,7 +360,7 @@ def dedupe(items):
 
 def build_calendar(items):
     cal = Calendar()
-    cal.add("prodid", "-//Google-discovered Events Near Me//EN")
+    cal.add("prodid", "-//Events Near Me//EN")
     cal.add("version", "2.0")
     cal.add("x-wr-calname", CALENDAR_NAME)
     cal.add("x-wr-timezone", TZNAME)
@@ -284,7 +380,8 @@ def build_calendar(items):
             ev.add("url", item["url"])
 
         description = clean(item.get("description"))
-        note = f"Discovered with Google Search using: {HOME_ADDRESS}"
+        discovery = item.get("discovery", "Google Search")
+        note = f"Events Near Me centered on: {HOME_ADDRESS}\nDiscovery: {discovery}"
         if item.get("source_page"):
             note += f"\nSource page: {item['source_page']}"
         if description:
@@ -299,6 +396,7 @@ def build_calendar(items):
 def main():
     discovered_links = []
     seen_links = set()
+    google_blocked = False
 
     try:
         with sync_playwright() as p:
@@ -316,9 +414,12 @@ def main():
                             discovered_links.append(link)
                 except Exception as exc:
                     print(f"  search failed: {exc}")
+                    if "blocked" in str(exc).lower():
+                        google_blocked = True
             browser.close()
     except Exception as exc:
         print(f"Google discovery failed: {exc}")
+        google_blocked = True
 
     print(f"Collected {len(discovered_links)} unique Google result links")
     items = []
@@ -326,16 +427,21 @@ def main():
         items.extend(parse_event_page(url))
 
     unique = dedupe(items)
-    print(f"Parsed {len(items)} candidate events; {len(unique)} unique future events")
+    print(f"Parsed {len(items)} Google candidate events; {len(unique)} unique future events")
+
+    if not unique:
+        if google_blocked:
+            print("Google blocked the GitHub Actions runner; using local-calendar fallback")
+        else:
+            print("Google returned no usable future events; using local-calendar fallback")
+        unique = dedupe(local_fallback_items())
+        print(f"Fallback produced {len(unique)} unique nearby events")
 
     if not unique:
         if OUTPUT.exists() and OUTPUT.stat().st_size > 100:
             print("No new events found; preserving the existing Events Near Me feed")
             return
-        raise RuntimeError(
-            "Google discovery returned no usable future events and no prior feed exists. "
-            "Google may have blocked the GitHub Actions runner."
-        )
+        raise RuntimeError("No usable Events Near Me events were available from Google or local fallback feeds.")
 
     build_calendar(unique)
 
