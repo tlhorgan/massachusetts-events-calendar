@@ -5,37 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
-SUMMARY:Community Cleanup With The City Manager's Clean Team
-DTSTART:20260829T090000
-DTEND:20260829T110000
-DTSTAMP:20260829T155644Z
-UID:e4ea734eb7050ca9715864ae5dc1ca@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-4
-LOCATION:May St/Park Ave - Map It
-URL:https://www.worcesterma.gov/calendar/community-cleanup-city-managers-c
- lean-team-4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
-DTSTART:20260829T110000
-DTEND:20260829T130000
-DTSTAMP:20260829T155644Z
-UID:93fb8f81f9260c11a4cfc02d7dd2e3@central-massachusetts-events
-DESCRIPTION:Big League Fun Ribbon Cutting - learn about the math and scien
- ce behind baseball!\n\nSource: Worcester Regional Chamber of Commerce\nEve
- nt page: https://business.worcesterchamber.org/events/details/big-league-f
- un-ribbon-cutting-exhibit-opening-23962
-LOCATION:Table top activity about reaction time Location EcoTarium 222 Har
- rington Way Worcester\, MA 01604
-URL:https://business.worcesterchamber.org/events/details/big-league-fun-ri
- bbon-cutting-exhibit-opening-23962
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260830T093000
 DTEND:20260830T113000
-DTSTAMP:20260829T155644Z
+DTSTAMP:20260830T154149Z
 UID:8eb9faacdc55df6b6ec3d9a9a52541@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -50,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260831T191500
 DTEND:20260831T211500
-DTSTAMP:20260829T155644Z
+DTSTAMP:20260830T154149Z
 UID:35a70c74440c70e0202cdc850c8eac@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -64,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260901T171500
 DTEND:20260901T191500
-DTSTAMP:20260829T155644Z
+DTSTAMP:20260830T154149Z
 UID:58cf3e29a10a360a496ce0c36b06fe@central-massachusetts-events
 DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
   Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
@@ -78,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260902T150000
 DTEND:20260902T170000
-DTSTAMP:20260829T155644Z
+DTSTAMP:20260830T154149Z
 UID:44a0df216abe3f94f88b6cf03ce2fd@central-massachusetts-events
 DESCRIPTION:Ribbon Cutting - Keller Williams Pinnacle Central\n\nSource: W
  orcester Regional Chamber of Commerce\nEvent page: https://business.worces
@@ -93,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch Festival & Farmers’ Market - Honeycomb
 DTSTART:20260902T110000
 DTEND:20260902T150000
-DTSTAMP:20260829T155644Z
+DTSTAMP:20260830T154149Z
 UID:0fcbcd1eddcf10dcdfaba60bc7406a@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/out-lunch-festival-farmers-market-honeycomb
@@ -105,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260903T150000
 DTEND:20260903T170000
-DTSTAMP:20260829T155644Z
+DTSTAMP:20260830T154149Z
 UID:b4d7f40b207cdd50b83a1f8de8c624@central-massachusetts-events
 DESCRIPTION:Ribbon Cutting ceremony to mark the grand opening of DG Kitche
  n Stone\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: htt
@@ -114,5 +87,34 @@ DESCRIPTION:Ribbon Cutting ceremony to mark the grand opening of DG Kitche
 LOCATION:00 PM EDT Location 589 Park Ave. Worcester\, Ma 01610
 URL:https://business.worcesterchamber.org/events/details/ribbon-cutting-dg
  -kitchen-stone-23974
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260906T093000
+DTEND:20260906T113000
+DTSTAMP:20260830T154149Z
+UID:7aa60469a1c0f1750fbe46a31149d3@central-massachusetts-events
+DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
+ h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
+ https://business.worcesterchamber.org/events/details/meditación-para-la-r
+ educción-del-estrés-en-español-spanish-session-09-06-2026-15895
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/meditación-para-
+ la-reducción-del-estrés-en-español-spanish-session-09-06-2026-15895
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260907T191500
+DTEND:20260907T211500
+DTSTAMP:20260830T154149Z
+UID:40f198e87c17171eaf01f4456a2a6f@central-massachusetts-events
+DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
+ mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
+ editation-mondays-09-07-2026-19573
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/meditation-monday
+ s-09-07-2026-19573
 END:VEVENT
 END:VCALENDAR
