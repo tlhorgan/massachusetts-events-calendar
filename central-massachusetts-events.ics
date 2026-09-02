@@ -6,34 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260901T171500
-DTEND:20260901T191500
-DTSTAMP:20260901T154526Z
-UID:58cf3e29a10a360a496ce0c36b06fe@central-massachusetts-events
-DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
-  Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
- ents/details/inner-harmony-breath-and-mantra-09-01-2026-23652
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/inner-harmony-bre
- ath-and-mantra-09-01-2026-23652
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:State Primary Election
-DTSTART:20260901T070000
-DTEND:20260901T200000
-DTSTAMP:20260901T154526Z
-UID:26f6493ecd76c25df060aeb7d4b79c@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/state-primary-election-0
-LOCATION:City-Wide - Map It
-URL:https://www.worcesterma.gov/calendar/state-primary-election-0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20260902T150000
 DTEND:20260902T170000
-DTSTAMP:20260901T154526Z
+DTSTAMP:20260902T153453Z
 UID:44a0df216abe3f94f88b6cf03ce2fd@central-massachusetts-events
 DESCRIPTION:Ribbon Cutting - Keller Williams Pinnacle Central\n\nSource: W
  orcester Regional Chamber of Commerce\nEvent page: https://business.worces
@@ -48,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch Festival & Farmers’ Market - Honeycomb
 DTSTART:20260902T110000
 DTEND:20260902T150000
-DTSTAMP:20260901T154526Z
+DTSTAMP:20260902T153453Z
 UID:0fcbcd1eddcf10dcdfaba60bc7406a@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/out-lunch-festival-farmers-market-honeycomb
@@ -60,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260903T150000
 DTEND:20260903T170000
-DTSTAMP:20260901T154526Z
+DTSTAMP:20260902T153453Z
 UID:b4d7f40b207cdd50b83a1f8de8c624@central-massachusetts-events
 DESCRIPTION:Ribbon Cutting ceremony to mark the grand opening of DG Kitche
  n Stone\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: htt
@@ -74,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260906T093000
 DTEND:20260906T113000
-DTSTAMP:20260901T154526Z
+DTSTAMP:20260902T153453Z
 UID:7aa60469a1c0f1750fbe46a31149d3@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -89,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260907T191500
 DTEND:20260907T211500
-DTSTAMP:20260901T154526Z
+DTSTAMP:20260902T153453Z
 UID:40f198e87c17171eaf01f4456a2a6f@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -103,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260908T171500
 DTEND:20260908T191500
-DTSTAMP:20260901T154526Z
+DTSTAMP:20260902T153453Z
 UID:6f0b18f361105d6031bd241b269309@central-massachusetts-events
 DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
   Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
@@ -117,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch Festival & Farmers’ Market - Acoustic Winos
 DTSTART:20260909T110000
 DTEND:20260909T150000
-DTSTAMP:20260901T154526Z
+DTSTAMP:20260902T153453Z
 UID:f38fb8d378a490bf182e814a187c1e@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/out-lunch-festival-farmers-market-acoustic-wi
@@ -128,17 +103,35 @@ URL:https://www.worcesterma.gov/calendar/out-lunch-festival-farmers-market
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260910T080000
-DTEND:20260910T100000
-DTSTAMP:20260901T154526Z
-UID:666247258dd6f925526da56e9c99ff@central-massachusetts-events
-DESCRIPTION:Networking\, Breakfast Club\, salutes\n\nSource: Worcester Reg
- ional Chamber of Commerce\nEvent page: https://business.worcesterchamber.o
- rg/events/details/the-breakfast-club-at-the-college-of-the-holy-cross-1949
- 0
-LOCATION:00 AM EDT Location College of the Holy Cross Hogan Center 1 Colle
- ge St. Worcester\, MA 01610
-URL:https://business.worcesterchamber.org/events/details/the-breakfast-clu
- b-at-the-college-of-the-holy-cross-19490
+DTSTART:20260910T170000
+DTEND:20260910T190000
+DTSTAMP:20260902T153453Z
+UID:b2528da8c94f247e8f2b5db7d23baf@central-massachusetts-events
+DESCRIPTION:This one-of-a-kind event appeals to a diverse audience\, featu
+ ring multicultural cuisine from local restauranteurs\, an Online Auction\,
+  a Live Auction\, an inspiring award ceremony\, and more. Champions for Ch
+ ildren raises vital funds to help LOCAL children thrive despite the odds b
+ eing against them. The funds raised w...\n\nSource: Worcester Regional Cha
+ mber of Commerce\nEvent page: https://business.worcesterchamber.org/events
+ /details/8th-annual-champions-for-children-23894
+LOCATION:100 Madison St. Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/8th-annual-champi
+ ons-for-children-23894
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260911T093000
+DTEND:20260911T113000
+DTSTAMP:20260902T153453Z
+UID:1411fd8546f711db8f97213deab86d@central-massachusetts-events
+DESCRIPTION:Double your close rate in this hands-on 2-day sales workshop b
+ ased on Grant Cardone's 10X System. Learn sales\, marketing & systems to s
+ cale\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: https:
+ //business.worcesterchamber.org/events/details/10x-sales-system-interactiv
+ e-workshop-23941
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/10x-sales-system-
+ interactive-workshop-23941
 END:VEVENT
 END:VCALENDAR

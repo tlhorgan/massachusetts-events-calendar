@@ -4,50 +4,10 @@ PRODID:-//Combined Massachusetts Events Calendar//EN
 X-WR-CALNAME:Massachusetts Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Adult D&D Night
-DTSTART:20260901T180000
-DTEND:20260901T210000
-DTSTAMP:20260901T154625Z
-UID:568c65ffbf0bece57b46d4647b03db@massachusetts-events
-DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-149/
-LOCATION:PM Conference Room Northborough Free Library\, 34 Main St\, North
- borough\, MA 01532
-URL:https://northboroughlibrary.assabetinteractive.com/calendar/adult-d-d-
- night-149/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Social Worker Drop-In Hours
-DTSTART:20260901T150000
-DTEND:20260901T170000
-DTSTAMP:20260901T154625Z
-UID:99efe76c7884931c4731df41f15c3b@massachusetts-events
-DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
- 9/
-LOCATION:PM Teen & Adult Program Room Northborough Free Library\, 34 Main 
- St\, Northborough\, MA 01532
-URL:https://northboroughlibrary.assabetinteractive.com/calendar/social-wor
- ker-drop-in-hours-9/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Book Group
-DTSTART:20260901T130000
-DTEND:20260901T140000
-DTSTAMP:20260901T154625Z
-UID:facdbfc60c7a1f792a18b4c60fd61b@massachusetts-events
-DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/tuesday-book-group-35/
-LOCATION:PM Conference Room Northborough Free Library\, 34 Main St\, North
- borough\, MA 01532
-URL:https://northboroughlibrary.assabetinteractive.com/calendar/tuesday-bo
- ok-group-35/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Tutoring
 DTSTART:20260902T140000
 DTEND:20260902T143000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2037237e9375ba0424d2ad2e34a45f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/tech-tutoring-505/
@@ -60,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Tips for Being News Savvy Online
 DTSTART:20260903T100000
 DTEND:20260903T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:8eb1703cedac972cdb6660d13c98ff@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/tips-for-being-news-savvy-on
@@ -74,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20260908T180000
 DTEND:20260908T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:4e3a9abe21c4ce8c3ab651b7854214@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-150/
@@ -87,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Create Club
 DTSTART:20260908T180000
 DTEND:20260908T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:6c2bb2f00bbb851fbd494a0b1fa16e@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/creat-club/
@@ -100,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20260908T100000
 DTEND:20260908T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:f4758832b9fea909274956ac72fa1d@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-99/
@@ -113,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20260908T170000
 DTEND:20260908T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:188173955b4074763cd01a4a98b456@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -127,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20260909T103000
 DTEND:20260909T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:118f42e32529126f9ee0824d4b9115@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-81/
@@ -140,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20260909T100000
 DTEND:20260909T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:bc46405c2b7c93a8bbdbb7bd1134bf@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-53/
@@ -153,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Roblox Club
 DTSTART:20260909T180000
 DTEND:20260909T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:9847c41f10da2ae0915e298d626add@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/roblox-club-23/
@@ -166,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Tech Tutoring
 DTSTART:20260909T140000
 DTEND:20260909T143000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:ccba28877c127d1627072df5dbda55@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/tech-tutoring-511/
@@ -179,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Tween Minecraft Club
 DTSTART:20260909T180000
 DTEND:20260909T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:4545efcbd91399d5eb9e6b29c0971f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/minecraft-club-jr-5/
@@ -192,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Digital Genealogy Tools
 DTSTART:20260910T100000
 DTEND:20260910T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:253ff23ada9f336c354ca94658e9d9@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/digital-genealogy-tools/
@@ -205,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20260910T110000
 DTEND:20260910T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e6145012d2406ef30129ba85f7dc72@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/preschool-time-236/
@@ -218,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20260911T103000
 DTEND:20260911T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:f34cc7406ea8e9b1426b9de6143610@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-99/
@@ -231,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20260911T100000
 DTEND:20260911T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:84e4d22f87cd8692fc313ebfe3360b@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-267/
@@ -244,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons & Dragons for Beginners and Beyond
 DTSTART:20260912T120000
 DTEND:20260912T150000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e772f3505fb219ef6c57d1539c4989@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/dungeons-dragons-for-beginne
@@ -258,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20260912T100000
 DTEND:20260912T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:cac44cbd16108ce694edd6c7d65984@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-95/
@@ -271,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:LEGO Club
 DTSTART:20260914T163000
 DTEND:20260914T173000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:9a865b74bd518ec60e1a36fed6ef50@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/lego-club-25/
@@ -284,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Middle School Anime & Manga Club
 DTSTART:20260914T190000
 DTEND:20260914T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:7b8a1502603ef8b965685840255baf@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/middle-school-anime-manga-cl
@@ -298,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20260915T180000
 DTEND:20260915T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:42c062fa8e6e02fc3ed15aea2f19bc@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-151/
@@ -311,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED - Social Worker Drop-In Hours
 DTSTART:20260915T150000
 DTEND:20260915T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:063a9325e266c58bc616fa9872c27f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -325,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Create Club\, Jr.
 DTSTART:20260915T180000
 DTEND:20260915T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:ad09efc124e3b41f7ac613a4e42882@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/creat-club-jr/
@@ -338,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20260915T100000
 DTEND:20260915T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:73d91aa2105dec0209ed1f8aa40333@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-100/
@@ -351,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20260916T103000
 DTEND:20260916T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:0ae6c5fff3d68283b0e7c6ccd8c42c@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-82/
@@ -364,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20260916T100000
 DTEND:20260916T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:83c7fb32d2a8fd8ea87197965867a0@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-54/
@@ -377,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:Minecraft Club
 DTSTART:20260916T180000
 DTEND:20260916T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:d6b1bc6b259d962e814673b408ab88@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/minecraft-club-20/
@@ -390,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:Tech Tutoring
 DTSTART:20260916T140000
 DTEND:20260916T143000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:37590da968dbe1a7cf68937fe62f39@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/tech-tutoring-517/
@@ -403,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Tween Game Night
 DTSTART:20260916T180000
 DTEND:20260916T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e986b83b3cd50d2327377761baa8c9@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/tween-game-night/
@@ -417,7 +377,7 @@ SUMMARY:Understanding A.I and Misinformation: A Conversation with Journali
  st Philip Eil
 DTSTART:20260916T180000
 DTEND:20260916T193000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:f653f3fe437a5756cea0c6b530d550@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/ai-misinformation-w-phil-eil
@@ -431,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Affordable Home Internet
 DTSTART:20260917T100000
 DTEND:20260917T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:5277a8c38bec7454546d0edf4e35b0@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/affordable-home-internet/
@@ -444,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20260917T110000
 DTEND:20260917T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:7378728968498c28778930220ef4f1@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/preschool-time-237/
@@ -457,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20260918T103000
 DTEND:20260918T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:6b3515c8d3023b9fdcf9b695dcb11a@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-100/
@@ -470,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20260918T100000
 DTEND:20260918T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:97e1e19333c01fa7aa8c3a42a5e2ea@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-268/
@@ -483,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons & Dragons for Beginners and Beyond
 DTSTART:20260919T120000
 DTEND:20260919T150000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:f92fad58d0be8f5b3342ddd32d8f80@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/dungeons-dragons-for-beginne
@@ -497,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20260919T100000
 DTEND:20260919T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:79dcaa23c675a2a3cb5f59c632a35f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-96/
@@ -510,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:Seed Collecting
 DTSTART:20260919T100000
 DTEND:20260919T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:4bd623180308dcc6d2c3a2546ea546@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/seed-collecting/
@@ -522,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:Crafternoon: Apple Craft
 DTSTART:20260921T130000
 DTEND:20260921T150000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:f2ed081d70ed82e8375e1eb255b00e@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/crafternoon-apple-craft/
@@ -535,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:Drop in Gaming
 DTSTART:20260921T120000
 DTEND:20260921T140000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:d3d0b766ff6442b8aa9b46a9084797@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/drop-in-gaming-39/
@@ -548,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Kindergarten Book Club
 DTSTART:20260921T163000
 DTEND:20260921T171500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e14245646b4e013deed0bd0a4abe58@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/kindergarten-book-club-14/
@@ -561,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:Nintendo Switch Open Play
 DTSTART:20260921T130000
 DTEND:20260921T150000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:b81184ff547151b643f5ecde13352e@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/nintendo-switch-open-play-11
@@ -575,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20260922T180000
 DTEND:20260922T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:fe1381527e4041989081fcd8fc012e@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-152/
@@ -588,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:Graphic Novel Book Club
 DTSTART:20260922T180000
 DTEND:20260922T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:0012289e2f1f34f7ac634cda2dfa74@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/graphic-novel-book-club-16/
@@ -601,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20260922T100000
 DTEND:20260922T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:39487063b5bcf73bd05c16bb5776c1@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-101/
@@ -614,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20260922T170000
 DTEND:20260922T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:64340aaa65fd1131dac2636719ff3d@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -628,7 +588,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20260923T103000
 DTEND:20260923T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e8cc3f921c537b08986c1b92668ec9@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-83/
@@ -641,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20260923T100000
 DTEND:20260923T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:7417e23f591e3a0506c7f482a51bcf@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-55/
@@ -654,7 +614,7 @@ BEGIN:VEVENT
 SUMMARY:High School Anime & Manga Club
 DTSTART:20260923T190000
 DTEND:20260923T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:c83502468e6ab64801ec65a774c17b@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/high-school-anime-manga-club
@@ -668,7 +628,7 @@ BEGIN:VEVENT
 SUMMARY:Pokémon Club
 DTSTART:20260923T180000
 DTEND:20260923T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:72bd73081b7786aa12a6a49cf5871a@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/pok-mon-club/
@@ -681,7 +641,7 @@ BEGIN:VEVENT
 SUMMARY:Tech Tutoring
 DTSTART:20260923T140000
 DTEND:20260923T143000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:8a54fc14f81a77f342071aa71d8775@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/tech-tutoring-523/
@@ -694,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:Anti-Virus & Malware Removal Programs At a Glance
 DTSTART:20260924T100000
 DTEND:20260924T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:63d0f1e284c51ca1beb65afd6b7e34@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/anti-virus-malware-removal-p
@@ -708,7 +668,7 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20260924T110000
 DTEND:20260924T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e35ab6b9f2c8af00f09f0f8956dc9d@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/preschool-time-235/
@@ -721,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:Applefest Meditation
 DTSTART:20260925T120000
 DTEND:20260925T123000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:a29f77c494c2a988e76e235c19cdec@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/applefest-meditation/
@@ -734,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED - Toddler Play Zone
 DTSTART:20260925T103000
 DTEND:20260925T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:f4c85baf60f6cc2245198048c54ed6@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-101/
@@ -747,7 +707,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED - Toddler Time
 DTSTART:20260925T100000
 DTEND:20260925T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:9289b35f9b3db440e1db097bc97ab1@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-269/
@@ -760,7 +720,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons & Dragons for Beginners and Beyond
 DTSTART:20260926T120000
 DTEND:20260926T150000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:20e64a89112193bf1854b353152ae3@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/dungeons-dragons-for-beginne
@@ -774,7 +734,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20260926T100000
 DTEND:20260926T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2324086a59d8b8b777b0a42532fef6@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-97/
@@ -787,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:Storybook Garden Club
 DTSTART:20260926T110000
 DTEND:20260926T120000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:01309709e28ce2f0b4974f32198166@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/storybook-garden-club-14/
@@ -800,7 +760,7 @@ BEGIN:VEVENT
 SUMMARY:1st & 2nd Grade Book Club
 DTSTART:20260928T163000
 DTEND:20260928T171500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:005024c0db0b679ac578e9982e3c3d@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/1st-2nd-grade-book-club/
@@ -813,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:T.A.G. (Teen Advisory Group)
 DTSTART:20260928T190000
 DTEND:20260928T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:edec5518a58c7fd6694d9fb202a3df@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/t-a-g-teen-advisory-group-21
@@ -827,7 +787,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20260929T180000
 DTEND:20260929T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:7f7c2aadf192c219480a4993b3ec07@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-153/
@@ -840,7 +800,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20260929T100000
 DTEND:20260929T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:ab181adbbfeb5b525a8c5a01778ccf@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-102/
@@ -853,7 +813,7 @@ BEGIN:VEVENT
 SUMMARY:Pokémon Club\, Jr.
 DTSTART:20260929T180000
 DTEND:20260929T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:db9abeaf4f5d903d2a4ee50d102167@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/pok-mon-club-jr/
@@ -866,7 +826,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20260929T150000
 DTEND:20260929T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:4afa488f133c9380077c55c70bfda2@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -880,7 +840,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20260930T103000
 DTEND:20260930T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:cf6f9181a8282479a068e10fb40c8a@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-84/
@@ -893,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20260930T100000
 DTEND:20260930T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:4c3d678d8c492c8d2e52df4242d87a@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-56/
@@ -906,7 +866,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20260930T180000
 DTEND:20260930T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:d486587b83f92cdc55c23ea6bf5c99@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club/
@@ -919,7 +879,7 @@ BEGIN:VEVENT
 SUMMARY:Roblox Club
 DTSTART:20260930T180000
 DTEND:20260930T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2e14a3de035b25f9b1ef40cef8c8cf@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/roblox-club-24/
@@ -932,7 +892,7 @@ BEGIN:VEVENT
 SUMMARY:Tech Tutoring
 DTSTART:20260930T140000
 DTEND:20260930T143000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1c115aa94250b1a980f65201b8ee5c@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/tech-tutoring-529/
@@ -945,7 +905,7 @@ BEGIN:VEVENT
 SUMMARY:Tween Time
 DTSTART:20260930T180000
 DTEND:20260930T193000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2b96e758119cf69a58fbeba10686cb@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/tween-time-19/
@@ -958,20 +918,33 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20261001T110000
 DTEND:20261001T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:8f2b4c317efaac8340c49a66e5887c@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/preschool-time-238/
+ oroughlibrary.assabetinteractive.com/calendar/preschool-time-248/
 LOCATION:AM Children's Program Room Northborough Free Library\, 34 Main St
  \, Northborough\, MA 01532
 URL:https://northboroughlibrary.assabetinteractive.com/calendar/preschool-
- time-238/
+ time-248/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Scientists
+DTSTART:20261001T130000
+DTEND:20261001T140000
+DTSTAMP:20260902T153620Z
+UID:f64a959041e1b0a2890cf31f96a2e3@massachusetts-events
+DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
+ oroughlibrary.assabetinteractive.com/calendar/young-scientists-55/
+LOCATION:PM Children's Program Room Northborough Free Library\, 34 Main St
+ \, Northborough\, MA 01532
+URL:https://northboroughlibrary.assabetinteractive.com/calendar/young-scie
+ ntists-55/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20261002T103000
 DTEND:20261002T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:7dc9ffd566efc1a7c0156249bb3c19@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-102/
@@ -984,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261002T100000
 DTEND:20261002T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:8530857939bcc2d79ba167d9557123@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-270/
@@ -997,7 +970,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons & Dragons for Beginners and Beyond
 DTSTART:20261003T120000
 DTEND:20261003T150000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1376e6c7cd3d45bd9095ce29709b81@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/dungeons-dragons-for-beginne
@@ -1011,7 +984,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261003T100000
 DTEND:20261003T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:cb408f8473b5f1058c4f1dbd1d8400@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-98/
@@ -1024,7 +997,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261006T180000
 DTEND:20261006T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:39d0ff9c1b7c34bcbc13946d2e0d66@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-154/
@@ -1037,7 +1010,7 @@ BEGIN:VEVENT
 SUMMARY:Drop in Gaming
 DTSTART:20261006T150000
 DTEND:20261006T160000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:17c939229f0a6728efeb0bb68f831f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/drop-in-gaming-40/
@@ -1050,7 +1023,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261006T100000
 DTEND:20261006T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:6142ad1fb538806b6d31cf550bb390@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-103/
@@ -1063,7 +1036,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261006T150000
 DTEND:20261006T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:cdfbd9f7916b85564dde5cc9046a76@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -1077,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesday Book Group
 DTSTART:20261006T130000
 DTEND:20261006T140000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:0cf7bb6bcf14604d34f5a20ee0a815@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/tuesday-book-group-36/
@@ -1090,7 +1063,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261007T103000
 DTEND:20261007T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:36888a16c8fb88e2c7ee20e8499d52@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-85/
@@ -1103,7 +1076,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261007T100000
 DTEND:20261007T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:05280b50cdd97a2929cae4eabfc5af@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-57/
@@ -1116,7 +1089,7 @@ BEGIN:VEVENT
 SUMMARY:Middle School Anime & Manga Club
 DTSTART:20261007T190000
 DTEND:20261007T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2de5e588309eb9237408781512c800@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/middle-school-anime-manga-cl
@@ -1130,20 +1103,33 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20261008T110000
 DTEND:20261008T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:ba7cd9ca2f02be7aec8f85fc5e1a47@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/preschool-time-239/
+ oroughlibrary.assabetinteractive.com/calendar/preschool-time-249/
 LOCATION:AM Children's Program Room Northborough Free Library\, 34 Main St
  \, Northborough\, MA 01532
 URL:https://northboroughlibrary.assabetinteractive.com/calendar/preschool-
- time-239/
+ time-249/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Scientists
+DTSTART:20261008T130000
+DTEND:20261008T140000
+DTSTAMP:20260902T153620Z
+UID:252c7ad121e5d0fa599eadb90d089a@massachusetts-events
+DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
+ oroughlibrary.assabetinteractive.com/calendar/young-scientists-56/
+LOCATION:PM Children's Program Room Northborough Free Library\, 34 Main St
+ \, Northborough\, MA 01532
+URL:https://northboroughlibrary.assabetinteractive.com/calendar/young-scie
+ ntists-56/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20261009T103000
 DTEND:20261009T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:7d58c5906cc14ba6c76927d4069ccc@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-103/
@@ -1156,7 +1142,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261009T100000
 DTEND:20261009T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:965253b4ff4baf2b833b33f1d53da4@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-271/
@@ -1169,7 +1155,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons & Dragons for Beginners and Beyond
 DTSTART:20261010T120000
 DTEND:20261010T150000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:a0a881ec3afa80c880e48f3b9e98d9@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/dungeons-dragons-for-beginne
@@ -1183,7 +1169,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261010T100000
 DTEND:20261010T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:84873078c38bfbe57ecc4908be5a83@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-99/
@@ -1196,7 +1182,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261013T180000
 DTEND:20261013T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:fb4e7aaae2fef04011ced0d1b81630@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-155/
@@ -1209,7 +1195,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261013T100000
 DTEND:20261013T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:110547d02325f9ec3174f09ebf4ba4@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-104/
@@ -1222,7 +1208,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261013T170000
 DTEND:20261013T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:81356314b75008eaabf1548fbf19a6@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -1236,7 +1222,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261014T103000
 DTEND:20261014T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:ae976fc22b829b34420f4c680a05b6@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-86/
@@ -1249,7 +1235,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261014T100000
 DTEND:20261014T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e6100164e121760facbb021052f4d6@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-58/
@@ -1262,7 +1248,7 @@ BEGIN:VEVENT
 SUMMARY:High School Anime & Manga Club
 DTSTART:20261014T190000
 DTEND:20261014T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:c7169785f9c01a866c84b82b35c9d7@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/high-school-anime-manga-club
@@ -1276,20 +1262,33 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20261015T110000
 DTEND:20261015T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1b7fa5d3f365bddbe207a6fc0573df@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/preschool-time-240/
+ oroughlibrary.assabetinteractive.com/calendar/preschool-time-250/
 LOCATION:AM Children's Program Room Northborough Free Library\, 34 Main St
  \, Northborough\, MA 01532
 URL:https://northboroughlibrary.assabetinteractive.com/calendar/preschool-
- time-240/
+ time-250/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Scientists
+DTSTART:20261015T130000
+DTEND:20261015T140000
+DTSTAMP:20260902T153620Z
+UID:c83a4ca64c777811404d3c30521f50@massachusetts-events
+DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
+ oroughlibrary.assabetinteractive.com/calendar/young-scientists-57/
+LOCATION:PM Children's Program Room Northborough Free Library\, 34 Main St
+ \, Northborough\, MA 01532
+URL:https://northboroughlibrary.assabetinteractive.com/calendar/young-scie
+ ntists-57/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20261016T103000
 DTEND:20261016T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:eeedfa713766cab17ffb4a134ff180@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-104/
@@ -1302,7 +1301,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261016T100000
 DTEND:20261016T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e717d754c40e194defa2e41661307a@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-272/
@@ -1315,7 +1314,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons & Dragons for Beginners and Beyond
 DTSTART:20261017T120000
 DTEND:20261017T150000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:b0f190b0d23a310f138d061e652786@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/dungeons-dragons-for-beginne
@@ -1329,7 +1328,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261017T100000
 DTEND:20261017T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:33c5474cd187a906319fd0d6484e19@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-100/
@@ -1342,7 +1341,7 @@ BEGIN:VEVENT
 SUMMARY:Drop in Gaming
 DTSTART:20261019T150000
 DTEND:20261019T160000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:56954b3c3862d2ff6ac09191f97c76@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/drop-in-gaming-41/
@@ -1355,7 +1354,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261020T180000
 DTEND:20261020T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:96ec35e6fc5b65c3c0361753c1b59a@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-156/
@@ -1368,7 +1367,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261020T100000
 DTEND:20261020T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:fe1b6f6c6bf5ddcdb5201bf601f80a@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-105/
@@ -1381,7 +1380,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261020T150000
 DTEND:20261020T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:b75211eb54f382650e80fb558d242c@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -1396,7 +1395,7 @@ SUMMARY:Writing Coastal New England and My Path to Publication: Author Eve
  nt with Jenn Bouchard
 DTSTART:20261020T183000
 DTEND:20261020T193000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:a018b8b1a6fbc82c2cfab2330011ad@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/writing-coastal-new-england-
@@ -1411,7 +1410,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261021T103000
 DTEND:20261021T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:bf268f6c94a73302a062fd823d1fd0@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-87/
@@ -1424,7 +1423,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261021T100000
 DTEND:20261021T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:59cdde3208e84790c86a2d998a67fd@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-59/
@@ -1437,7 +1436,7 @@ BEGIN:VEVENT
 SUMMARY:Ember Games
 DTSTART:20261021T180000
 DTEND:20261021T193000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:094dd93b9d3bf1c955acb4d61270e9@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/ember-games-2/
@@ -1450,20 +1449,33 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20261022T110000
 DTEND:20261022T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:4956700f62b65d89ac37e9129c6409@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/preschool-time-241/
+ oroughlibrary.assabetinteractive.com/calendar/preschool-time-251/
 LOCATION:AM Children's Program Room Northborough Free Library\, 34 Main St
  \, Northborough\, MA 01532
 URL:https://northboroughlibrary.assabetinteractive.com/calendar/preschool-
- time-241/
+ time-251/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Scientists
+DTSTART:20261022T130000
+DTEND:20261022T140000
+DTSTAMP:20260902T153620Z
+UID:1a5e01f9b19f32af5b05e0976bb976@massachusetts-events
+DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
+ oroughlibrary.assabetinteractive.com/calendar/young-scientists-58/
+LOCATION:PM Children's Program Room Northborough Free Library\, 34 Main St
+ \, Northborough\, MA 01532
+URL:https://northboroughlibrary.assabetinteractive.com/calendar/young-scie
+ ntists-58/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20261023T103000
 DTEND:20261023T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:a7ec4622b7e5fc18441aef8fcfd540@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-105/
@@ -1476,7 +1488,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261023T100000
 DTEND:20261023T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:65070b35ae488b5e312b913ee56145@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-273/
@@ -1489,7 +1501,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons & Dragons for Beginners and Beyond
 DTSTART:20261024T120000
 DTEND:20261024T150000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:09ddedd34bd1037ad348f224a23f2b@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/dungeons-dragons-for-beginne
@@ -1503,7 +1515,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261024T100000
 DTEND:20261024T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:60b86c0b4e8380ece1613ca97203eb@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-101/
@@ -1516,7 +1528,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Candy Houses
 DTSTART:20261026T180000
 DTEND:20261026T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e09a3a9829449764c1f36cb679967d@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/haunted-candy-houses/
@@ -1529,7 +1541,7 @@ BEGIN:VEVENT
 SUMMARY:T.A.G. (Teen Advisory Group)
 DTSTART:20261026T190000
 DTEND:20261026T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:bf609d4b203f31da7fd6fca6069600@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/t-a-g-teen-advisory-group-22
@@ -1543,7 +1555,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261027T180000
 DTEND:20261027T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:fe28a4bd1c4c67955485c01a4d7222@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-157/
@@ -1556,7 +1568,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261027T100000
 DTEND:20261027T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1e49ba56dc1b174ef4ef7e3b0c96c3@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-106/
@@ -1569,7 +1581,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261027T170000
 DTEND:20261027T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:ea92c06d3e30ab5ebe388a464cec50@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -1583,7 +1595,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261028T103000
 DTEND:20261028T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:3b7c2ee2c459d5e58ed1b4e5145984@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-88/
@@ -1596,7 +1608,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261028T100000
 DTEND:20261028T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:9feb63ee1df7a7ed80f18808f2adfb@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-60/
@@ -1609,7 +1621,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20261028T180000
 DTEND:20261028T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:30e962ea46bd94471fbe39ea9ef26f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club-2/
@@ -1622,7 +1634,7 @@ BEGIN:VEVENT
 SUMMARY:Roblox Club
 DTSTART:20261028T180000
 DTEND:20261028T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:115daaf569f288554a35f373ccc802@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/roblox-club-25/
@@ -1635,20 +1647,33 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20261029T110000
 DTEND:20261029T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:6eda808fd076a5e76bf8a9e683592e@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/preschool-time-242/
+ oroughlibrary.assabetinteractive.com/calendar/preschool-time-252/
 LOCATION:AM Children's Program Room Northborough Free Library\, 34 Main St
  \, Northborough\, MA 01532
 URL:https://northboroughlibrary.assabetinteractive.com/calendar/preschool-
- time-242/
+ time-252/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Scientists
+DTSTART:20261029T130000
+DTEND:20261029T140000
+DTSTAMP:20260902T153620Z
+UID:d59ca74474527b890786bb90fb892b@massachusetts-events
+DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
+ oroughlibrary.assabetinteractive.com/calendar/young-scientists-59/
+LOCATION:PM Children's Program Room Northborough Free Library\, 34 Main St
+ \, Northborough\, MA 01532
+URL:https://northboroughlibrary.assabetinteractive.com/calendar/young-scie
+ ntists-59/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELED - Toddler Play Zone
 DTSTART:20261030T103000
 DTEND:20261030T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1d4fca76639a272618ad8da72fcfee@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-106/
@@ -1661,7 +1686,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261030T100000
 DTEND:20261030T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:cef122953ade95df968280e0e35867@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-274/
@@ -1674,7 +1699,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED - Saturday Storytime
 DTSTART:20261031T100000
 DTEND:20261031T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:884751912acc5855bfc5a08f28f868@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-102/
@@ -1687,7 +1712,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons & Dragons for Beginners and Beyond
 DTSTART:20261031T120000
 DTEND:20261031T150000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:66e75f2f9de62e67f4964718351a90@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/dungeons-dragons-for-beginne
@@ -1701,7 +1726,7 @@ BEGIN:VEVENT
 SUMMARY:Roblox Club
 DTSTART:20261102T180000
 DTEND:20261102T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:6834d03ea638c4b70c8862375e5396@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/roblox-club-26/
@@ -1714,7 +1739,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261103T180000
 DTEND:20261103T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:dc78801ed3271887c79bc8521ef6e5@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-158/
@@ -1727,7 +1752,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261103T100000
 DTEND:20261103T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:c67d7c311bb402cf457086cf941c70@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-107/
@@ -1740,7 +1765,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261103T150000
 DTEND:20261103T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:bcc92daae92d93d354663bc17df325@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -1754,7 +1779,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261104T103000
 DTEND:20261104T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:3a4a1a5fe7c2a54cf816b5650888de@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-89/
@@ -1767,7 +1792,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261104T100000
 DTEND:20261104T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:9e13bb7e98f1454f9981ef3bee97d5@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-121/
@@ -1780,7 +1805,7 @@ BEGIN:VEVENT
 SUMMARY:Middle School Anime & Manga Club
 DTSTART:20261104T190000
 DTEND:20261104T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e549931e19458362d9b63bcff09ab9@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/middle-school-anime-manga-cl
@@ -1791,10 +1816,23 @@ URL:https://northboroughlibrary.assabetinteractive.com/calendar/middle-sch
  ool-anime-manga-club-10/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELED - Preschool Time
+DTSTART:20261105T110000
+DTEND:20261105T114500
+DTSTAMP:20260902T153620Z
+UID:77fcab34a8ccf927244a44bdcd3e22@massachusetts-events
+DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
+ oroughlibrary.assabetinteractive.com/calendar/preschool-time-253/
+LOCATION:AM Children's Program Room Northborough Free Library\, 34 Main St
+ \, Northborough\, MA 01532
+URL:https://northboroughlibrary.assabetinteractive.com/calendar/preschool-
+ time-253/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CANCELED - Toddler Play Zone
 DTSTART:20261106T103000
 DTEND:20261106T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:bc53083b26c7df51f2afb5c8ad7f7c@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-107/
@@ -1807,7 +1845,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261106T100000
 DTEND:20261106T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:20118f4f949d39b3f935585d324e27@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-275/
@@ -1820,7 +1858,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED - Saturday Storytime
 DTSTART:20261107T100000
 DTEND:20261107T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:b92f33d327d7b3e3e005eca518f056@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-103/
@@ -1833,7 +1871,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons & Dragons for Beginners and Beyond
 DTSTART:20261107T120000
 DTEND:20261107T150000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e4f8a970869b3af9f8ffa0f936a0c6@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/dungeons-dragons-for-beginne
@@ -1847,7 +1885,7 @@ BEGIN:VEVENT
 SUMMARY:Live Hungry Hungry Hippos
 DTSTART:20261109T180000
 DTEND:20261109T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:c7dbf7c45878d19c647b44f3bb2acf@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/live-hungry-hungry-hippos/
@@ -1860,7 +1898,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261110T180000
 DTEND:20261110T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:186659e3b664f1d5b0cb9e787bb97a@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-159/
@@ -1873,7 +1911,7 @@ BEGIN:VEVENT
 SUMMARY:Drop in Gaming
 DTSTART:20261110T150000
 DTEND:20261110T160000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:56263fa479a9e9789aa87ed839af88@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/drop-in-gaming-42/
@@ -1886,7 +1924,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261110T100000
 DTEND:20261110T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:d652b0847882451ea9e887899d30f1@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-108/
@@ -1899,7 +1937,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261110T170000
 DTEND:20261110T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e8fe08661b7cef3a3fe153f3d542b4@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -1913,7 +1951,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261111T103000
 DTEND:20261111T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:31b903e61385a3327ad36c39fb97d3@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-90/
@@ -1926,7 +1964,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261111T100000
 DTEND:20261111T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:88740ddbad64952f3a8b08732f02e6@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-122/
@@ -1939,20 +1977,33 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20261112T110000
 DTEND:20261112T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:9e5005dc75c44e79d20d6dd7f29468@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/preschool-time-243/
+ oroughlibrary.assabetinteractive.com/calendar/preschool-time-254/
 LOCATION:AM Children's Program Room Northborough Free Library\, 34 Main St
  \, Northborough\, MA 01532
 URL:https://northboroughlibrary.assabetinteractive.com/calendar/preschool-
- time-243/
+ time-254/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Scientists
+DTSTART:20261112T130000
+DTEND:20261112T140000
+DTSTAMP:20260902T153620Z
+UID:0aaae9250f328050eb024ab2b9278f@massachusetts-events
+DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
+ oroughlibrary.assabetinteractive.com/calendar/young-scientists-61/
+LOCATION:PM Children's Program Room Northborough Free Library\, 34 Main St
+ \, Northborough\, MA 01532
+URL:https://northboroughlibrary.assabetinteractive.com/calendar/young-scie
+ ntists-61/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20261113T103000
 DTEND:20261113T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:80dd0e241cb757386e64defd10ff2c@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-108/
@@ -1965,7 +2016,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261113T100000
 DTEND:20261113T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1faec79c04bdedafc5115631e06ee0@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-276/
@@ -1978,7 +2029,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261114T100000
 DTEND:20261114T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:a85ce778e9de194e18cd3094e6a804@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-104/
@@ -1991,7 +2042,7 @@ BEGIN:VEVENT
 SUMMARY:Drop in Gaming
 DTSTART:20261116T150000
 DTEND:20261116T160000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:903f8b70490433b9587b6c33a0d8bd@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/drop-in-gaming-43/
@@ -2004,7 +2055,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261117T180000
 DTEND:20261117T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:9a7d1e9bcb18c920a8f49199cdce9f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-160/
@@ -2017,7 +2068,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261117T100000
 DTEND:20261117T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1bd444b6446f97478e2b307c4d2c75@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-109/
@@ -2030,7 +2081,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261117T150000
 DTEND:20261117T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:26eaaa78c511d7fac4c0c4664e7415@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -2044,7 +2095,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261118T103000
 DTEND:20261118T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:a6476428c01e569a43773e4f7476e6@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-91/
@@ -2057,7 +2108,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261118T100000
 DTEND:20261118T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:5ca756a1594ab1424a48116a208718@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-123/
@@ -2070,7 +2121,7 @@ BEGIN:VEVENT
 SUMMARY:High School Anime & Manga Club
 DTSTART:20261118T190000
 DTEND:20261118T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:9f24d03b7a8b83086affc5a2711f2f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/high-school-anime-manga-club
@@ -2084,7 +2135,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20261118T180000
 DTEND:20261118T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:261ea38474b39d04d553ece9bccb3a@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club-3/
@@ -2097,20 +2148,20 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20261119T110000
 DTEND:20261119T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1589d10f5cd1799d6b9671c5655543@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/preschool-time-244/
+ oroughlibrary.assabetinteractive.com/calendar/preschool-time-255/
 LOCATION:AM Children's Program Room Northborough Free Library\, 34 Main St
  \, Northborough\, MA 01532
 URL:https://northboroughlibrary.assabetinteractive.com/calendar/preschool-
- time-244/
+ time-255/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20261120T103000
 DTEND:20261120T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:f9144042b5ca3c4e196291e6253b4b@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-109/
@@ -2123,7 +2174,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261120T100000
 DTEND:20261120T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:c786767e807207f9e26b30f71abd7c@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-277/
@@ -2136,7 +2187,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261121T100000
 DTEND:20261121T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:de0d9752187d8b5d1fc9c441875957@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-105/
@@ -2149,7 +2200,7 @@ BEGIN:VEVENT
 SUMMARY:Pumpkin Patch Dirt Cups
 DTSTART:20261123T180000
 DTEND:20261123T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2acbfa7cddd765292cf227d4d3346b@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/pumpkin-patch-dirt-cups/
@@ -2162,7 +2213,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261124T180000
 DTEND:20261124T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:19285333433397f18dba2eb28f7bbb@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-161/
@@ -2175,7 +2226,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261124T100000
 DTEND:20261124T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:7669885bdc927e01a56a8bed385f1a@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-110/
@@ -2188,7 +2239,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261124T170000
 DTEND:20261124T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:924d8d54e4761185f484bee34bd4e6@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -2202,7 +2253,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261125T103000
 DTEND:20261125T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:27a4a6e9fc74a1548a0be8a16a4a0b@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-92/
@@ -2215,7 +2266,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261125T100000
 DTEND:20261125T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2f3bc72d7d25e0b8d9193a8e1e5784@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-124/
@@ -2228,7 +2279,7 @@ BEGIN:VEVENT
 SUMMARY:Library Closing at 12pm
 DTSTART:20261125T120000
 DTEND:20261125T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:69a759c1a4ca1196b3bfb194521044@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/library-closing-at-12pm/
@@ -2241,7 +2292,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261128T100000
 DTEND:20261128T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:780d83f2d5f790860a44332c3ab0b0@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-106/
@@ -2254,7 +2305,7 @@ BEGIN:VEVENT
 SUMMARY:T.A.G. (Teen Advisory Group)
 DTSTART:20261130T190000
 DTEND:20261130T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e27125cff713c77b551fb9828586c7@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/t-a-g-teen-advisory-group-23
@@ -2268,7 +2319,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261201T180000
 DTEND:20261201T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:233648e82d368f5228ad3f08573b65@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-162/
@@ -2281,7 +2332,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261201T100000
 DTEND:20261201T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:38180b18e12a2256ffd162891e6af7@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-111/
@@ -2294,7 +2345,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261201T150000
 DTEND:20261201T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:3ae241b7570ccd9e6ff44d21ac0f5d@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -2308,7 +2359,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261202T103000
 DTEND:20261202T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:78fe19d1a9556da80f455e8c633d6e@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-93/
@@ -2321,7 +2372,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261202T100000
 DTEND:20261202T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:86eaca02bc168cb67b1cd98fb3022e@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-125/
@@ -2334,7 +2385,7 @@ BEGIN:VEVENT
 SUMMARY:Middle School Anime & Manga Club
 DTSTART:20261202T190000
 DTEND:20261202T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:8e1cf25246ea2f16762f6a3fb1697e@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/middle-school-anime-manga-cl
@@ -2348,20 +2399,20 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20261203T110000
 DTEND:20261203T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2bbf8d4025f91098ca4403113f7fbe@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/preschool-time-245/
+ oroughlibrary.assabetinteractive.com/calendar/preschool-time-257/
 LOCATION:AM Children's Program Room Northborough Free Library\, 34 Main St
  \, Northborough\, MA 01532
 URL:https://northboroughlibrary.assabetinteractive.com/calendar/preschool-
- time-245/
+ time-257/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELED - Toddler Time
 DTSTART:20261204T100000
 DTEND:20261204T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:43fd311fa16c2e6a72c31814647feb@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-279/
@@ -2374,7 +2425,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20261204T103000
 DTEND:20261204T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:eb1aba60d135542224bed424548557@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-111/
@@ -2387,7 +2438,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261205T100000
 DTEND:20261205T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1253d625ff8537a583023ccaf7f4e1@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-107/
@@ -2400,7 +2451,7 @@ BEGIN:VEVENT
 SUMMARY:DIY Winter Body Scrubs
 DTSTART:20261207T180000
 DTEND:20261207T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:99cfbcdb837e4961f68e6e5a8b571d@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/diy-winter-body-scrubs/
@@ -2413,7 +2464,7 @@ BEGIN:VEVENT
 SUMMARY:Drop in Gaming
 DTSTART:20261207T150000
 DTEND:20261207T160000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:c40e1b5fd4b951d841c3a698989467@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/drop-in-gaming-44/
@@ -2426,7 +2477,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261208T180000
 DTEND:20261208T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:b8e0b7113ea675a9a30da3387bd662@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-163/
@@ -2439,7 +2490,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261208T100000
 DTEND:20261208T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e5941c72fa63f7c46e299b22fd0396@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-112/
@@ -2452,7 +2503,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261208T170000
 DTEND:20261208T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:10b26756772ed9e5ad7354d7763116@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -2466,7 +2517,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261209T103000
 DTEND:20261209T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:82b99a66cc4637589d6823136e1835@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-94/
@@ -2479,7 +2530,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261209T100000
 DTEND:20261209T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:318296ad0e1df02ff8baedef4ce81c@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-126/
@@ -2492,7 +2543,7 @@ BEGIN:VEVENT
 SUMMARY:Roblox Club
 DTSTART:20261209T180000
 DTEND:20261209T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:be725eda8787cba1da370cdc64864f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/roblox-club-27/
@@ -2505,20 +2556,20 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20261210T110000
 DTEND:20261210T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1c5842fe814b077d700d9c906c1700@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/preschool-time-246/
+ oroughlibrary.assabetinteractive.com/calendar/preschool-time-258/
 LOCATION:AM Children's Program Room Northborough Free Library\, 34 Main St
  \, Northborough\, MA 01532
 URL:https://northboroughlibrary.assabetinteractive.com/calendar/preschool-
- time-246/
+ time-258/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20261211T103000
 DTEND:20261211T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:fe3ec4958af4f48178a71fbe62895f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-112/
@@ -2531,7 +2582,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261211T100000
 DTEND:20261211T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:c0f742c37b925de2a144cbe8f9dde9@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-280/
@@ -2544,7 +2595,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261212T100000
 DTEND:20261212T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:ba891635cdfea7e3ef49d4589f6be2@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-108/
@@ -2557,7 +2608,7 @@ BEGIN:VEVENT
 SUMMARY:T.A.G. (Teen Advisory Group)
 DTSTART:20261214T190000
 DTEND:20261214T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:fe494e8feee58443db05b657e87d69@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/t-a-g-teen-advisory-group-24
@@ -2571,7 +2622,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261215T180000
 DTEND:20261215T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:7eddb2cf0ec9a1ae05cdeb9d301bb4@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-164/
@@ -2584,7 +2635,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261215T100000
 DTEND:20261215T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:98a2dad30204f82add862416728a84@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/music-mashup-113/
@@ -2597,7 +2648,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261215T150000
 DTEND:20261215T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:935f98ea6c0039f259cc9c794f1b83@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -2611,7 +2662,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261216T103000
 DTEND:20261216T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:5b05e1cdc15bb10fc9358ec413d386@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-95/
@@ -2624,7 +2675,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261216T100000
 DTEND:20261216T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:376d5c2d020f99f2ab77557583ab84@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-127/
@@ -2637,7 +2688,7 @@ BEGIN:VEVENT
 SUMMARY:High School Anime & Manga Club
 DTSTART:20261216T190000
 DTEND:20261216T200000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:83b2a83dfba72e141699c7963e603d@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/high-school-anime-manga-club
@@ -2651,7 +2702,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20261216T180000
 DTEND:20261216T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:c04498e72735b50607ee8cba070b23@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club-4/
@@ -2664,7 +2715,7 @@ BEGIN:VEVENT
 SUMMARY:Closing at 2pm (Staff Development Day)
 DTSTART:20261217T140000
 DTEND:20261217T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:696f32d32b05e21b8deb42156553c5@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/closing-at-2pm-staff-develop
@@ -2678,20 +2729,20 @@ BEGIN:VEVENT
 SUMMARY:Preschool Time
 DTSTART:20261217T110000
 DTEND:20261217T114500
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:a7fbcea70602a3df6bc4434a49bffe@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
- oroughlibrary.assabetinteractive.com/calendar/preschool-time-247/
+ oroughlibrary.assabetinteractive.com/calendar/preschool-time-259/
 LOCATION:AM Children's Program Room Northborough Free Library\, 34 Main St
  \, Northborough\, MA 01532
 URL:https://northboroughlibrary.assabetinteractive.com/calendar/preschool-
- time-247/
+ time-259/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20261218T103000
 DTEND:20261218T113000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:46a3161f705533fcc0dca9b42cc65d@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-play-zone-113/
@@ -2704,7 +2755,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261218T100000
 DTEND:20261218T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:efea22aab4d407a4005ec8165ac9a1@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/toddler-time-281/
@@ -2717,7 +2768,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261219T100000
 DTEND:20261219T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:3e47cb29cf0485001af9d95c393826@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-109/
@@ -2730,7 +2781,7 @@ BEGIN:VEVENT
 SUMMARY:Drop in Gaming
 DTSTART:20261221T150000
 DTEND:20261221T160000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:f5ba3551f55723ec1b2bd7753bac8b@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/drop-in-gaming-45/
@@ -2743,7 +2794,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261222T180000
 DTEND:20261222T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:757b19905d484a7eeb1377a6a2ec49@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-165/
@@ -2756,7 +2807,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261222T170000
 DTEND:20261222T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e4736e2e78710ff881693ed8f4e89f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -2770,7 +2821,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261223T103000
 DTEND:20261223T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:43dc485804f1c4fceca7c097c35037@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-96/
@@ -2783,7 +2834,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261223T100000
 DTEND:20261223T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:fbca794a3627c89737c1a4365287c9@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-128/
@@ -2796,7 +2847,7 @@ BEGIN:VEVENT
 SUMMARY:Library Closing at 12pm
 DTSTART:20261224T120000
 DTEND:20261224T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:a45bf3efcf61e92795080fa0cb6467@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/library-closing-at-12pm-2/
@@ -2809,7 +2860,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261229T180000
 DTEND:20261229T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:9916977aa0f3eccc5f6206678b420c@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-166/
@@ -2822,7 +2873,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261229T150000
 DTEND:20261229T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:c17e06b6092d555c802cd21d4f2ed2@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-
@@ -2836,7 +2887,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261230T103000
 DTEND:20261230T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:0a0a355164fcdfa99701616d7d9282@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-playtime-97/
@@ -2849,7 +2900,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261230T100000
 DTEND:20261230T103000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:03bf6965c9569cb8b1b2103b3170d9@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/baby-storytime-129/
@@ -2862,7 +2913,7 @@ BEGIN:VEVENT
 SUMMARY:Library Closing at 12pm
 DTSTART:20261231T120000
 DTEND:20261231T170000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2c9930d680857218ab875f77389685@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/library-closing-at-12pm-3/
@@ -2875,7 +2926,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20270102T100000
 DTEND:20270102T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1ceba146546636e9ce2c22c27ba1f4@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-111/
@@ -2888,7 +2939,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270105T180000
 DTEND:20270105T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2bcce81da9a838a493b5e4fbb3ea4e@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-167/
@@ -2901,7 +2952,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20270109T100000
 DTEND:20270109T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:0d08a711340aede3ec5ea59846d876@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-112/
@@ -2914,7 +2965,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270112T180000
 DTEND:20270112T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:166c9f2db039d00316573c05e48078@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-168/
@@ -2927,7 +2978,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20270116T100000
 DTEND:20270116T110000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:ac122e9e7765bf47cd7a3e33733b03@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/saturday-storytime-113/
@@ -2940,7 +2991,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270119T180000
 DTEND:20270119T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:77809b61b8d289b3a631a34f1bb36d@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-169/
@@ -2953,7 +3004,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270126T180000
 DTEND:20270126T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:56b20aa428341048a8cc3c848b5a57@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-170/
@@ -2966,7 +3017,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20270127T180000
 DTEND:20270127T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:9c59225bbb25369ae2510b3410586a@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club-5/
@@ -2979,7 +3030,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270202T180000
 DTEND:20270202T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:d69bc7c58f173ed4be41f6bd3a4795@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-171/
@@ -2992,7 +3043,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270209T180000
 DTEND:20270209T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:a93a5a122420714c172f601566ec11@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-172/
@@ -3005,7 +3056,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270216T180000
 DTEND:20270216T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:6938d2ec1cfc98e18aba94bac02e96@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-173/
@@ -3018,7 +3069,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270223T180000
 DTEND:20270223T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e7e9cb791b2e9d081c151baf013862@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-174/
@@ -3031,7 +3082,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20270224T180000
 DTEND:20270224T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:28813bd24ee000bf5966a80bb42583@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club-6/
@@ -3044,7 +3095,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270302T180000
 DTEND:20270302T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2a2ca9fad8d3bc7180393e697b90f1@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-175/
@@ -3057,7 +3108,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270309T180000
 DTEND:20270309T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:45f5ac54a21d8bfebb7750d3f7e234@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-176/
@@ -3070,7 +3121,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270316T180000
 DTEND:20270316T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:60a983be8aedffce1b68baa70ca4f7@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-177/
@@ -3083,7 +3134,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270323T180000
 DTEND:20270323T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e0c359461191c4a9f76a7f0baf1c93@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-178/
@@ -3096,7 +3147,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270330T180000
 DTEND:20270330T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:2b827becde2b7d61aae2bad5cabd17@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-179/
@@ -3109,7 +3160,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20270331T180000
 DTEND:20270331T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1f1c9fc51a97137b226f16e0312904@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club-7/
@@ -3122,7 +3173,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270406T180000
 DTEND:20270406T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:3c67d2895b9b38fde3268eb8404215@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-180/
@@ -3135,7 +3186,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270413T180000
 DTEND:20270413T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:a3330150e48f44df69ed1ff2800126@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-181/
@@ -3148,7 +3199,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270420T180000
 DTEND:20270420T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:b907a6befe2126b64ae7e6383fa67c@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-182/
@@ -3161,7 +3212,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270427T180000
 DTEND:20270427T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:67b61e7ea29b169abbd3e467fccaf3@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-183/
@@ -3174,7 +3225,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20270428T180000
 DTEND:20270428T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:b9d5a581b3ed3ccda96ab3d5c92b88@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club-8/
@@ -3187,7 +3238,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270504T180000
 DTEND:20270504T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:1c06b5b0311d6fe9261a11792bdfc6@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-184/
@@ -3200,7 +3251,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270511T180000
 DTEND:20270511T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:6c987509170a967e75fcaaf8b8d26e@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-185/
@@ -3213,7 +3264,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270518T180000
 DTEND:20270518T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:459fc7ff6ebac00f737f164158030f@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-186/
@@ -3226,7 +3277,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270525T180000
 DTEND:20270525T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:c6f33123a1cc69b209ca8578a85158@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-187/
@@ -3239,7 +3290,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20270526T180000
 DTEND:20270526T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:d8f6231824feab03647822b6e74ad5@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club-9/
@@ -3252,7 +3303,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270601T180000
 DTEND:20270601T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:3f58cd8e16bc9d196b4aa24c56f6c0@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-188/
@@ -3265,7 +3316,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270608T180000
 DTEND:20270608T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:7b065f9b8fc38918aa70e4539889af@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-189/
@@ -3278,7 +3329,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270615T180000
 DTEND:20270615T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:8cccc5f8914af015d156474810437c@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-190/
@@ -3291,7 +3342,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270622T180000
 DTEND:20270622T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:ce6e975ce45d4c1a35e1993226c8ba@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-191/
@@ -3304,7 +3355,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270629T180000
 DTEND:20270629T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:50c6caf457af6c6c239122f1538ecd@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-192/
@@ -3317,7 +3368,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20270630T180000
 DTEND:20270630T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:e5f102bb782a6fd037b65a13f15789@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club-10/
@@ -3330,7 +3381,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270706T180000
 DTEND:20270706T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:a1420a378f783623c15902975520ed@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-193/
@@ -3343,7 +3394,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270713T180000
 DTEND:20270713T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:9b886b5fb375b48eb27de4220ab5f0@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-194/
@@ -3356,7 +3407,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270720T180000
 DTEND:20270720T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:383cb308213a4338557e53b319f36e@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-195/
@@ -3369,7 +3420,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270727T180000
 DTEND:20270727T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:528f9b81168303e22b75757aec8043@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-196/
@@ -3382,7 +3433,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20270728T180000
 DTEND:20270728T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:200e72e0f24e5905bc7dfdc1ad3ce7@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club-11/
@@ -3395,7 +3446,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270803T180000
 DTEND:20270803T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:85199520dc682d2418e8914c9e2055@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-197/
@@ -3408,7 +3459,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270810T180000
 DTEND:20270810T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:4416be2742609f7991b824a0cc45a6@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-198/
@@ -3421,7 +3472,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270817T180000
 DTEND:20270817T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:3b6865835dc8bfb02924b46080e912@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-199/
@@ -3434,7 +3485,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270824T180000
 DTEND:20270824T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:4e4a28b97f76dfa339836d03d19d84@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-200/
@@ -3447,7 +3498,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20270825T180000
 DTEND:20270825T190000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:032688cd2ee37766b0f35f380799e5@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/night-fic-book-club-12/
@@ -3460,7 +3511,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270831T180000
 DTEND:20270831T210000
-DTSTAMP:20260901T154625Z
+DTSTAMP:20260902T153620Z
 UID:4d881f5f443308665317305689d743@massachusetts-events
 DESCRIPTION:Sources: Northborough Free Library\nEvent page: https://northb
  oroughlibrary.assabetinteractive.com/calendar/adult-d-d-night-201/
