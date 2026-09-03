@@ -6,36 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260902T150000
-DTEND:20260902T170000
-DTSTAMP:20260902T153453Z
-UID:44a0df216abe3f94f88b6cf03ce2fd@central-massachusetts-events
-DESCRIPTION:Ribbon Cutting - Keller Williams Pinnacle Central\n\nSource: W
- orcester Regional Chamber of Commerce\nEvent page: https://business.worces
- terchamber.org/events/details/ribbon-cutting-keller-williams-pinnacle-cent
- ral-23961
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/ribbon-cutting-ke
- ller-williams-pinnacle-central-23961
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Out to Lunch Festival & Farmers’ Market - Honeycomb
-DTSTART:20260902T110000
-DTEND:20260902T150000
-DTSTAMP:20260902T153453Z
-UID:0fcbcd1eddcf10dcdfaba60bc7406a@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/out-lunch-festival-farmers-market-honeycomb
-LOCATION:Worcester Common Oval\, 455 Main Street - Map It
-URL:https://www.worcesterma.gov/calendar/out-lunch-festival-farmers-market
- -honeycomb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20260903T150000
 DTEND:20260903T170000
-DTSTAMP:20260902T153453Z
+DTSTAMP:20260903T152906Z
 UID:b4d7f40b207cdd50b83a1f8de8c624@central-massachusetts-events
 DESCRIPTION:Ribbon Cutting ceremony to mark the grand opening of DG Kitche
  n Stone\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: htt
@@ -49,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260906T093000
 DTEND:20260906T113000
-DTSTAMP:20260902T153453Z
+DTSTAMP:20260903T152906Z
 UID:7aa60469a1c0f1750fbe46a31149d3@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -64,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260907T191500
 DTEND:20260907T211500
-DTSTAMP:20260902T153453Z
+DTSTAMP:20260903T152906Z
 UID:40f198e87c17171eaf01f4456a2a6f@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -78,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260908T171500
 DTEND:20260908T191500
-DTSTAMP:20260902T153453Z
+DTSTAMP:20260903T152906Z
 UID:6f0b18f361105d6031bd241b269309@central-massachusetts-events
 DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
   Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
@@ -92,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch Festival & Farmers’ Market - Acoustic Winos
 DTSTART:20260909T110000
 DTEND:20260909T150000
-DTSTAMP:20260902T153453Z
+DTSTAMP:20260903T152906Z
 UID:f38fb8d378a490bf182e814a187c1e@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/out-lunch-festival-farmers-market-acoustic-wi
@@ -105,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260910T170000
 DTEND:20260910T190000
-DTSTAMP:20260902T153453Z
+DTSTAMP:20260903T152906Z
 UID:b2528da8c94f247e8f2b5db7d23baf@central-massachusetts-events
 DESCRIPTION:This one-of-a-kind event appeals to a diverse audience\, featu
  ring multicultural cuisine from local restauranteurs\, an Online Auction\,
@@ -122,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260911T093000
 DTEND:20260911T113000
-DTSTAMP:20260902T153453Z
+DTSTAMP:20260903T152906Z
 UID:1411fd8546f711db8f97213deab86d@central-massachusetts-events
 DESCRIPTION:Double your close rate in this hands-on 2-day sales workshop b
  ased on Grant Cardone's 10X System. Learn sales\, marketing & systems to s
@@ -133,5 +106,27 @@ LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
  \, Suite 200 Worcester\, MA 01608
 URL:https://business.worcesterchamber.org/events/details/10x-sales-system-
  interactive-workshop-23941
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260912T080000
+DTEND:20260912T100000
+DTSTAMP:20260903T152906Z
+UID:75fcc76f2785942f8f366a1f85a702@central-massachusetts-events
+DESCRIPTION:Join us on Saturday\, September 12th\, 2026 from 8am-8pm right
+  here in store for a day and night of FUNDRAI$ING! Enjoy an evening of sho
+ pping with Raffles\, Prizes from our Prize Wheel\, Event Exclusives\, Musi
+ c\, Wine & Cider Tastings\, Gourmet Food Demos\, Vendors\, and MORE!\n\nSo
+ urce: Worcester Regional Chamber of Commerce\nEvent page: https://business
+ .worcesterchamber.org/events/details/klem-s-cares-giveback-fundraiser-even
+ t-23873
+LOCATION:Klem's Cares Giveback Fundraiser Even... Set a Reminder Enter you
+ r email address below to receive a reminder message. Email address Select 
+ the amount of Days before the event -- Select Days Before Event -- 1 Day 2
+  Days 3 Days 1 Week Captcha Validation Please complete the Captcha Submit 
+ Date and Time Saturday Sep 12\, 2026 8:00 AM - 8:00 PM EDT Saturday\, Sept
+ ember 12th 2026 8AM-8PM Location 117 W. Main St. Spencer\, MA 01562
+URL:https://business.worcesterchamber.org/events/details/klem-s-cares-give
+ back-fundraiser-event-23873
 END:VEVENT
 END:VCALENDAR
