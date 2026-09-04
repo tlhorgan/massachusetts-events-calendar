@@ -6,23 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260903T150000
-DTEND:20260903T170000
-DTSTAMP:20260903T152906Z
-UID:b4d7f40b207cdd50b83a1f8de8c624@central-massachusetts-events
-DESCRIPTION:Ribbon Cutting ceremony to mark the grand opening of DG Kitche
- n Stone\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: htt
- ps://business.worcesterchamber.org/events/details/ribbon-cutting-dg-kitche
- n-stone-23974
-LOCATION:00 PM EDT Location 589 Park Ave. Worcester\, Ma 01610
-URL:https://business.worcesterchamber.org/events/details/ribbon-cutting-dg
- -kitchen-stone-23974
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20260906T093000
 DTEND:20260906T113000
-DTSTAMP:20260903T152906Z
+DTSTAMP:20260904T152041Z
 UID:7aa60469a1c0f1750fbe46a31149d3@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -37,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260907T191500
 DTEND:20260907T211500
-DTSTAMP:20260903T152906Z
+DTSTAMP:20260904T152041Z
 UID:40f198e87c17171eaf01f4456a2a6f@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -51,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260908T171500
 DTEND:20260908T191500
-DTSTAMP:20260903T152906Z
+DTSTAMP:20260904T152041Z
 UID:6f0b18f361105d6031bd241b269309@central-massachusetts-events
 DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
   Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
@@ -65,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch Festival & Farmers’ Market - Acoustic Winos
 DTSTART:20260909T110000
 DTEND:20260909T150000
-DTSTAMP:20260903T152906Z
+DTSTAMP:20260904T152041Z
 UID:f38fb8d378a490bf182e814a187c1e@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/out-lunch-festival-farmers-market-acoustic-wi
@@ -78,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260910T170000
 DTEND:20260910T190000
-DTSTAMP:20260903T152906Z
+DTSTAMP:20260904T152041Z
 UID:b2528da8c94f247e8f2b5db7d23baf@central-massachusetts-events
 DESCRIPTION:This one-of-a-kind event appeals to a diverse audience\, featu
  ring multicultural cuisine from local restauranteurs\, an Online Auction\,
@@ -95,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260911T093000
 DTEND:20260911T113000
-DTSTAMP:20260903T152906Z
+DTSTAMP:20260904T152041Z
 UID:1411fd8546f711db8f97213deab86d@central-massachusetts-events
 DESCRIPTION:Double your close rate in this hands-on 2-day sales workshop b
  ased on Grant Cardone's 10X System. Learn sales\, marketing & systems to s
@@ -111,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260912T080000
 DTEND:20260912T100000
-DTSTAMP:20260903T152906Z
+DTSTAMP:20260904T152041Z
 UID:75fcc76f2785942f8f366a1f85a702@central-massachusetts-events
 DESCRIPTION:Join us on Saturday\, September 12th\, 2026 from 8am-8pm right
   here in store for a day and night of FUNDRAI$ING! Enjoy an evening of sho
