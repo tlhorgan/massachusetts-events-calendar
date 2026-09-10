@@ -5,23 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
-SUMMARY:Out to Lunch Festival & Farmers’ Market - Acoustic Winos
-DTSTART:20260909T110000
-DTEND:20260909T150000
-DTSTAMP:20260909T153342Z
-UID:f38fb8d378a490bf182e814a187c1e@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/out-lunch-festival-farmers-market-acoustic-wi
- nos
-LOCATION:Worcester Common Oval\, 455 Main Street - Map It
-URL:https://www.worcesterma.gov/calendar/out-lunch-festival-farmers-market
- -acoustic-winos
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260910T170000
 DTEND:20260910T190000
-DTSTAMP:20260909T153342Z
+DTSTAMP:20260910T152802Z
 UID:b2528da8c94f247e8f2b5db7d23baf@central-massachusetts-events
 DESCRIPTION:This one-of-a-kind event appeals to a diverse audience\, featu
  ring multicultural cuisine from local restauranteurs\, an Online Auction\,
@@ -38,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260911T093000
 DTEND:20260911T113000
-DTSTAMP:20260909T153342Z
+DTSTAMP:20260910T152802Z
 UID:1411fd8546f711db8f97213deab86d@central-massachusetts-events
 DESCRIPTION:Double your close rate in this hands-on 2-day sales workshop b
  ased on Grant Cardone's 10X System. Learn sales\, marketing & systems to s
@@ -54,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260912T080000
 DTEND:20260912T100000
-DTSTAMP:20260909T153342Z
+DTSTAMP:20260910T152802Z
 UID:75fcc76f2785942f8f366a1f85a702@central-massachusetts-events
 DESCRIPTION:Join us on Saturday\, September 12th\, 2026 from 8am-8pm right
   here in store for a day and night of FUNDRAI$ING! Enjoy an evening of sho
@@ -76,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260913T093000
 DTEND:20260913T113000
-DTSTAMP:20260909T153342Z
+DTSTAMP:20260910T152802Z
 UID:88663c5c851127fb0578c71f0c0a1c@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -89,19 +76,16 @@ URL:https://business.worcesterchamber.org/events/details/meditación-para-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260914T000000
-DTEND:20260914T020000
-DTSTAMP:20260909T153342Z
+DTSTART:20260914T100000
+DTEND:20260914T120000
+DTSTAMP:20260910T152802Z
 UID:37e84c6d4f60475cb2a92740cf6141@central-massachusetts-events
-DESCRIPTION:Paint the Town Green is an advocacy and awareness campaign (no
- t a fundraiser) focused on highlighting the mission of Big Brothers Big Si
- sters (BBBS) in an effort to advocate for the impact of mentoring youth in
-  our community and to recruit more Bigs.\n\nSource: Worcester Regional Cha
- mber of Commerce\nEvent page: https://business.worcesterchamber.org/events
- /details/paint-the-town-green-09-14-2026-23959
+DESCRIPTION:Auburn Chamber Golf Tournament\n\nSource: Worcester Regional C
+ hamber of Commerce\nEvent page: https://business.worcesterchamber.org/even
+ ts/details/31st-annual-auburn-chamber-scholarship-golf-tournament-21336
 LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
  \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/paint-the-town-gr
- een-09-14-2026-23959
+URL:https://business.worcesterchamber.org/events/details/31st-annual-aubur
+ n-chamber-scholarship-golf-tournament-21336
 END:VEVENT
 END:VCALENDAR
