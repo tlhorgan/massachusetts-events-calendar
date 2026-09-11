@@ -6,26 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260910T170000
-DTEND:20260910T190000
-DTSTAMP:20260910T152802Z
-UID:b2528da8c94f247e8f2b5db7d23baf@central-massachusetts-events
-DESCRIPTION:This one-of-a-kind event appeals to a diverse audience\, featu
- ring multicultural cuisine from local restauranteurs\, an Online Auction\,
-  a Live Auction\, an inspiring award ceremony\, and more. Champions for Ch
- ildren raises vital funds to help LOCAL children thrive despite the odds b
- eing against them. The funds raised w...\n\nSource: Worcester Regional Cha
- mber of Commerce\nEvent page: https://business.worcesterchamber.org/events
- /details/8th-annual-champions-for-children-23894
-LOCATION:100 Madison St. Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/8th-annual-champi
- ons-for-children-23894
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20260911T093000
 DTEND:20260911T113000
-DTSTAMP:20260910T152802Z
+DTSTAMP:20260911T153027Z
 UID:1411fd8546f711db8f97213deab86d@central-massachusetts-events
 DESCRIPTION:Double your close rate in this hands-on 2-day sales workshop b
  ased on Grant Cardone's 10X System. Learn sales\, marketing & systems to s
@@ -41,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260912T080000
 DTEND:20260912T100000
-DTSTAMP:20260910T152802Z
+DTSTAMP:20260911T153027Z
 UID:75fcc76f2785942f8f366a1f85a702@central-massachusetts-events
 DESCRIPTION:Join us on Saturday\, September 12th\, 2026 from 8am-8pm right
   here in store for a day and night of FUNDRAI$ING! Enjoy an evening of sho
@@ -63,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260913T093000
 DTEND:20260913T113000
-DTSTAMP:20260910T152802Z
+DTSTAMP:20260911T153027Z
 UID:88663c5c851127fb0578c71f0c0a1c@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -78,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260914T100000
 DTEND:20260914T120000
-DTSTAMP:20260910T152802Z
+DTSTAMP:20260911T153027Z
 UID:37e84c6d4f60475cb2a92740cf6141@central-massachusetts-events
 DESCRIPTION:Auburn Chamber Golf Tournament\n\nSource: Worcester Regional C
  hamber of Commerce\nEvent page: https://business.worcesterchamber.org/even
