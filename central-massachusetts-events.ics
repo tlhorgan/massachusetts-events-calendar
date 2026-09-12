@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260911T093000
-DTEND:20260911T113000
-DTSTAMP:20260911T153027Z
-UID:1411fd8546f711db8f97213deab86d@central-massachusetts-events
-DESCRIPTION:Double your close rate in this hands-on 2-day sales workshop b
- ased on Grant Cardone's 10X System. Learn sales\, marketing & systems to s
- cale\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: https:
- //business.worcesterchamber.org/events/details/10x-sales-system-interactiv
- e-workshop-23941
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/10x-sales-system-
- interactive-workshop-23941
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20260912T080000
 DTEND:20260912T100000
-DTSTAMP:20260911T153027Z
+DTSTAMP:20260912T143639Z
 UID:75fcc76f2785942f8f366a1f85a702@central-massachusetts-events
 DESCRIPTION:Join us on Saturday\, September 12th\, 2026 from 8am-8pm right
   here in store for a day and night of FUNDRAI$ING! Enjoy an evening of sho
@@ -46,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260913T093000
 DTEND:20260913T113000
-DTSTAMP:20260911T153027Z
+DTSTAMP:20260912T143639Z
 UID:88663c5c851127fb0578c71f0c0a1c@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -61,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260914T100000
 DTEND:20260914T120000
-DTSTAMP:20260911T153027Z
+DTSTAMP:20260912T143639Z
 UID:37e84c6d4f60475cb2a92740cf6141@central-massachusetts-events
 DESCRIPTION:Auburn Chamber Golf Tournament\n\nSource: Worcester Regional C
  hamber of Commerce\nEvent page: https://business.worcesterchamber.org/even
@@ -70,5 +54,24 @@ LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
  \, Suite 200 Worcester\, MA 01608
 URL:https://business.worcesterchamber.org/events/details/31st-annual-aubur
  n-chamber-scholarship-golf-tournament-21336
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260915T090000
+DTEND:20260915T110000
+DTSTAMP:20260912T143639Z
+UID:5501df92f857595ac10b8e83aeed56@central-massachusetts-events
+DESCRIPTION:Whether your organization is starting a planned giving program
+  or refreshing an existing one\, success depends on following proven pract
+ ices that help staff and board members effectively engage and grow the don
+ or base. No matter the size of the organization\, strong programs are buil
+ t on a core set of essential elemen...\n\nSource: Worcester Regional Chamb
+ er of Commerce\nEvent page: https://business.worcesterchamber.org/events/d
+ etails/nonprofit-roundtable-essential-elements-of-successful-planned-givin
+ g-programs-20943
+LOCATION:00 AM EDT Location Worcester Regional Chamber of Commerce 311 Mai
+ n Street\, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/nonprofit-roundta
+ ble-essential-elements-of-successful-planned-giving-programs-20943
 END:VEVENT
 END:VCALENDAR
