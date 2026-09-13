@@ -6,31 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260912T080000
-DTEND:20260912T100000
-DTSTAMP:20260912T143639Z
-UID:75fcc76f2785942f8f366a1f85a702@central-massachusetts-events
-DESCRIPTION:Join us on Saturday\, September 12th\, 2026 from 8am-8pm right
-  here in store for a day and night of FUNDRAI$ING! Enjoy an evening of sho
- pping with Raffles\, Prizes from our Prize Wheel\, Event Exclusives\, Musi
- c\, Wine & Cider Tastings\, Gourmet Food Demos\, Vendors\, and MORE!\n\nSo
- urce: Worcester Regional Chamber of Commerce\nEvent page: https://business
- .worcesterchamber.org/events/details/klem-s-cares-giveback-fundraiser-even
- t-23873
-LOCATION:Klem's Cares Giveback Fundraiser Even... Set a Reminder Enter you
- r email address below to receive a reminder message. Email address Select 
- the amount of Days before the event -- Select Days Before Event -- 1 Day 2
-  Days 3 Days 1 Week Captcha Validation Please complete the Captcha Submit 
- Date and Time Saturday Sep 12\, 2026 8:00 AM - 8:00 PM EDT Saturday\, Sept
- ember 12th 2026 8AM-8PM Location 117 W. Main St. Spencer\, MA 01562
-URL:https://business.worcesterchamber.org/events/details/klem-s-cares-give
- back-fundraiser-event-23873
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20260913T093000
 DTEND:20260913T113000
-DTSTAMP:20260912T143639Z
+DTSTAMP:20260913T151817Z
 UID:88663c5c851127fb0578c71f0c0a1c@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -45,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260914T100000
 DTEND:20260914T120000
-DTSTAMP:20260912T143639Z
+DTSTAMP:20260913T151817Z
 UID:37e84c6d4f60475cb2a92740cf6141@central-massachusetts-events
 DESCRIPTION:Auburn Chamber Golf Tournament\n\nSource: Worcester Regional C
  hamber of Commerce\nEvent page: https://business.worcesterchamber.org/even
@@ -57,21 +35,16 @@ URL:https://business.worcesterchamber.org/events/details/31st-annual-aubur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260915T090000
-DTEND:20260915T110000
-DTSTAMP:20260912T143639Z
-UID:5501df92f857595ac10b8e83aeed56@central-massachusetts-events
-DESCRIPTION:Whether your organization is starting a planned giving program
-  or refreshing an existing one\, success depends on following proven pract
- ices that help staff and board members effectively engage and grow the don
- or base. No matter the size of the organization\, strong programs are buil
- t on a core set of essential elemen...\n\nSource: Worcester Regional Chamb
- er of Commerce\nEvent page: https://business.worcesterchamber.org/events/d
- etails/nonprofit-roundtable-essential-elements-of-successful-planned-givin
- g-programs-20943
-LOCATION:00 AM EDT Location Worcester Regional Chamber of Commerce 311 Mai
- n Street\, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/nonprofit-roundta
- ble-essential-elements-of-successful-planned-giving-programs-20943
+DTSTART:20260915T171500
+DTEND:20260915T191500
+DTSTAMP:20260913T151817Z
+UID:0cc532d4af9fbb647f41089ef353a0@central-massachusetts-events
+DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
+  Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
+ ents/details/inner-harmony-breath-and-mantra-09-15-2026-23654
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/inner-harmony-bre
+ ath-and-mantra-09-15-2026-23654
 END:VEVENT
 END:VCALENDAR
