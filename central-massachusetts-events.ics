@@ -6,24 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260913T093000
-DTEND:20260913T113000
-DTSTAMP:20260913T151817Z
-UID:88663c5c851127fb0578c71f0c0a1c@central-massachusetts-events
-DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
- h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
- https://business.worcesterchamber.org/events/details/meditación-para-la-r
- educción-del-estrés-en-español-spanish-session-09-13-2026-15896
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/meditación-para-
- la-reducción-del-estrés-en-español-spanish-session-09-13-2026-15896
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20260914T100000
 DTEND:20260914T120000
-DTSTAMP:20260913T151817Z
+DTSTAMP:20260914T170923Z
 UID:37e84c6d4f60475cb2a92740cf6141@central-massachusetts-events
 DESCRIPTION:Auburn Chamber Golf Tournament\n\nSource: Worcester Regional C
  hamber of Commerce\nEvent page: https://business.worcesterchamber.org/even
@@ -37,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260915T171500
 DTEND:20260915T191500
-DTSTAMP:20260913T151817Z
+DTSTAMP:20260914T170923Z
 UID:0cc532d4af9fbb647f41089ef353a0@central-massachusetts-events
 DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
   Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
@@ -46,5 +31,43 @@ LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
  \, Suite 200 Worcester\, MA 01608
 URL:https://business.worcesterchamber.org/events/details/inner-harmony-bre
  ath-and-mantra-09-15-2026-23654
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260916T000000
+DTEND:20260916T020000
+DTSTAMP:20260914T170923Z
+UID:dae67f780e6f84e9a9ca3a031fec30@central-massachusetts-events
+DESCRIPTION:Join Brick Marketing’s free AI SEO webinar on Wednesday\, Se
+ ptember 16\, 2026 to learn how to get your brand and company chosen by AI 
+ search.\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: htt
+ ps://business.worcesterchamber.org/events/details/webinar-ai-seo-get-your-
+ brand-seen-and-chosen-online-23884
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/webinar-ai-seo-ge
+ t-your-brand-seen-and-chosen-online-23884
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FY27 WAC Grant Workshop
+DTSTART:20260923T183000
+DTEND:20260923T193000
+DTSTAMP:20260914T170923Z
+UID:fc77fa3a4c7eb59274df76b741939e@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/fy27-wac-grant-workshop
+LOCATION:Virtual Meeting
+URL:https://www.worcesterma.gov/calendar/fy27-wac-grant-workshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FY27 WAC Grant Workshop
+DTSTART:20260930T183000
+DTEND:20260930T193000
+DTSTAMP:20260914T170923Z
+UID:a5d1e9d9fe88c294f1bb722f377153@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
+LOCATION:Virtual Meeting
+URL:https://www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
 END:VEVENT
 END:VCALENDAR
