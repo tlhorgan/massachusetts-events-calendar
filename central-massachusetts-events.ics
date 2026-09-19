@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260918T093000
-DTEND:20260918T113000
-DTSTAMP:20260918T152524Z
-UID:aae60eec616d106011cd1df9e50e3a@central-massachusetts-events
-DESCRIPTION:Double your close rate in this hands-on 2-day sales workshop b
- ased on Grant Cardone's 10X System. Learn sales\, marketing & systems to s
- cale\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: https:
- //business.worcesterchamber.org/events/details/10x-sales-system-interactiv
- e-workshop-09-18-2026-23942
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/10x-sales-system-
- interactive-workshop-09-18-2026-23942
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20260919T090000
 DTEND:20260919T110000
-DTSTAMP:20260918T152524Z
+DTSTAMP:20260919T150422Z
 UID:bb2172306ce6313b4aad4015bd9992@central-massachusetts-events
 DESCRIPTION:Join MAWOCC for the 2026 Statewide Day of Holistic Healing & W
  ellness\, a full-day event centered on healing\, wellness\, sisterhood\, e
@@ -42,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260920T120000
 DTEND:20260920T140000
-DTSTAMP:20260918T152524Z
+DTSTAMP:20260919T150422Z
 UID:2d67c34a6c69d07832d416714314d7@central-massachusetts-events
 DESCRIPTION:Seminar hosted by A Better Path to Wellness\n\nSource: Worcest
  er Regional Chamber of Commerce\nEvent page: https://business.worcestercha
@@ -58,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260921T000000
 DTEND:20260921T020000
-DTSTAMP:20260918T152524Z
+DTSTAMP:20260919T150422Z
 UID:b6d01cb14b27f7e269c899938ffb66@central-massachusetts-events
 DESCRIPTION:CABI is a specialized school dedicated to empowering children 
  with autism and developmental disabilities through individualized\, eviden
@@ -73,10 +57,26 @@ URL:https://business.worcesterchamber.org/events/details/8th-annual-cabi-a
  chieves-golf-tournament-23890
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260922T090000
+DTEND:20260922T110000
+DTSTAMP:20260919T150422Z
+UID:cc202c001bacf94aaf9549abd5a321@central-massachusetts-events
+DESCRIPTION:Learn about Saint Vincent Hospital's new neurointerventional p
+ rocedural program with Dr. Ajit Puri and CEO Maria Morales-Menendez. Regis
+ ter today!\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
+ https://business.worcesterchamber.org/events/details/healthcare-roundtable
+ -saint-vincent-hospital-23880
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/healthcare-roundt
+ able-saint-vincent-hospital-23880
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FY27 WAC Grant Workshop
 DTSTART:20260923T183000
 DTEND:20260923T193000
-DTSTAMP:20260918T152524Z
+DTSTAMP:20260919T150422Z
 UID:fc77fa3a4c7eb59274df76b741939e@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/fy27-wac-grant-workshop
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20260927T090000
 DTEND:20260927T110000
-DTSTAMP:20260918T152524Z
+DTSTAMP:20260919T150422Z
 UID:a1b3c51ce265a6f25f6885687bb986@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-5
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:FY27 WAC Grant Workshop
 DTSTART:20260930T183000
 DTEND:20260930T193000
-DTSTAMP:20260918T152524Z
+DTSTAMP:20260919T150422Z
 UID:a5d1e9d9fe88c294f1bb722f377153@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
