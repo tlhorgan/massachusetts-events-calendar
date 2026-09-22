@@ -6,27 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260921T000000
-DTEND:20260921T020000
-DTSTAMP:20260921T172623Z
-UID:b6d01cb14b27f7e269c899938ffb66@central-massachusetts-events
-DESCRIPTION:CABI is a specialized school dedicated to empowering children 
- with autism and developmental disabilities through individualized\, eviden
- ce-based education. Our mission is to help each student gain the skills ne
- cessary to achieve greater independence and lead fulfilling\, meaningful l
- ives. Every child receives highly ...\n\nSource: Worcester Regional Chambe
- r of Commerce\nEvent page: https://business.worcesterchamber.org/events/de
- tails/8th-annual-cabi-achieves-golf-tournament-23890
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/8th-annual-cabi-a
- chieves-golf-tournament-23890
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20260922T170000
 DTEND:20260922T190000
-DTSTAMP:20260921T172623Z
+DTSTAMP:20260922T160049Z
 UID:cc202c001bacf94aaf9549abd5a321@central-massachusetts-events
 DESCRIPTION:Networking Event\n\nSource: Worcester Regional Chamber of Comm
  erce\nEvent page: https://business.worcesterchamber.org/events/details/cli
@@ -42,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:FY27 WAC Grant Workshop
 DTSTART:20260923T183000
 DTEND:20260923T193000
-DTSTAMP:20260921T172623Z
+DTSTAMP:20260922T160049Z
 UID:fc77fa3a4c7eb59274df76b741939e@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/fy27-wac-grant-workshop
@@ -53,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260923T083000
 DTEND:20260923T103000
-DTSTAMP:20260921T172623Z
+DTSTAMP:20260922T160049Z
 UID:dfd5c6e76e1fce25db0404e9b5df5b@central-massachusetts-events
 DESCRIPTION:Fair pay isn t just the right thing to do: it is a competitive
   advantage. Employers who close gender and racial wage gaps build workplac
@@ -73,25 +55,23 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260924T080000
 DTEND:20260924T100000
-DTSTAMP:20260921T172623Z
-UID:c8858c7f79b6a3c55a4c2cf7b978b3@central-massachusetts-events
-DESCRIPTION:CMS Golf Tournament Pricing Sponsorship Opportunities Corporat
- e Sponsor $750 Includes a foursome\, tee sign\, and logo displayed at tour
- nament Lunch Sponsor $500 Includes tee sign and logo displayed at tourname
- nt Dinner Sponsor $500 Includes tee sign and logo displayed at tournament 
- Foursome $600 Individual Golfer $1...\n\nSource: Worcester Regional Chambe
- r of Commerce\nEvent page: https://business.worcesterchamber.org/events/de
- tails/cms-golf-tournament-23265
-LOCATION:00 PM EDT Location Heritage Golf Course 85 Sampson Road Charlton
- \, MA 01507
-URL:https://business.worcesterchamber.org/events/details/cms-golf-tourname
- nt-23265
+DTSTAMP:20260922T160049Z
+UID:67160c61bc6ec6b07f5ce9741b16d9@central-massachusetts-events
+DESCRIPTION:Join us for the Employment Law Update\, as we provide updates 
+ on the law\, refreshers\, and practical advice for HR professionals and se
+ nior administrators of your organization or campus.\n\nSource: Worcester R
+ egional Chamber of Commerce\nEvent page: https://business.worcesterchamber
+ .org/events/details/bowditch-employment-law-update-23960
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/bowditch-employme
+ nt-law-update-23960
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20260927T090000
 DTEND:20260927T110000
-DTSTAMP:20260921T172623Z
+DTSTAMP:20260922T160049Z
 UID:a1b3c51ce265a6f25f6885687bb986@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-5
@@ -103,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:FY27 WAC Grant Workshop
 DTSTART:20260930T183000
 DTEND:20260930T193000
-DTSTAMP:20260921T172623Z
+DTSTAMP:20260922T160049Z
 UID:a5d1e9d9fe88c294f1bb722f377153@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
