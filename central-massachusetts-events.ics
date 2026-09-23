@@ -5,26 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
-SUMMARY:MicroNet Template
-DTSTART:20260922T170000
-DTEND:20260922T190000
-DTSTAMP:20260922T160049Z
-UID:cc202c001bacf94aaf9549abd5a321@central-massachusetts-events
-DESCRIPTION:Networking Event\n\nSource: Worcester Regional Chamber of Comm
- erce\nEvent page: https://business.worcesterchamber.org/events/details/cli
- nton-area-chamber-of-commerce-business-after-hours-networking-event-at-ste
- rling-street-brewery-21014
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/clinton-area-cham
- ber-of-commerce-business-after-hours-networking-event-at-sterling-street-b
- rewery-21014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FY27 WAC Grant Workshop
 DTSTART:20260923T183000
 DTEND:20260923T193000
-DTSTAMP:20260922T160049Z
+DTSTAMP:20260923T155044Z
 UID:fc77fa3a4c7eb59274df76b741939e@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/fy27-wac-grant-workshop
@@ -35,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260923T083000
 DTEND:20260923T103000
-DTSTAMP:20260922T160049Z
+DTSTAMP:20260923T155044Z
 UID:dfd5c6e76e1fce25db0404e9b5df5b@central-massachusetts-events
 DESCRIPTION:Fair pay isn t just the right thing to do: it is a competitive
   advantage. Employers who close gender and racial wage gaps build workplac
@@ -55,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260924T080000
 DTEND:20260924T100000
-DTSTAMP:20260922T160049Z
+DTSTAMP:20260923T155044Z
 UID:67160c61bc6ec6b07f5ce9741b16d9@central-massachusetts-events
 DESCRIPTION:Join us for the Employment Law Update\, as we provide updates 
  on the law\, refreshers\, and practical advice for HR professionals and se
@@ -68,10 +52,24 @@ URL:https://business.worcesterchamber.org/events/details/bowditch-employme
  nt-law-update-23960
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260925T073000
+DTEND:20260925T093000
+DTSTAMP:20260923T155044Z
+UID:8c8fba40a1ec32f63656cf9cd53342@central-massachusetts-events
+DESCRIPTION:35th Annual Women in Medicine Breakfast\n\nSource: Worcester R
+ egional Chamber of Commerce\nEvent page: https://business.worcesterchamber
+ .org/events/details/35th-annual-women-in-medicine-breakfast-23953
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/35th-annual-women
+ -in-medicine-breakfast-23953
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20260927T090000
 DTEND:20260927T110000
-DTSTAMP:20260922T160049Z
+DTSTAMP:20260923T155044Z
 UID:a1b3c51ce265a6f25f6885687bb986@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-5
@@ -83,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:FY27 WAC Grant Workshop
 DTSTART:20260930T183000
 DTEND:20260930T193000
-DTSTAMP:20260922T160049Z
+DTSTAMP:20260923T155044Z
 UID:a5d1e9d9fe88c294f1bb722f377153@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
