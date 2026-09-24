@@ -5,41 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
-SUMMARY:FY27 WAC Grant Workshop
-DTSTART:20260923T183000
-DTEND:20260923T193000
-DTSTAMP:20260923T155044Z
-UID:fc77fa3a4c7eb59274df76b741939e@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/fy27-wac-grant-workshop
-LOCATION:Virtual Meeting
-URL:https://www.worcesterma.gov/calendar/fy27-wac-grant-workshop
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
-DTSTART:20260923T083000
-DTEND:20260923T103000
-DTSTAMP:20260923T155044Z
-UID:dfd5c6e76e1fce25db0404e9b5df5b@central-massachusetts-events
-DESCRIPTION:Fair pay isn t just the right thing to do: it is a competitive
-  advantage. Employers who close gender and racial wage gaps build workplac
- es where top talent wants to work and stay. The Boston Women s Workforce C
- ouncil (BWWC) has spent over a decade using data to help Greater Boston em
- ployers do exactly that. Now we r...\n\nSource: Worcester Regional Chamber
-  of Commerce\nEvent page: https://business.worcesterchamber.org/events/det
- ails/business-government-forum-close-the-gap-keep-the-talent-a-data-driven
- -approach-to-pay-equity-23865
-LOCATION:00 AM EDT Location Vue 23rd Floor 446 Main Street Worcester\, MA 
- 01608
-URL:https://business.worcesterchamber.org/events/details/business-governme
- nt-forum-close-the-gap-keep-the-talent-a-data-driven-approach-to-pay-equit
- y-23865
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260924T080000
 DTEND:20260924T100000
-DTSTAMP:20260923T155044Z
+DTSTAMP:20260924T160055Z
 UID:67160c61bc6ec6b07f5ce9741b16d9@central-massachusetts-events
 DESCRIPTION:Join us for the Employment Law Update\, as we provide updates 
  on the law\, refreshers\, and practical advice for HR professionals and se
@@ -55,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260925T073000
 DTEND:20260925T093000
-DTSTAMP:20260923T155044Z
+DTSTAMP:20260924T160055Z
 UID:8c8fba40a1ec32f63656cf9cd53342@central-massachusetts-events
 DESCRIPTION:35th Annual Women in Medicine Breakfast\n\nSource: Worcester R
  egional Chamber of Commerce\nEvent page: https://business.worcesterchamber
@@ -66,10 +35,26 @@ URL:https://business.worcesterchamber.org/events/details/35th-annual-women
  -in-medicine-breakfast-23953
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260926T000000
+DTEND:20260926T020000
+DTSTAMP:20260924T160055Z
+UID:cb80e09cca55532422c0b7ad67065e@central-massachusetts-events
+DESCRIPTION:Reconnect at Girls Inc. of Worcester’s free Alumnae Reunion 
+ at Camp Kinneywood\, welcoming alumnae\, former staff\, volunteers\, frien
+ ds\, and family.\n\nSource: Worcester Regional Chamber of Commerce\nEvent 
+ page: https://business.worcesterchamber.org/events/details/2026-girls-inc-
+ of-worcester-alumnae-reunion-23922
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/2026-girls-inc-of
+ -worcester-alumnae-reunion-23922
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20260927T090000
 DTEND:20260927T110000
-DTSTAMP:20260923T155044Z
+DTSTAMP:20260924T160055Z
 UID:a1b3c51ce265a6f25f6885687bb986@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-5
@@ -78,10 +63,25 @@ URL:https://www.worcesterma.gov/calendar/community-cleanup-city-managers-c
  lean-team-5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260927T093000
+DTEND:20260927T113000
+DTSTAMP:20260924T160055Z
+UID:a534f49502b08b7c87817cbd01ff23@central-massachusetts-events
+DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
+ h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
+ https://business.worcesterchamber.org/events/details/meditación-para-la-r
+ educción-del-estrés-en-español-spanish-session-09-27-2026-15898
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/meditación-para-
+ la-reducción-del-estrés-en-español-spanish-session-09-27-2026-15898
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FY27 WAC Grant Workshop
 DTSTART:20260930T183000
 DTEND:20260930T193000
-DTSTAMP:20260923T155044Z
+DTSTAMP:20260924T160055Z
 UID:a5d1e9d9fe88c294f1bb722f377153@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
