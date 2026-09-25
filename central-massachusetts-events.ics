@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260924T080000
-DTEND:20260924T100000
-DTSTAMP:20260924T160055Z
-UID:67160c61bc6ec6b07f5ce9741b16d9@central-massachusetts-events
-DESCRIPTION:Join us for the Employment Law Update\, as we provide updates 
- on the law\, refreshers\, and practical advice for HR professionals and se
- nior administrators of your organization or campus.\n\nSource: Worcester R
- egional Chamber of Commerce\nEvent page: https://business.worcesterchamber
- .org/events/details/bowditch-employment-law-update-23960
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/bowditch-employme
- nt-law-update-23960
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20260925T073000
 DTEND:20260925T093000
-DTSTAMP:20260924T160055Z
+DTSTAMP:20260925T160126Z
 UID:8c8fba40a1ec32f63656cf9cd53342@central-massachusetts-events
 DESCRIPTION:35th Annual Women in Medicine Breakfast\n\nSource: Worcester R
  egional Chamber of Commerce\nEvent page: https://business.worcesterchamber
@@ -38,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260926T000000
 DTEND:20260926T020000
-DTSTAMP:20260924T160055Z
+DTSTAMP:20260925T160126Z
 UID:cb80e09cca55532422c0b7ad67065e@central-massachusetts-events
 DESCRIPTION:Reconnect at Girls Inc. of Worcester’s free Alumnae Reunion 
  at Camp Kinneywood\, welcoming alumnae\, former staff\, volunteers\, frien
@@ -51,22 +35,10 @@ URL:https://business.worcesterchamber.org/events/details/2026-girls-inc-of
  -worcester-alumnae-reunion-23922
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Community Cleanup With The City Manager's Clean Team
-DTSTART:20260927T090000
-DTEND:20260927T110000
-DTSTAMP:20260924T160055Z
-UID:a1b3c51ce265a6f25f6885687bb986@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-5
-LOCATION:Suffolk St./Norfolk St./Wall St. - Map It
-URL:https://www.worcesterma.gov/calendar/community-cleanup-city-managers-c
- lean-team-5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260927T093000
 DTEND:20260927T113000
-DTSTAMP:20260924T160055Z
+DTSTAMP:20260925T160126Z
 UID:a534f49502b08b7c87817cbd01ff23@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -78,10 +50,43 @@ URL:https://business.worcesterchamber.org/events/details/meditación-para-
  la-reducción-del-estrés-en-español-spanish-session-09-27-2026-15898
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260928T191500
+DTEND:20260928T211500
+DTSTAMP:20260925T160126Z
+UID:8d9ccaf057129a86d2372ef2f6bd3e@central-massachusetts-events
+DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
+ mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
+ editation-mondays-09-28-2026-19576
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/meditation-monday
+ s-09-28-2026-19576
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20260929T153000
+DTEND:20260929T173000
+DTSTAMP:20260925T160126Z
+UID:199929deea462b926c4369bd687498@central-massachusetts-events
+DESCRIPTION:You are invited to attend an upcoming educational seminar\, Te
+ rmination with Dignity The Do s and Don ts\, led by Patty Vattes\, Owner o
+ f HR Complete Solutions Consulting\, LLC. This informative session is desi
+ gned for employers\, managers\, and HR professionals and will provide prac
+ tical advice\, real-life examples\, and b...\n\nSource: Worcester Regional
+  Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
+ ents/details/clinton-chamber-seminar-series-termination-with-dignity-do-s-
+ dont-s-21018
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/clinton-chamber-s
+ eminar-series-termination-with-dignity-do-s-dont-s-21018
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FY27 WAC Grant Workshop
 DTSTART:20260930T183000
 DTEND:20260930T193000
-DTSTAMP:20260924T160055Z
+DTSTAMP:20260925T160126Z
 UID:a5d1e9d9fe88c294f1bb722f377153@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
