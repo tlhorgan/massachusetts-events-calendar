@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260926T000000
-DTEND:20260926T020000
-DTSTAMP:20260926T151206Z
-UID:cb80e09cca55532422c0b7ad67065e@central-massachusetts-events
-DESCRIPTION:Reconnect at Girls Inc. of Worcester’s free Alumnae Reunion 
- at Camp Kinneywood\, welcoming alumnae\, former staff\, volunteers\, frien
- ds\, and family.\n\nSource: Worcester Regional Chamber of Commerce\nEvent 
- page: https://business.worcesterchamber.org/events/details/2026-girls-inc-
- of-worcester-alumnae-reunion-23922
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/2026-girls-inc-of
- -worcester-alumnae-reunion-23922
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20260927T093000
 DTEND:20260927T113000
-DTSTAMP:20260926T151206Z
+DTSTAMP:20260927T155506Z
 UID:a534f49502b08b7c87817cbd01ff23@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -39,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260928T191500
 DTEND:20260928T211500
-DTSTAMP:20260926T151206Z
+DTSTAMP:20260927T155506Z
 UID:8d9ccaf057129a86d2372ef2f6bd3e@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -53,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260929T153000
 DTEND:20260929T173000
-DTSTAMP:20260926T151206Z
+DTSTAMP:20260927T155506Z
 UID:199929deea462b926c4369bd687498@central-massachusetts-events
 DESCRIPTION:You are invited to attend an upcoming educational seminar\, Te
  rmination with Dignity The Do s and Don ts\, led by Patty Vattes\, Owner o
@@ -72,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:FY27 WAC Grant Workshop
 DTSTART:20260930T183000
 DTEND:20260930T193000
-DTSTAMP:20260926T151206Z
+DTSTAMP:20260927T155506Z
 UID:a5d1e9d9fe88c294f1bb722f377153@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
@@ -81,16 +65,18 @@ URL:https://www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20260930T160000
-DTEND:20260930T180000
-DTSTAMP:20260926T151206Z
-UID:3d889eae07d28bc6a32f2b2edaa4af@central-massachusetts-events
-DESCRIPTION:Membership\, Orientation\, Benefits\, Services\n\nSource: Worc
- ester Regional Chamber of Commerce\nEvent page: https://business.worcester
- chamber.org/events/details/worcester-chamber-informational-session-23466
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/worcester-chamber
- -informational-session-23466
+DTSTART:20260930T170000
+DTEND:20260930T190000
+DTSTAMP:20260927T155506Z
+UID:901b71054c14a5944b001982ebdb50@central-massachusetts-events
+DESCRIPTION:Business\, Networking\, After Hours\n\nSource: Worcester Regio
+ nal Chamber of Commerce\nEvent page: https://business.worcesterchamber.org
+ /events/details/september-2026-business-after-hours-mega-w-corridor-9-495-
+ regional-chamber-of-metrowest-21340
+LOCATION:NO REFUNDS or CREDITS if cancelled 7 Days Prior to Event Date Loc
+ ation Cyprian Keyes Golf Club 284 E Temple Street Boylston\, MA 01505
+URL:https://business.worcesterchamber.org/events/details/september-2026-bu
+ siness-after-hours-mega-w-corridor-9-495-regional-chamber-of-metrowest-213
+ 40
 END:VEVENT
 END:VCALENDAR
