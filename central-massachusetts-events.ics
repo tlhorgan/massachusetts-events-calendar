@@ -5,29 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
-SUMMARY:MicroNet Template
-DTSTART:20260929T153000
-DTEND:20260929T173000
-DTSTAMP:20260929T171439Z
-UID:199929deea462b926c4369bd687498@central-massachusetts-events
-DESCRIPTION:You are invited to attend an upcoming educational seminar\, Te
- rmination with Dignity The Do s and Don ts\, led by Patty Vattes\, Owner o
- f HR Complete Solutions Consulting\, LLC. This informative session is desi
- gned for employers\, managers\, and HR professionals and will provide prac
- tical advice\, real-life examples\, and b...\n\nSource: Worcester Regional
-  Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
- ents/details/clinton-chamber-seminar-series-termination-with-dignity-do-s-
- dont-s-21018
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/clinton-chamber-s
- eminar-series-termination-with-dignity-do-s-dont-s-21018
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FY27 WAC Grant Workshop
 DTSTART:20260930T183000
 DTEND:20260930T193000
-DTSTAMP:20260929T171439Z
+DTSTAMP:20260930T172144Z
 UID:a5d1e9d9fe88c294f1bb722f377153@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
@@ -38,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20260930T170000
 DTEND:20260930T190000
-DTSTAMP:20260929T171439Z
+DTSTAMP:20260930T172144Z
 UID:901b71054c14a5944b001982ebdb50@central-massachusetts-events
 DESCRIPTION:Business\, Networking\, After Hours\n\nSource: Worcester Regio
  nal Chamber of Commerce\nEvent page: https://business.worcesterchamber.org
@@ -54,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261001T160000
 DTEND:20261001T180000
-DTSTAMP:20260929T171439Z
+DTSTAMP:20260930T172144Z
 UID:03d0684fbf24916644d9c3212fd84f@central-massachusetts-events
 DESCRIPTION:Celebrate Day of Good's 10th anniversary at The White Room in 
  Worcester\, MA on October 1st honoring courage and empathy. Nominate by Au
@@ -70,13 +51,13 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261002T120000
 DTEND:20261002T140000
-DTSTAMP:20260929T171439Z
-UID:d8c8966de6c9735f7036e768310bb4@central-massachusetts-events
+DTSTAMP:20260930T172144Z
+UID:4bbc0276493660a48ba5965dfeff9d@central-massachusetts-events
 DESCRIPTION:manufacturing\, event\, workforce\, massachusetts\n\nSource: W
  orcester Regional Chamber of Commerce\nEvent page: https://business.worces
  terchamber.org/events/details/cms-manufacturing-day-event-10-02-2026-23946
-LOCATION:15 PM Location Wellsworth Hotel Convention Center 14 Mechanic Str
- eet Southbridge\, MA 01550
+LOCATION:15 PM Location Wellsworth Hotel Convention Center Meeting Room 3 
+ 14 Mechanic Street Southbridge\, MA 01550
 URL:https://business.worcesterchamber.org/events/details/cms-manufacturing
  -day-event-10-02-2026-23946
 END:VEVENT
@@ -84,18 +65,16 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261003T000000
 DTEND:20261003T020000
-DTSTAMP:20260929T171439Z
+DTSTAMP:20260930T172144Z
 UID:39f48230d24694bc972a7d28931356@central-massachusetts-events
-DESCRIPTION:The Reliant Foundation 5K event will take place at Shore Park 
- in Worcester to raise funds for mental health and behavioral health progra
- ms in Central and MetroWest MA. The race start time is 9:30 AM and free pa
- rking is available at Bancroft School. Register online at Race Roster.\n\n
- Source: Worcester Regional Chamber of Commerce\nEvent page: https://busine
- ss.worcesterchamber.org/events/details/reliant-foundation-5k-10-03-2026-23
- 987
+DESCRIPTION:Join us for our annual A Night at the Museum gala event in the
+  Stoddard Exhibition Hall as we inspire the next generation with a passion
+  for science and nature.\n\nSource: Worcester Regional Chamber of Commerce
+ \nEvent page: https://business.worcesterchamber.org/events/details/a-night
+ -at-the-museum-gala-23969
 LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
  \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/reliant-foundatio
- n-5k-10-03-2026-23987
+URL:https://business.worcesterchamber.org/events/details/a-night-at-the-mu
+ seum-gala-23969
 END:VEVENT
 END:VCALENDAR
