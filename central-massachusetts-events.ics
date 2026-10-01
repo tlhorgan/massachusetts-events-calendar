@@ -5,37 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
-SUMMARY:FY27 WAC Grant Workshop
-DTSTART:20260930T183000
-DTEND:20260930T193000
-DTSTAMP:20260930T172144Z
-UID:a5d1e9d9fe88c294f1bb722f377153@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
-LOCATION:Virtual Meeting
-URL:https://www.worcesterma.gov/calendar/fy27-wac-grant-workshop-0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
-DTSTART:20260930T170000
-DTEND:20260930T190000
-DTSTAMP:20260930T172144Z
-UID:901b71054c14a5944b001982ebdb50@central-massachusetts-events
-DESCRIPTION:Business\, Networking\, After Hours\n\nSource: Worcester Regio
- nal Chamber of Commerce\nEvent page: https://business.worcesterchamber.org
- /events/details/september-2026-business-after-hours-mega-w-corridor-9-495-
- regional-chamber-of-metrowest-21340
-LOCATION:NO REFUNDS or CREDITS if cancelled 7 Days Prior to Event Date Loc
- ation Cyprian Keyes Golf Club 284 E Temple Street Boylston\, MA 01505
-URL:https://business.worcesterchamber.org/events/details/september-2026-bu
- siness-after-hours-mega-w-corridor-9-495-regional-chamber-of-metrowest-213
- 40
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261001T160000
 DTEND:20261001T180000
-DTSTAMP:20260930T172144Z
+DTSTAMP:20261001T174638Z
 UID:03d0684fbf24916644d9c3212fd84f@central-massachusetts-events
 DESCRIPTION:Celebrate Day of Good's 10th anniversary at The White Room in 
  Worcester\, MA on October 1st honoring courage and empathy. Nominate by Au
@@ -51,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261002T120000
 DTEND:20261002T140000
-DTSTAMP:20260930T172144Z
+DTSTAMP:20261001T174638Z
 UID:4bbc0276493660a48ba5965dfeff9d@central-massachusetts-events
 DESCRIPTION:manufacturing\, event\, workforce\, massachusetts\n\nSource: W
  orcester Regional Chamber of Commerce\nEvent page: https://business.worces
@@ -65,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261003T000000
 DTEND:20261003T020000
-DTSTAMP:20260930T172144Z
+DTSTAMP:20261001T174638Z
 UID:39f48230d24694bc972a7d28931356@central-massachusetts-events
 DESCRIPTION:Join us for our annual A Night at the Museum gala event in the
   Stoddard Exhibition Hall as we inspire the next generation with a passion
@@ -76,5 +49,46 @@ LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
  \, Suite 200 Worcester\, MA 01608
 URL:https://business.worcesterchamber.org/events/details/a-night-at-the-mu
  seum-gala-23969
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261004T093000
+DTEND:20261004T113000
+DTSTAMP:20261001T174638Z
+UID:92b246c06fb67638e68cfb0ae581ae@central-massachusetts-events
+DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
+ h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
+ https://business.worcesterchamber.org/events/details/meditación-para-la-r
+ educción-del-estrés-en-español-spanish-session-10-04-2026-15899
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/meditación-para-
+ la-reducción-del-estrés-en-español-spanish-session-10-04-2026-15899
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Main Street Pavement Management & Safety Improvements Visioning Me
+ eting
+DTSTART:20261014T173000
+DTEND:20261014T193000
+DTSTAMP:20261001T174638Z
+UID:85ca16bdbe89861cd80b3998a9b7b3@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/main-street-pavement-management-safety-improv
+ ements-visioning-meeting
+LOCATION:Central Community Branch YMCA\, 766 Main Street - Map It
+URL:https://www.worcesterma.gov/calendar/main-street-pavement-management-s
+ afety-improvements-visioning-meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Cleanup With The City Manager's Clean Team
+DTSTART:20261018T090000
+DTEND:20261018T110000
+DTSTAMP:20261001T174638Z
+UID:846b84c51527c96215b2b471b09cc3@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-6
+LOCATION:West Boylston and Burncoat Street Areas - Map It
+URL:https://www.worcesterma.gov/calendar/community-cleanup-city-managers-c
+ lean-team-6
 END:VEVENT
 END:VCALENDAR
