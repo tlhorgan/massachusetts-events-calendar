@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261001T160000
-DTEND:20261001T180000
-DTSTAMP:20261001T174638Z
-UID:03d0684fbf24916644d9c3212fd84f@central-massachusetts-events
-DESCRIPTION:Celebrate Day of Good's 10th anniversary at The White Room in 
- Worcester\, MA on October 1st honoring courage and empathy. Nominate by Au
- g 15th.\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: htt
- ps://business.worcesterchamber.org/events/details/day-of-good-celebration-
- 23940
-LOCATION:00 PM EDT October 1st 2026 from 4:00PM to 8:00PM Location The Whi
- te Room 138 Green Street\, Worcester\, MA 01604
-URL:https://business.worcesterchamber.org/events/details/day-of-good-celeb
- ration-23940
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261002T120000
 DTEND:20261002T140000
-DTSTAMP:20261001T174638Z
+DTSTAMP:20261002T170337Z
 UID:4bbc0276493660a48ba5965dfeff9d@central-massachusetts-events
 DESCRIPTION:manufacturing\, event\, workforce\, massachusetts\n\nSource: W
  orcester Regional Chamber of Commerce\nEvent page: https://business.worces
@@ -38,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261003T000000
 DTEND:20261003T020000
-DTSTAMP:20261001T174638Z
+DTSTAMP:20261002T170337Z
 UID:39f48230d24694bc972a7d28931356@central-massachusetts-events
 DESCRIPTION:Join us for our annual A Night at the Museum gala event in the
   Stoddard Exhibition Hall as we inspire the next generation with a passion
@@ -54,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261004T093000
 DTEND:20261004T113000
-DTSTAMP:20261001T174638Z
+DTSTAMP:20261002T170337Z
 UID:92b246c06fb67638e68cfb0ae581ae@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -66,11 +50,26 @@ URL:https://business.worcesterchamber.org/events/details/meditación-para-
  la-reducción-del-estrés-en-español-spanish-session-10-04-2026-15899
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261005T170000
+DTEND:20261005T190000
+DTSTAMP:20261002T170337Z
+UID:b89683b5b1c5928812a160ce07e7da@central-massachusetts-events
+DESCRIPTION:diversity\, roundtable\, networking\, professionals\n\nSource:
+  Worcester Regional Chamber of Commerce\nEvent page: https://business.worc
+ esterchamber.org/events/details/october-2026-diverse-professional-roundtab
+ le-recognition-and-networking-event-23913
+LOCATION:main entryway facing Lincoln Street 440 Lincoln Street Worcester
+ \, MA 01653
+URL:https://business.worcesterchamber.org/events/details/october-2026-dive
+ rse-professional-roundtable-recognition-and-networking-event-23913
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Main Street Pavement Management & Safety Improvements Visioning Me
  eting
 DTSTART:20261014T173000
 DTEND:20261014T193000
-DTSTAMP:20261001T174638Z
+DTSTAMP:20261002T170337Z
 UID:85ca16bdbe89861cd80b3998a9b7b3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/main-street-pavement-management-safety-improv
@@ -83,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20261018T090000
 DTEND:20261018T110000
-DTSTAMP:20261001T174638Z
+DTSTAMP:20261002T170337Z
 UID:846b84c51527c96215b2b471b09cc3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-6
