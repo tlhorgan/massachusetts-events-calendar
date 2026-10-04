@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261003T000000
-DTEND:20261003T020000
-DTSTAMP:20261003T153015Z
-UID:39f48230d24694bc972a7d28931356@central-massachusetts-events
-DESCRIPTION:Join us for our annual A Night at the Museum gala event in the
-  Stoddard Exhibition Hall as we inspire the next generation with a passion
-  for science and nature.\n\nSource: Worcester Regional Chamber of Commerce
- \nEvent page: https://business.worcesterchamber.org/events/details/a-night
- -at-the-museum-gala-23969
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/a-night-at-the-mu
- seum-gala-23969
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261004T093000
 DTEND:20261004T113000
-DTSTAMP:20261003T153015Z
+DTSTAMP:20261004T161421Z
 UID:92b246c06fb67638e68cfb0ae581ae@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -39,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261005T191500
 DTEND:20261005T211500
-DTSTAMP:20261003T153015Z
+DTSTAMP:20261004T161421Z
 UID:e42314df1b294fd6e0391ad8c8faec@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -51,26 +35,45 @@ URL:https://business.worcesterchamber.org/events/details/meditation-monday
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261006T110000
-DTEND:20261006T130000
-DTSTAMP:20261003T153015Z
-UID:a4c8c2c0eb0ba1164ae3768508e6a8@central-massachusetts-events
-DESCRIPTION:Join us for a free educational seminar event on women's health
-  at Saint Vincent Hospital. The event features four speakers covering topi
- cs in cancer care\, cardiology and urology. Register at https://www.stvinc
- enthospital.com/events\n\nSource: Worcester Regional Chamber of Commerce\n
- Event page: https://business.worcesterchamber.org/events/details/women-s-h
- ealth-symposium-24021
-LOCATION:123 Summer Street\, Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/women-s-health-sy
- mposium-24021
+DTSTART:20261006T140000
+DTEND:20261006T160000
+DTSTAMP:20261004T161421Z
+UID:c4c3702099f68a03cb240d607e8766@central-massachusetts-events
+DESCRIPTION:Many HR professionals didn t set out to work in HR it became p
+ art of the job along the way. If you re responsible for people operations
+ \, payroll\, benefits\, compliance\, or employee issues without formal HR 
+ training or a full team behind you\, you re not alone. This session is des
+ igned with you in mind. We ll explore h...\n\nSource: Worcester Regional C
+ hamber of Commerce\nEvent page: https://business.worcesterchamber.org/even
+ ts/details/human-resources-roundtable-exploring-the-benefits-of-a-peo-supp
+ ort-for-the-hr-role-you-inherited-21985
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/human-resources-r
+ oundtable-exploring-the-benefits-of-a-peo-support-for-the-hr-role-you-inhe
+ rited-21985
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261008T000000
+DTEND:20261008T020000
+DTSTAMP:20261004T161421Z
+UID:3c8140207e70638a5463d6b8cd2534@central-massachusetts-events
+DESCRIPTION:registration now open for Mirick's Annual Labor & Employment L
+ aw Seminar\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
+ https://business.worcesterchamber.org/events/details/mirick-s-annual-labor
+ -employment-law-seminar-24010
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/mirick-s-annual-l
+ abor-employment-law-seminar-24010
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Main Street Pavement Management & Safety Improvements Visioning Me
  eting
 DTSTART:20261014T173000
 DTEND:20261014T193000
-DTSTAMP:20261003T153015Z
+DTSTAMP:20261004T161421Z
 UID:85ca16bdbe89861cd80b3998a9b7b3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/main-street-pavement-management-safety-improv
@@ -83,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20261018T090000
 DTEND:20261018T110000
-DTSTAMP:20261003T153015Z
+DTSTAMP:20261004T161421Z
 UID:846b84c51527c96215b2b471b09cc3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-6
