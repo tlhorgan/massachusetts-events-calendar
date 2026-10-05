@@ -6,24 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261004T093000
-DTEND:20261004T113000
-DTSTAMP:20261004T161421Z
-UID:92b246c06fb67638e68cfb0ae581ae@central-massachusetts-events
-DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
- h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
- https://business.worcesterchamber.org/events/details/meditación-para-la-r
- educción-del-estrés-en-español-spanish-session-10-04-2026-15899
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/meditación-para-
- la-reducción-del-estrés-en-español-spanish-session-10-04-2026-15899
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261005T191500
 DTEND:20261005T211500
-DTSTAMP:20261004T161421Z
+DTSTAMP:20261005T213431Z
 UID:e42314df1b294fd6e0391ad8c8faec@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -37,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261006T140000
 DTEND:20261006T160000
-DTSTAMP:20261004T161421Z
+DTSTAMP:20261005T213431Z
 UID:c4c3702099f68a03cb240d607e8766@central-massachusetts-events
 DESCRIPTION:Many HR professionals didn t set out to work in HR it became p
  art of the job along the way. If you re responsible for people operations
@@ -55,25 +40,41 @@ URL:https://business.worcesterchamber.org/events/details/human-resources-r
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261008T000000
-DTEND:20261008T020000
-DTSTAMP:20261004T161421Z
+DTSTART:20261008T170000
+DTEND:20261008T190000
+DTSTAMP:20261005T213431Z
 UID:3c8140207e70638a5463d6b8cd2534@central-massachusetts-events
-DESCRIPTION:registration now open for Mirick's Annual Labor & Employment L
- aw Seminar\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
- https://business.worcesterchamber.org/events/details/mirick-s-annual-labor
- -employment-law-seminar-24010
+DESCRIPTION:Join Kennedy Community Health at CraftRoots Brewing in Milford
+ \, MA for an evening featuring live comedy\, great company and a chance to
+  connect with members of our community.\n\nSource: Worcester Regional Cham
+ ber of Commerce\nEvent page: https://business.worcesterchamber.org/events/
+ details/comedy-with-kennedy-24031
 LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
  \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/mirick-s-annual-l
- abor-employment-law-seminar-24010
+URL:https://business.worcesterchamber.org/events/details/comedy-with-kenne
+ dy-24031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261009T080000
+DTEND:20261009T100000
+DTSTAMP:20261005T213431Z
+UID:f3675a6a650e3e22d1c1753f51ad65@central-massachusetts-events
+DESCRIPTION:Game\, Changers\, Expo\, Workshops\, Networking\n\nSource: Wor
+ cester Regional Chamber of Commerce\nEvent page: https://business.worceste
+ rchamber.org/events/details/2026-game-changers-business-conference-buildin
+ g-the-future-of-housing-19492
+LOCATION:00 PM EDT Location Mechanics Hall 321 Main Street Worcester\, MA 
+ 01608
+URL:https://business.worcesterchamber.org/events/details/2026-game-changer
+ s-business-conference-building-the-future-of-housing-19492
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Main Street Pavement Management & Safety Improvements Visioning Me
  eting
 DTSTART:20261014T173000
 DTEND:20261014T193000
-DTSTAMP:20261004T161421Z
+DTSTAMP:20261005T213431Z
 UID:85ca16bdbe89861cd80b3998a9b7b3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/main-street-pavement-management-safety-improv
@@ -86,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20261018T090000
 DTEND:20261018T110000
-DTSTAMP:20261004T161421Z
+DTSTAMP:20261005T213431Z
 UID:846b84c51527c96215b2b471b09cc3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-6
