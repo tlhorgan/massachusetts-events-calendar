@@ -6,23 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261005T191500
-DTEND:20261005T211500
-DTSTAMP:20261005T213431Z
-UID:e42314df1b294fd6e0391ad8c8faec@central-massachusetts-events
-DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
- mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
- editation-mondays-10-05-2026-19577
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/meditation-monday
- s-10-05-2026-19577
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261006T140000
 DTEND:20261006T160000
-DTSTAMP:20261005T213431Z
+DTSTAMP:20261006T174206Z
 UID:c4c3702099f68a03cb240d607e8766@central-massachusetts-events
 DESCRIPTION:Many HR professionals didn t set out to work in HR it became p
  art of the job along the way. If you re responsible for people operations
@@ -42,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261008T170000
 DTEND:20261008T190000
-DTSTAMP:20261005T213431Z
+DTSTAMP:20261006T174206Z
 UID:3c8140207e70638a5463d6b8cd2534@central-massachusetts-events
 DESCRIPTION:Join Kennedy Community Health at CraftRoots Brewing in Milford
  \, MA for an evening featuring live comedy\, great company and a chance to
@@ -58,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261009T080000
 DTEND:20261009T100000
-DTSTAMP:20261005T213431Z
+DTSTAMP:20261006T174206Z
 UID:f3675a6a650e3e22d1c1753f51ad65@central-massachusetts-events
 DESCRIPTION:Game\, Changers\, Expo\, Workshops\, Networking\n\nSource: Wor
  cester Regional Chamber of Commerce\nEvent page: https://business.worceste
@@ -70,11 +56,32 @@ URL:https://business.worcesterchamber.org/events/details/2026-game-changer
  s-business-conference-building-the-future-of-housing-19492
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261010T120000
+DTEND:20261010T140000
+DTSTAMP:20261006T174206Z
+UID:9c8b164c9114967fc333a4b9664b25@central-massachusetts-events
+DESCRIPTION:Mark Your Calendars! Join us for a sizzling day of fiery compe
+ tition at our 3rd Annual Klem's BIG GREEN EGG® Fest on Saturday October 1
+ 0th from 12pm-4pm. TICKETS ARE ON SALE NOW! Click here to grab yours! http
+ s://www.eventbrite.com/.../klems-eggfest-2026-tickets...\n\nSource: Worces
+ ter Regional Chamber of Commerce\nEvent page: https://business.worcesterch
+ amber.org/events/details/klem-s-3rd-annual-egg-fest-23885
+LOCATION:Set a Reminder Enter your email address below to receive a remind
+ er message. Email address Select the amount of Days before the event -- Se
+ lect Days Before Event -- 1 Day 2 Days 3 Days 1 Week Captcha Validation Pl
+ ease complete the Captcha Submit Date and Time Saturday Oct 10\, 2026 12:0
+ 0 PM - 4:00 PM EDT October 10th\, 2026. 12:00PM-4:00PM. Location 117 W. Ma
+ in St. Spencer\, MA 01562
+URL:https://business.worcesterchamber.org/events/details/klem-s-3rd-annual
+ -egg-fest-23885
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Main Street Pavement Management & Safety Improvements Visioning Me
  eting
 DTSTART:20261014T173000
 DTEND:20261014T193000
-DTSTAMP:20261005T213431Z
+DTSTAMP:20261006T174206Z
 UID:85ca16bdbe89861cd80b3998a9b7b3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/main-street-pavement-management-safety-improv
@@ -87,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20261018T090000
 DTEND:20261018T110000
-DTSTAMP:20261005T213431Z
+DTSTAMP:20261006T174206Z
 UID:846b84c51527c96215b2b471b09cc3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-6
