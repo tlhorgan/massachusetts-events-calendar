@@ -6,24 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261009T080000
-DTEND:20261009T100000
-DTSTAMP:20261009T174641Z
-UID:f3675a6a650e3e22d1c1753f51ad65@central-massachusetts-events
-DESCRIPTION:Game\, Changers\, Expo\, Workshops\, Networking\n\nSource: Wor
- cester Regional Chamber of Commerce\nEvent page: https://business.worceste
- rchamber.org/events/details/2026-game-changers-business-conference-buildin
- g-the-future-of-housing-19492
-LOCATION:00 PM EDT Location Mechanics Hall 321 Main Street Worcester\, MA 
- 01608
-URL:https://business.worcesterchamber.org/events/details/2026-game-changer
- s-business-conference-building-the-future-of-housing-19492
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261010T120000
 DTEND:20261010T140000
-DTSTAMP:20261009T174641Z
+DTSTAMP:20261010T163650Z
 UID:9c8b164c9114967fc333a4b9664b25@central-massachusetts-events
 DESCRIPTION:Mark Your Calendars! Join us for a sizzling day of fiery compe
  tition at our 3rd Annual Klem's BIG GREEN EGG® Fest on Saturday October 1
@@ -44,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261011T093000
 DTEND:20261011T113000
-DTSTAMP:20261009T174641Z
+DTSTAMP:20261010T163650Z
 UID:b76d7e860fba69b383c77024d1e502@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -59,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261012T191500
 DTEND:20261012T211500
-DTSTAMP:20261009T174641Z
+DTSTAMP:20261010T163650Z
 UID:3978571c465358d27206e91e5b0c29@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -73,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261013T171500
 DTEND:20261013T191500
-DTSTAMP:20261009T174641Z
+DTSTAMP:20261010T163650Z
 UID:23066b40487c6717f2ba7e7add4bd6@central-massachusetts-events
 DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
   Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
@@ -88,7 +73,7 @@ SUMMARY:Main Street Pavement Management & Safety Improvements Visioning Me
  eting
 DTSTART:20261014T173000
 DTEND:20261014T193000
-DTSTAMP:20261009T174641Z
+DTSTAMP:20261010T163650Z
 UID:85ca16bdbe89861cd80b3998a9b7b3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/main-street-pavement-management-safety-improv
@@ -101,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261014T173000
 DTEND:20261014T193000
-DTSTAMP:20261009T174641Z
+DTSTAMP:20261010T163650Z
 UID:932ab3327a986abf23f873a9ef7aa5@central-massachusetts-events
 DESCRIPTION:Please join us for the 20th Annual Louis A. Cottle Medical Edu
  cation Conference - An Introduction to Space Medicine! Join us for an insi
@@ -119,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261015T160000
 DTEND:20261015T180000
-DTSTAMP:20261009T174641Z
+DTSTAMP:20261010T163650Z
 UID:de5391fcaa2f8e868ad85896458da0@central-massachusetts-events
 DESCRIPTION:Ribbon cutting ceremony to mark the grand opening of a new loc
  ation of The Learning Experience\, Childcare\n\nSource: Worcester Regional
@@ -130,10 +115,25 @@ URL:https://business.worcesterchamber.org/events/details/ribbon-cutting-tl
  e-childcare-23979
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261017T000000
+DTEND:20261017T020000
+DTSTAMP:20261010T163650Z
+UID:ed7f1ec8dce5c4079dcfdf48f24049@central-massachusetts-events
+DESCRIPTION:The 17th Annual Abby's House Hybrid 5K Run/Walk is set for Oct
+  17th at the West Boylston Middle/High School.\n\nSource: Worcester Region
+ al Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/
+ events/details/abby-s-house-5k-23917
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/abby-s-house-5k-2
+ 3917
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20261018T090000
 DTEND:20261018T110000
-DTSTAMP:20261009T174641Z
+DTSTAMP:20261010T163650Z
 UID:846b84c51527c96215b2b471b09cc3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-6
