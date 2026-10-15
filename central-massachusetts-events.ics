@@ -5,42 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
-SUMMARY:Main Street Pavement Management & Safety Improvements Visioning Me
- eting
-DTSTART:20261014T173000
-DTEND:20261014T193000
-DTSTAMP:20261014T161149Z
-UID:85ca16bdbe89861cd80b3998a9b7b3@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/main-street-pavement-management-safety-improv
- ements-visioning-meeting
-LOCATION:Central Community Branch YMCA\, 766 Main Street - Map It
-URL:https://www.worcesterma.gov/calendar/main-street-pavement-management-s
- afety-improvements-visioning-meeting
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
-DTSTART:20261014T173000
-DTEND:20261014T193000
-DTSTAMP:20261014T161149Z
-UID:932ab3327a986abf23f873a9ef7aa5@central-massachusetts-events
-DESCRIPTION:Please join us for the 20th Annual Louis A. Cottle Medical Edu
- cation Conference - An Introduction to Space Medicine! Join us for an insi
- ghtful event at the Beechwood Hotel where medical professionals gather to 
- learn and network. Our Keynote Speaker is Dr. Erik Antonsen.\n\nSource: Wo
- rcester Regional Chamber of Commerce\nEvent page: https://business.worcest
- erchamber.org/events/details/20th-annual-louis-a-cottle-medical-education-
- conference-24014
-LOCATION:00 PM EDT Location Beechwood Hotel 363 Plantation Street Worceste
- r\, MA 01605
-URL:https://business.worcesterchamber.org/events/details/20th-annual-louis
- -a-cottle-medical-education-conference-24014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261015T160000
 DTEND:20261015T180000
-DTSTAMP:20261014T161149Z
+DTSTAMP:20261015T160303Z
 UID:de5391fcaa2f8e868ad85896458da0@central-massachusetts-events
 DESCRIPTION:Ribbon cutting ceremony to mark the grand opening of a new loc
  ation of The Learning Experience\, Childcare\n\nSource: Worcester Regional
@@ -54,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261017T000000
 DTEND:20261017T020000
-DTSTAMP:20261014T161149Z
+DTSTAMP:20261015T160303Z
 UID:ed7f1ec8dce5c4079dcfdf48f24049@central-massachusetts-events
 DESCRIPTION:The 17th Annual Abby's House Hybrid 5K Run/Walk is set for Oct
   17th at the West Boylston Middle/High School.\n\nSource: Worcester Region
@@ -69,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20261018T090000
 DTEND:20261018T110000
-DTSTAMP:20261014T161149Z
+DTSTAMP:20261015T160303Z
 UID:846b84c51527c96215b2b471b09cc3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-6
@@ -81,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261018T100000
 DTEND:20261018T120000
-DTSTAMP:20261014T161149Z
+DTSTAMP:20261015T160303Z
 UID:4e14f18d5e44307931e9483015cbae@central-massachusetts-events
 DESCRIPTION:Health and Nutrition Seminars\n\nSource: Worcester Regional Ch
  amber of Commerce\nEvent page: https://business.worcesterchamber.org/event
@@ -95,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261019T191500
 DTEND:20261019T211500
-DTSTAMP:20261014T161149Z
+DTSTAMP:20261015T160303Z
 UID:e76b1db2a3da54c5bd745d56d801eb@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -107,22 +75,30 @@ URL:https://business.worcesterchamber.org/events/details/meditation-monday
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261020T090000
-DTEND:20261020T110000
-DTSTAMP:20261014T161149Z
+DTSTART:20261020T171500
+DTEND:20261020T191500
+DTSTAMP:20261015T160303Z
 UID:1101beb61161db083eb5ae2694ac9b@central-massachusetts-events
-DESCRIPTION:Peter Barry\, Fractional Sales Leader from Salescraft Advisory
- \, will walk business owners through the ten most critical drivers of sale
- s growth\, ranging from having a defined sales strategy and clear goals to
-  building compensation plans and implementing proper sales management. It 
- is designed to resonate with small t...\n\nSource: Worcester Regional Cham
- ber of Commerce\nEvent page: https://business.worcesterchamber.org/events/
- details/seminar-series-get-a-grip-on-your-business-how-to-gain-clarity-and
- -traction-for-your-business-through-eos-23936
+DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
+  Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
+ ents/details/inner-harmony-breath-and-mantra-10-20-2026-23659
 LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
  \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/seminar-series-ge
- t-a-grip-on-your-business-how-to-gain-clarity-and-traction-for-your-busine
- ss-through-eos-23936
+URL:https://business.worcesterchamber.org/events/details/inner-harmony-bre
+ ath-and-mantra-10-20-2026-23659
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Blue Worcester - Tatnuck Brook Draft Final Plan Public Mee
+ ting
+DTSTART:20261021T180000
+DTEND:20261021T193000
+DTSTAMP:20261015T160303Z
+UID:06bc2b31fdcc02531f2d37e93e380f@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/project-blue-worcester-tatnuck-brook-draft-fi
+ nal-plan-public-meeting
+LOCATION:IBEW Local 96\, 242 Mill Street - Map It
+URL:https://www.worcesterma.gov/calendar/project-blue-worcester-tatnuck-br
+ ook-draft-final-plan-public-meeting
 END:VEVENT
 END:VCALENDAR
