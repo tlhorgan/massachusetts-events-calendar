@@ -5,25 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
-SUMMARY:MicroNet Template
-DTSTART:20261017T000000
-DTEND:20261017T020000
-DTSTAMP:20261017T143850Z
-UID:ed7f1ec8dce5c4079dcfdf48f24049@central-massachusetts-events
-DESCRIPTION:The 17th Annual Abby's House Hybrid 5K Run/Walk is set for Oct
-  17th at the West Boylston Middle/High School.\n\nSource: Worcester Region
- al Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/
- events/details/abby-s-house-5k-23917
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/abby-s-house-5k-2
- 3917
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20261018T090000
 DTEND:20261018T110000
-DTSTAMP:20261017T143850Z
+DTSTAMP:20261018T150405Z
 UID:846b84c51527c96215b2b471b09cc3@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-6
@@ -35,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261018T100000
 DTEND:20261018T120000
-DTSTAMP:20261017T143850Z
+DTSTAMP:20261018T150405Z
 UID:4e14f18d5e44307931e9483015cbae@central-massachusetts-events
 DESCRIPTION:Health and Nutrition Seminars\n\nSource: Worcester Regional Ch
  amber of Commerce\nEvent page: https://business.worcesterchamber.org/event
@@ -49,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261019T191500
 DTEND:20261019T211500
-DTSTAMP:20261017T143850Z
+DTSTAMP:20261018T150405Z
 UID:e76b1db2a3da54c5bd745d56d801eb@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -63,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261020T171500
 DTEND:20261020T191500
-DTSTAMP:20261017T143850Z
+DTSTAMP:20261018T150405Z
 UID:1101beb61161db083eb5ae2694ac9b@central-massachusetts-events
 DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
   Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
@@ -77,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261021T083000
 DTEND:20261021T103000
-DTSTAMP:20261017T143850Z
+DTSTAMP:20261018T150405Z
 UID:b9ee183d8c38919c23b7c6da0d1397@central-massachusetts-events
 DESCRIPTION:Join the Worcester Regional Chamber for our Business & Governm
  ent Forum on healthcare costs\, 340B pricing\, and employer balance-sheet 
@@ -94,7 +79,7 @@ SUMMARY:Project Blue Worcester - Tatnuck Brook Draft Final Plan Public Mee
  ting
 DTSTART:20261021T180000
 DTEND:20261021T193000
-DTSTAMP:20261017T143850Z
+DTSTAMP:20261018T150405Z
 UID:06bc2b31fdcc02531f2d37e93e380f@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/project-blue-worcester-tatnuck-brook-draft-fi
@@ -102,5 +87,41 @@ DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
 LOCATION:IBEW Local 96\, 242 Mill Street - Map It
 URL:https://www.worcesterma.gov/calendar/project-blue-worcester-tatnuck-br
  ook-draft-final-plan-public-meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261022T170000
+DTEND:20261022T190000
+DTSTAMP:20261018T150405Z
+UID:51e68c8c60fe5be948cf30d5b6bfbd@central-massachusetts-events
+DESCRIPTION:Business\, Networking\, After Hours\n\nSource: Worcester Regio
+ nal Chamber of Commerce\nEvent page: https://business.worcesterchamber.org
+ /events/details/business-after-hours-at-worcester-public-market-20933
+LOCATION:NO REFUNDS or CREDITS if cancelled 7 Days Prior to Event Date Loc
+ ation Worcester Public Market 160 Green Street Worcester\, MA 01604
+URL:https://business.worcesterchamber.org/events/details/business-after-ho
+ urs-at-worcester-public-market-20933
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261024T110000
+DTEND:20261024T130000
+DTSTAMP:20261018T150405Z
+UID:0aa026545a2ce0f0456d9c940dfc04@central-massachusetts-events
+DESCRIPTION:Join us Saturday\, October 24th from 11AM–1PM for a HOWLING 
+ good time! Dress up your pup and bring them along for a day packed with Ha
+ lloween fun! All friendly\, leashed dogs are welcome! Get your pup dressed
+  up and join us for a tail-wagging Halloween celebration! We can't wait to
+  see your costumes!\n\nSource: Worcester Regional Chamber of Commerce\nEve
+ nt page: https://business.worcesterchamber.org/events/details/klem-s-annua
+ l-dog-costume-contest-23957
+LOCATION:Set a Reminder Enter your email address below to receive a remind
+ er message. Email address Select the amount of Days before the event -- Se
+ lect Days Before Event -- 1 Day 2 Days 3 Days 1 Week Captcha Validation Pl
+ ease complete the Captcha Submit Date and Time Saturday Oct 24\, 2026 11:0
+ 0 AM - 1:00 PM EDT October 24th\, 2026 11AM-1PM Location 117 W. Main St. S
+ pencer\, MA 01562
+URL:https://business.worcesterchamber.org/events/details/klem-s-annual-dog
+ -costume-contest-23957
 END:VEVENT
 END:VCALENDAR
