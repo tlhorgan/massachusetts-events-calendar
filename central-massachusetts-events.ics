@@ -6,23 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261020T171500
-DTEND:20261020T191500
-DTSTAMP:20261020T160718Z
-UID:1101beb61161db083eb5ae2694ac9b@central-massachusetts-events
-DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
-  Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
- ents/details/inner-harmony-breath-and-mantra-10-20-2026-23659
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/inner-harmony-bre
- ath-and-mantra-10-20-2026-23659
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261021T083000
 DTEND:20261021T103000
-DTSTAMP:20261020T160718Z
+DTSTAMP:20261021T162448Z
 UID:b9ee183d8c38919c23b7c6da0d1397@central-massachusetts-events
 DESCRIPTION:Join the Worcester Regional Chamber for our Business & Governm
  ent Forum on healthcare costs\, 340B pricing\, and employer balance-sheet 
@@ -39,7 +25,7 @@ SUMMARY:Project Blue Worcester - Tatnuck Brook Draft Final Plan Public Mee
  ting
 DTSTART:20261021T180000
 DTEND:20261021T193000
-DTSTAMP:20261020T160718Z
+DTSTAMP:20261021T162448Z
 UID:06bc2b31fdcc02531f2d37e93e380f@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/project-blue-worcester-tatnuck-brook-draft-fi
@@ -52,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261022T170000
 DTEND:20261022T190000
-DTSTAMP:20261020T160718Z
+DTSTAMP:20261021T162448Z
 UID:51e68c8c60fe5be948cf30d5b6bfbd@central-massachusetts-events
 DESCRIPTION:Business\, Networking\, After Hours\n\nSource: Worcester Regio
  nal Chamber of Commerce\nEvent page: https://business.worcesterchamber.org
@@ -66,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261024T110000
 DTEND:20261024T130000
-DTSTAMP:20261020T160718Z
+DTSTAMP:20261021T162448Z
 UID:0aa026545a2ce0f0456d9c940dfc04@central-massachusetts-events
 DESCRIPTION:Join us Saturday\, October 24th from 11AM–1PM for a HOWLING 
  good time! Dress up your pup and bring them along for a day packed with Ha
@@ -88,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261025T093000
 DTEND:20261025T113000
-DTSTAMP:20261020T160718Z
+DTSTAMP:20261021T162448Z
 UID:14ae7ca437e235678eab0fb2659b49@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -103,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261026T191500
 DTEND:20261026T211500
-DTSTAMP:20261020T160718Z
+DTSTAMP:20261021T162448Z
 UID:c36129e8d1ba51878ef5f0cb8f53c7@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -115,16 +101,17 @@ URL:https://business.worcesterchamber.org/events/details/meditation-monday
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261027T153000
-DTEND:20261027T173000
-DTSTAMP:20261020T160718Z
-UID:2a62b500320f67766a806424336382@central-massachusetts-events
-DESCRIPTION:Ribbon cutting ceremony to mark the opening of the new enVisio
- n Hotel Worcester\n\nSource: Worcester Regional Chamber of Commerce\nEvent
-  page: https://business.worcesterchamber.org/events/details/ribbon-cutting
- -envision-hotel-worcester-24048
-LOCATION:30 PM EDT Location 110 Summer Str Worcester\, Ma 01608
-URL:https://business.worcesterchamber.org/events/details/ribbon-cutting-en
- vision-hotel-worcester-24048
+DTSTART:20261027T170000
+DTEND:20261027T190000
+DTSTAMP:20261021T162448Z
+UID:a56f223e96b9cdece3a60b4c4cf984@central-massachusetts-events
+DESCRIPTION:BAH\, networking\, business\, evening\, social\, chamber\, tut
+ tle\, veteran\, post\,\n\nSource: Worcester Regional Chamber of Commerce\n
+ Event page: https://business.worcesterchamber.org/events/details/auburn-ch
+ amber-fall-business-after-hours-at-the-tuttle-post-23889
+LOCATION:00 PM Location Chester P Tuttle Post 279 88 Bancroft Street Aubur
+ n\, MA 01501
+URL:https://business.worcesterchamber.org/events/details/auburn-chamber-fa
+ ll-business-after-hours-at-the-tuttle-post-23889
 END:VEVENT
 END:VCALENDAR
