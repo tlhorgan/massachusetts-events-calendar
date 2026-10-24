@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261024T110000
 DTEND:20261024T130000
-DTSTAMP:20261023T162405Z
+DTSTAMP:20261024T150901Z
 UID:0aa026545a2ce0f0456d9c940dfc04@central-massachusetts-events
 DESCRIPTION:Join us Saturday\, October 24th from 11AM–1PM for a HOWLING 
  good time! Dress up your pup and bring them along for a day packed with Ha
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261025T093000
 DTEND:20261025T113000
-DTSTAMP:20261023T162405Z
+DTSTAMP:20261024T150901Z
 UID:14ae7ca437e235678eab0fb2659b49@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261026T191500
 DTEND:20261026T211500
-DTSTAMP:20261023T162405Z
+DTSTAMP:20261024T150901Z
 UID:c36129e8d1ba51878ef5f0cb8f53c7@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261027T170000
 DTEND:20261027T190000
-DTSTAMP:20261023T162405Z
+DTSTAMP:20261024T150901Z
 UID:a56f223e96b9cdece3a60b4c4cf984@central-massachusetts-events
 DESCRIPTION:BAH\, networking\, business\, evening\, social\, chamber\, tut
  tle\, veteran\, post\,\n\nSource: Worcester Regional Chamber of Commerce\n
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261028T100000
 DTEND:20261028T120000
-DTSTAMP:20261023T162405Z
+DTSTAMP:20261024T150901Z
 UID:a47a4d57974b2edd204ac017d14f7a@central-massachusetts-events
 DESCRIPTION:EOED Office Hours at the WRCC\n\nSource: Worcester Regional Ch
  amber of Commerce\nEvent page: https://business.worcesterchamber.org/event
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261029T153000
 DTEND:20261029T173000
-DTSTAMP:20261023T162405Z
+DTSTAMP:20261024T150901Z
 UID:a511b42a9c4000dfe9899baca47a44@central-massachusetts-events
 DESCRIPTION:Ribbon cutting ceremony to mark the opening of the new 4Milez 
  Tattoo Studio\n\nSource: Worcester Regional Chamber of Commerce\nEvent pag
