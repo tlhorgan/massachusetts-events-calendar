@@ -6,31 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261024T110000
-DTEND:20261024T130000
-DTSTAMP:20261024T150901Z
-UID:0aa026545a2ce0f0456d9c940dfc04@central-massachusetts-events
-DESCRIPTION:Join us Saturday\, October 24th from 11AM–1PM for a HOWLING 
- good time! Dress up your pup and bring them along for a day packed with Ha
- lloween fun! All friendly\, leashed dogs are welcome! Get your pup dressed
-  up and join us for a tail-wagging Halloween celebration! We can't wait to
-  see your costumes!\n\nSource: Worcester Regional Chamber of Commerce\nEve
- nt page: https://business.worcesterchamber.org/events/details/klem-s-annua
- l-dog-costume-contest-23957
-LOCATION:Set a Reminder Enter your email address below to receive a remind
- er message. Email address Select the amount of Days before the event -- Se
- lect Days Before Event -- 1 Day 2 Days 3 Days 1 Week Captcha Validation Pl
- ease complete the Captcha Submit Date and Time Saturday Oct 24\, 2026 11:0
- 0 AM - 1:00 PM EDT October 24th\, 2026 11AM-1PM Location 117 W. Main St. S
- pencer\, MA 01562
-URL:https://business.worcesterchamber.org/events/details/klem-s-annual-dog
- -costume-contest-23957
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261025T093000
 DTEND:20261025T113000
-DTSTAMP:20261024T150901Z
+DTSTAMP:20261025T151604Z
 UID:14ae7ca437e235678eab0fb2659b49@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -45,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261026T191500
 DTEND:20261026T211500
-DTSTAMP:20261024T150901Z
+DTSTAMP:20261025T151604Z
 UID:c36129e8d1ba51878ef5f0cb8f53c7@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -59,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261027T170000
 DTEND:20261027T190000
-DTSTAMP:20261024T150901Z
+DTSTAMP:20261025T151604Z
 UID:a56f223e96b9cdece3a60b4c4cf984@central-massachusetts-events
 DESCRIPTION:BAH\, networking\, business\, evening\, social\, chamber\, tut
  tle\, veteran\, post\,\n\nSource: Worcester Regional Chamber of Commerce\n
@@ -74,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261028T100000
 DTEND:20261028T120000
-DTSTAMP:20261024T150901Z
+DTSTAMP:20261025T151604Z
 UID:a47a4d57974b2edd204ac017d14f7a@central-massachusetts-events
 DESCRIPTION:EOED Office Hours at the WRCC\n\nSource: Worcester Regional Ch
  amber of Commerce\nEvent page: https://business.worcesterchamber.org/event
@@ -86,17 +64,38 @@ URL:https://business.worcesterchamber.org/events/details/eoed-office-hours
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261029T153000
-DTEND:20261029T173000
-DTSTAMP:20261024T150901Z
+DTSTART:20261029T173000
+DTEND:20261029T193000
+DTSTAMP:20261025T151604Z
 UID:a511b42a9c4000dfe9899baca47a44@central-massachusetts-events
-DESCRIPTION:Ribbon cutting ceremony to mark the opening of the new 4Milez 
- Tattoo Studio\n\nSource: Worcester Regional Chamber of Commerce\nEvent pag
- e: https://business.worcesterchamber.org/events/details/ribbon-cutting-4mi
- lez-tattoo-studio-24050
+DESCRIPTION:Join us for our fourth annual fundraising night out! Juniper f
+ eeds school-aged children facing food insecurity. Come help us support our
+  8 school food pantries. Please use link below to purchase your tickets no
+ w! Thursday\, October 29th at 5:30pm Polar Park 100 Madison Street\, Worce
+ ster\, MA 5:30 Cocktails\, hors d'oe...\n\nSource: Worcester Regional Cham
+ ber of Commerce\nEvent page: https://business.worcesterchamber.org/events/
+ details/4th-annual-evening-out-with-juniper-24018
 LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
  \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/ribbon-cutting-4m
- ilez-tattoo-studio-24050
+URL:https://business.worcesterchamber.org/events/details/4th-annual-evenin
+ g-out-with-juniper-24018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261031T000000
+DTEND:20261031T020000
+DTSTAMP:20261025T151604Z
+UID:e21cdd8e06c4ae302725752ff265ad@central-massachusetts-events
+DESCRIPTION:Date: October 31 — November 1\, 2026 10:00 am – 5:00 pm Ha
+ ve you noticed changes in the leaves? A chill in the air? The start of a s
+ pooky season? Autumn is here and we are getting into the Halloween spirit 
+ at the EcoTarium. Explore ghostly bubbles\, go on an adventure in our Glow
+  Zone or even celebrate Jack-O-Lantern...\n\nSource: Worcester Regional Ch
+ amber of Commerce\nEvent page: https://business.worcesterchamber.org/event
+ s/details/autumn-adventures-weekend-24038
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/autumn-adventures
+ -weekend-24038
 END:VEVENT
 END:VCALENDAR
