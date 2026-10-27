@@ -6,23 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261026T191500
-DTEND:20261026T211500
-DTSTAMP:20261026T180251Z
-UID:c36129e8d1ba51878ef5f0cb8f53c7@central-massachusetts-events
-DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
- mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
- editation-mondays-10-26-2026-19580
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/meditation-monday
- s-10-26-2026-19580
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261027T170000
 DTEND:20261027T190000
-DTSTAMP:20261026T180251Z
+DTSTAMP:20261027T170735Z
 UID:a56f223e96b9cdece3a60b4c4cf984@central-massachusetts-events
 DESCRIPTION:BAH\, networking\, business\, evening\, social\, chamber\, tut
  tle\, veteran\, post\,\n\nSource: Worcester Regional Chamber of Commerce\n
@@ -35,23 +21,9 @@ URL:https://business.worcesterchamber.org/events/details/auburn-chamber-fa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261028T100000
-DTEND:20261028T120000
-DTSTAMP:20261026T180251Z
-UID:a47a4d57974b2edd204ac017d14f7a@central-massachusetts-events
-DESCRIPTION:EOED Office Hours at the WRCC\n\nSource: Worcester Regional Ch
- amber of Commerce\nEvent page: https://business.worcesterchamber.org/event
- s/details/eoed-office-hours-at-the-wrcc-10-28-2026-18859
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/eoed-office-hours
- -at-the-wrcc-10-28-2026-18859
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261029T173000
 DTEND:20261029T193000
-DTSTAMP:20261026T180251Z
+DTSTAMP:20261027T170735Z
 UID:a511b42a9c4000dfe9899baca47a44@central-massachusetts-events
 DESCRIPTION:Join us for our fourth annual fundraising night out! Juniper f
  eeds school-aged children facing food insecurity. Come help us support our
@@ -69,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261031T000000
 DTEND:20261031T020000
-DTSTAMP:20261026T180251Z
+DTSTAMP:20261027T170735Z
 UID:e21cdd8e06c4ae302725752ff265ad@central-massachusetts-events
 DESCRIPTION:Date: October 31 — November 1\, 2026 10:00 am – 5:00 pm Ha
  ve you noticed changes in the leaves? A chill in the air? The start of a s
@@ -85,17 +57,38 @@ URL:https://business.worcesterchamber.org/events/details/autumn-adventures
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261101T093000
-DTEND:20261101T113000
-DTSTAMP:20261026T180251Z
-UID:7f404c2d003596e87d69fead674365@central-massachusetts-events
-DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
- h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
- https://business.worcesterchamber.org/events/details/meditación-para-la-r
- educción-del-estrés-en-español-spanish-session-11-01-2026-15903
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/meditación-para-
- la-reducción-del-estrés-en-español-spanish-session-11-01-2026-15903
+DTSTART:20261101T110000
+DTEND:20261101T130000
+DTSTAMP:20261027T170735Z
+UID:b7deb0002d83f091605d2bb177938f@central-massachusetts-events
+DESCRIPTION:Enjoy a scenic 5K farm run\, live music\, food and beer\, loca
+ l vendors\, kids’ activities\, hayrides\, pumpkin trebuchets\, apple can
+ nons\, in-person raffle and online auction\, and more! See full schedule o
+ f events on our website.\n\nSource: Worcester Regional Chamber of Commerce
+ \nEvent page: https://business.worcesterchamber.org/events/details/20th-an
+ nual-harvest-home-festival-5k-24035
+LOCATION:00 PM EST Date: Sunday\, November 1\, 2026 Time: 11:00 AM – 3:0
+ 0 PM Location Community Harvest Project\, 37 Wheeler Rd\, North Grafton\, 
+ MA 01536
+URL:https://business.worcesterchamber.org/events/details/20th-annual-harve
+ st-home-festival-5k-24035
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261102T171500
+DTEND:20261102T191500
+DTSTAMP:20261027T170735Z
+UID:52b5df2081ada2257ac4d8f5648cc9@central-massachusetts-events
+DESCRIPTION:In this inspiring conversation\, Dr. Crista Johnson-Agbakwu\, 
+ Executive Director of the Collaborative in Health Equity at UMass Chan Med
+ ical School and UMass Memorial Health\, will share lessons from a career s
+ pent leading across medicine\, academia\, public health\, and community-ba
+ sed care.\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: h
+ ttps://business.worcesterchamber.org/events/details/women-take-the-lead-at
+ -girls-inc-of-worcester-24080
+LOCATION:15 PM EST Date: November 2\, 2026 Time: 5:15pm -7:15pm Location G
+ irls Inc. of Worcester 125 Providence St Worcester\, MA 01604
+URL:https://business.worcesterchamber.org/events/details/women-take-the-le
+ ad-at-girls-inc-of-worcester-24080
 END:VEVENT
 END:VCALENDAR
