@@ -6,27 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261029T173000
-DTEND:20261029T193000
-DTSTAMP:20261029T174731Z
-UID:a511b42a9c4000dfe9899baca47a44@central-massachusetts-events
-DESCRIPTION:Join us for our fourth annual fundraising night out! Juniper f
- eeds school-aged children facing food insecurity. Come help us support our
-  8 school food pantries. Please use link below to purchase your tickets no
- w! Thursday\, October 29th at 5:30pm Polar Park 100 Madison Street\, Worce
- ster\, MA 5:30 Cocktails\, hors d'oe...\n\nSource: Worcester Regional Cham
- ber of Commerce\nEvent page: https://business.worcesterchamber.org/events/
- details/4th-annual-evening-out-with-juniper-24018
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/4th-annual-evenin
- g-out-with-juniper-24018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261031T000000
 DTEND:20261031T020000
-DTSTAMP:20261029T174731Z
+DTSTAMP:20261030T171936Z
 UID:e21cdd8e06c4ae302725752ff265ad@central-massachusetts-events
 DESCRIPTION:Date: October 31 — November 1\, 2026 10:00 am – 5:00 pm Ha
  ve you noticed changes in the leaves? A chill in the air? The start of a s
@@ -44,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261101T110000
 DTEND:20261101T130000
-DTSTAMP:20261029T174731Z
+DTSTAMP:20261030T171936Z
 UID:b7deb0002d83f091605d2bb177938f@central-massachusetts-events
 DESCRIPTION:Enjoy a scenic 5K farm run\, live music\, food and beer\, loca
  l vendors\, kids’ activities\, hayrides\, pumpkin trebuchets\, apple can
@@ -62,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261102T191500
 DTEND:20261102T211500
-DTSTAMP:20261029T174731Z
+DTSTAMP:20261030T171936Z
 UID:7c164989e9e1a135be0cd2a74b21e7@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -76,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261103T171500
 DTEND:20261103T191500
-DTSTAMP:20261029T174731Z
+DTSTAMP:20261030T171936Z
 UID:2eec906c49aeee15a1f0f106e9a964@central-massachusetts-events
 DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
   Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
@@ -90,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261104T110000
 DTEND:20261104T130000
-DTSTAMP:20261029T174731Z
+DTSTAMP:20261030T171936Z
 UID:50ad713f5aee2832ecae5083118917@central-massachusetts-events
 DESCRIPTION:pfml\, skoler abbott\, policies\, work\, human resources\, law
  \n\nSource: Worcester Regional Chamber of Commerce\nEvent page: https://bu
@@ -99,5 +81,25 @@ LOCATION:30 PM EST Location Bay Path Regional Vocational Technical High Sc
  hool 57 Old Muggett Hill Road Charlton\, MA 01501
 URL:https://business.worcesterchamber.org/events/details/cms-pfml-seminar-
  23932
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261105T090000
+DTEND:20261105T110000
+DTSTAMP:20261030T171936Z
+UID:e6d52e007ea7b6d80ad93ffb500ef4@central-massachusetts-events
+DESCRIPTION:Family-owned businesses are the backbone of our region. Join t
+ he Worcester Regional Chamber of Commerce s Family-Owned Business roundtab
+ le for our next event. Organizational culture and employee development in 
+ family-owned businesses Presented by: Adriana Vaccaro\, Culture Redesigned
+  An organizational culture strateg...\n\nSource: Worcester Regional Chambe
+ r of Commerce\nEvent page: https://business.worcesterchamber.org/events/de
+ tails/family-owned-business-roundtable-organizational-culture-and-employee
+ -development-in-family-owned-businesses-23937
+LOCATION:00 AM EST Location Worcester Regional Chamber of Commerce 311 Mai
+ n Street Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/family-owned-busi
+ ness-roundtable-organizational-culture-and-employee-development-in-family-
+ owned-businesses-23937
 END:VEVENT
 END:VCALENDAR
