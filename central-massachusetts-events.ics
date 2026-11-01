@@ -6,27 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261031T000000
-DTEND:20261031T020000
-DTSTAMP:20261031T163601Z
-UID:e21cdd8e06c4ae302725752ff265ad@central-massachusetts-events
-DESCRIPTION:Date: October 31 — November 1\, 2026 10:00 am – 5:00 pm Ha
- ve you noticed changes in the leaves? A chill in the air? The start of a s
- pooky season? Autumn is here and we are getting into the Halloween spirit 
- at the EcoTarium. Explore ghostly bubbles\, go on an adventure in our Glow
-  Zone or even celebrate Jack-O-Lantern...\n\nSource: Worcester Regional Ch
- amber of Commerce\nEvent page: https://business.worcesterchamber.org/event
- s/details/autumn-adventures-weekend-24038
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/autumn-adventures
- -weekend-24038
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261101T110000
 DTEND:20261101T130000
-DTSTAMP:20261031T163601Z
+DTSTAMP:20261101T172703Z
 UID:b7deb0002d83f091605d2bb177938f@central-massachusetts-events
 DESCRIPTION:Enjoy a scenic 5K farm run\, live music\, food and beer\, loca
  l vendors\, kids’ activities\, hayrides\, pumpkin trebuchets\, apple can
@@ -44,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261102T191500
 DTEND:20261102T211500
-DTSTAMP:20261031T163601Z
+DTSTAMP:20261101T172703Z
 UID:7c164989e9e1a135be0cd2a74b21e7@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -58,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261103T171500
 DTEND:20261103T191500
-DTSTAMP:20261031T163601Z
+DTSTAMP:20261101T172703Z
 UID:2eec906c49aeee15a1f0f106e9a964@central-massachusetts-events
 DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
   Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
@@ -69,10 +51,23 @@ URL:https://business.worcesterchamber.org/events/details/inner-harmony-bre
  ath-and-mantra-11-03-2026-23661
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10th Anniversary of the Worcester Consumer Rights Program
+DTSTART:20261104T093000
+DTEND:20261104T113000
+DTSTAMP:20261101T172703Z
+UID:4fd8e511b38bd790f2048a64ed9d44@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/10th-anniversary-worcester-consumer-rights-pr
+ ogram
+LOCATION:Worcester Senior Center\, 128 Providence Street - Map It
+URL:https://www.worcesterma.gov/calendar/10th-anniversary-worcester-consum
+ er-rights-program
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261104T110000
 DTEND:20261104T130000
-DTSTAMP:20261031T163601Z
+DTSTAMP:20261101T172703Z
 UID:50ad713f5aee2832ecae5083118917@central-massachusetts-events
 DESCRIPTION:pfml\, skoler abbott\, policies\, work\, human resources\, law
  \n\nSource: Worcester Regional Chamber of Commerce\nEvent page: https://bu
@@ -83,10 +78,24 @@ URL:https://business.worcesterchamber.org/events/details/cms-pfml-seminar-
  23932
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Project Blue Worcester - Quinsigamond Watershed Draft Final Plan P
+ ublic Meeting
+DTSTART:20261104T190000
+DTEND:20261104T203000
+DTSTAMP:20261101T172703Z
+UID:df26cc0256595459e49a316126d144@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/project-blue-worcester-quinsigamond-watershed
+ -draft-final-plan-public-meeting
+LOCATION:Marine Corps League\, 181 Lake Ave - Map It
+URL:https://www.worcesterma.gov/calendar/project-blue-worcester-quinsigamo
+ nd-watershed-draft-final-plan-public-meeting
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261105T090000
 DTEND:20261105T110000
-DTSTAMP:20261031T163601Z
+DTSTAMP:20261101T172703Z
 UID:e6d52e007ea7b6d80ad93ffb500ef4@central-massachusetts-events
 DESCRIPTION:Family-owned businesses are the backbone of our region. Join t
  he Worcester Regional Chamber of Commerce s Family-Owned Business roundtab
@@ -101,5 +110,66 @@ LOCATION:00 AM EST Location Worcester Regional Chamber of Commerce 311 Mai
 URL:https://business.worcesterchamber.org/events/details/family-owned-busi
  ness-roundtable-organizational-culture-and-employee-development-in-family-
  owned-businesses-23937
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Household Hazardous Waste Day
+DTSTART:20261107T090000
+DTEND:20261107T120000
+DTSTAMP:20261101T172703Z
+UID:5fa32bed30b64bc6f24c0fbd027820@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/household-hazardous-waste-day
+LOCATION:DPW Residential Drop-Off Center\, 1065 Millbury Street - Map It
+URL:https://www.worcesterma.gov/calendar/household-hazardous-waste-day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Cleanup With The City Manager's Clean Team
+DTSTART:20261108T090000
+DTEND:20261108T110000
+DTSTAMP:20261101T172703Z
+UID:1f4202e551a350679e60c1215e4c6e@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-7
+LOCATION:27 Wall Street - Map It
+URL:https://www.worcesterma.gov/calendar/community-cleanup-city-managers-c
+ lean-team-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Blue Worcester - Mill Brook Watershed Draft Final Plan Pub
+ lic Meeting
+DTSTART:20261110T183000
+DTEND:20261110T200000
+DTSTAMP:20261101T172703Z
+UID:8efdc0ca01d8bd36a147d5072fc42b@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/project-blue-worcester-mill-brook-watershed-d
+ raft-final-plan-public-meeting
+LOCATION:Unitarian Universalist Church of Worcester\, 140 Shore Drive - Ma
+ p It
+URL:https://www.worcesterma.gov/calendar/project-blue-worcester-mill-brook
+ -watershed-draft-final-plan-public-meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veterans Day Ceremonies
+DTSTART:20261111T083000
+DTEND:20261111T140000
+DTSTAMP:20261101T172703Z
+UID:eceba827dfde47ca2f8331bb8eb7e4@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/veterans-day-ceremonies
+LOCATION:City-Wide - Map It
+URL:https://www.worcesterma.gov/calendar/veterans-day-ceremonies
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newton Square/Highland Street Meeting
+DTSTART:20261119T180000
+DTEND:20261119T193000
+DTSTAMP:20261101T172703Z
+UID:daed5e55f8ab0b1184eb61f482db79@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/newton-squarehighland-street-meeting
+LOCATION:Doherty Memorial High School\, 299 Highland Street - Map It
+URL:https://www.worcesterma.gov/calendar/newton-squarehighland-street-meet
+ ing
 END:VEVENT
 END:VCALENDAR
