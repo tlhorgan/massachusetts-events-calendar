@@ -6,23 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261102T191500
-DTEND:20261102T211500
-DTSTAMP:20261102T210541Z
-UID:7c164989e9e1a135be0cd2a74b21e7@central-massachusetts-events
-DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
- mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
- editation-mondays-11-02-2026-19581
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/meditation-monday
- s-11-02-2026-19581
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261103T171500
 DTEND:20261103T191500
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:2eec906c49aeee15a1f0f106e9a964@central-massachusetts-events
 DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
   Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
@@ -36,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:10th Anniversary of the Worcester Consumer Rights Program
 DTSTART:20261104T093000
 DTEND:20261104T113000
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:4fd8e511b38bd790f2048a64ed9d44@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/10th-anniversary-worcester-consumer-rights-pr
@@ -49,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261104T110000
 DTEND:20261104T130000
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:50ad713f5aee2832ecae5083118917@central-massachusetts-events
 DESCRIPTION:pfml\, skoler abbott\, policies\, work\, human resources\, law
  \n\nSource: Worcester Regional Chamber of Commerce\nEvent page: https://bu
@@ -64,7 +50,7 @@ SUMMARY:Project Blue Worcester - Quinsigamond Watershed Draft Final Plan P
  ublic Meeting
 DTSTART:20261104T190000
 DTEND:20261104T203000
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:df26cc0256595459e49a316126d144@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/project-blue-worcester-quinsigamond-watershed
@@ -77,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261105T090000
 DTEND:20261105T110000
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:e6d52e007ea7b6d80ad93ffb500ef4@central-massachusetts-events
 DESCRIPTION:Family-owned businesses are the backbone of our region. Join t
  he Worcester Regional Chamber of Commerce s Family-Owned Business roundtab
@@ -97,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Household Hazardous Waste Day
 DTSTART:20261107T090000
 DTEND:20261107T120000
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:5fa32bed30b64bc6f24c0fbd027820@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/household-hazardous-waste-day
@@ -108,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20261108T090000
 DTEND:20261108T110000
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:1f4202e551a350679e60c1215e4c6e@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-7
@@ -120,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261108T093000
 DTEND:20261108T113000
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:93ecc4c924883910f250f3ccaf9367@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -135,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261109T191500
 DTEND:20261109T211500
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:083096d49a50474a039ceaf03a78d4@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -149,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261110T073000
 DTEND:20261110T093000
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:84ef5fcc032b3a184c7fcfa9328792@central-massachusetts-events
 DESCRIPTION:networking\, Auburn\, Town Manager. Police\, Fire\, talk\,upda
  te\, government\, route 20\n\nSource: Worcester Regional Chamber of Commer
@@ -165,7 +151,7 @@ SUMMARY:Project Blue Worcester - Mill Brook Watershed Draft Final Plan Pub
  lic Meeting
 DTSTART:20261110T183000
 DTEND:20261110T200000
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:8efdc0ca01d8bd36a147d5072fc42b@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/project-blue-worcester-mill-brook-watershed-d
@@ -179,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Veterans Day Ceremonies
 DTSTART:20261111T083000
 DTEND:20261111T140000
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:eceba827dfde47ca2f8331bb8eb7e4@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/veterans-day-ceremonies
@@ -190,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Newton Square/Highland Street Meeting
 DTSTART:20261119T180000
 DTEND:20261119T193000
-DTSTAMP:20261102T210541Z
+DTSTAMP:20261103T185317Z
 UID:daed5e55f8ab0b1184eb61f482db79@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/newton-squarehighland-street-meeting
