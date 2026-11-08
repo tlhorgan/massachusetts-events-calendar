@@ -5,33 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
-SUMMARY:2026 Inaugural Homeowner Summit
-DTSTART:20261107T090000
-DTEND:20261107T130000
-DTSTAMP:20261107T171125Z
-UID:6eed025b53168e6e28e49c5ad112b6@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/2026-inaugural-homeowner-summit
-LOCATION:DCU Center (Use Door 2 entrance and take escalator to third floor
- )\, 50 Foster Street - Map It
-URL:https://www.worcesterma.gov/calendar/2026-inaugural-homeowner-summit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Household Hazardous Waste Day
-DTSTART:20261107T090000
-DTEND:20261107T120000
-DTSTAMP:20261107T171125Z
-UID:5fa32bed30b64bc6f24c0fbd027820@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/household-hazardous-waste-day
-LOCATION:DPW Residential Drop-Off Center\, 1065 Millbury Street - Map It
-URL:https://www.worcesterma.gov/calendar/household-hazardous-waste-day
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Community Cleanup With The City Manager's Clean Team
 DTSTART:20261108T090000
 DTEND:20261108T110000
-DTSTAMP:20261107T171125Z
+DTSTAMP:20261108T173111Z
 UID:1f4202e551a350679e60c1215e4c6e@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/community-cleanup-city-managers-clean-team-7
@@ -43,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261108T093000
 DTEND:20261108T113000
-DTSTAMP:20261107T171125Z
+DTSTAMP:20261108T173111Z
 UID:93ecc4c924883910f250f3ccaf9367@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -58,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261109T191500
 DTEND:20261109T211500
-DTSTAMP:20261107T171125Z
+DTSTAMP:20261108T173111Z
 UID:083096d49a50474a039ceaf03a78d4@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -72,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261110T073000
 DTEND:20261110T093000
-DTSTAMP:20261107T171125Z
+DTSTAMP:20261108T173111Z
 UID:84ef5fcc032b3a184c7fcfa9328792@central-massachusetts-events
 DESCRIPTION:networking\, Auburn\, Town Manager. Police\, Fire\, talk\,upda
  te\, government\, route 20\n\nSource: Worcester Regional Chamber of Commer
@@ -88,7 +65,7 @@ SUMMARY:Project Blue Worcester - Mill Brook Watershed Draft Final Plan Pub
  lic Meeting
 DTSTART:20261110T183000
 DTEND:20261110T200000
-DTSTAMP:20261107T171125Z
+DTSTAMP:20261108T173111Z
 UID:8efdc0ca01d8bd36a147d5072fc42b@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/project-blue-worcester-mill-brook-watershed-d
@@ -102,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261111T083000
 DTEND:20261111T103000
-DTSTAMP:20261107T171125Z
+DTSTAMP:20261108T173111Z
 UID:81048f8ca7d4184698d708f9aa94d7@central-massachusetts-events
 DESCRIPTION:City of Worcester Veterans Day Parade\, Veterans Inc Pancake B
  reakfast\, November 11\n\nSource: Worcester Regional Chamber of Commerce\n
@@ -117,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Veterans Day Ceremonies
 DTSTART:20261111T083000
 DTEND:20261111T140000
-DTSTAMP:20261107T171125Z
+DTSTAMP:20261108T173111Z
 UID:eceba827dfde47ca2f8331bb8eb7e4@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/veterans-day-ceremonies
@@ -128,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261112T163000
 DTEND:20261112T183000
-DTSTAMP:20261107T171125Z
+DTSTAMP:20261108T173111Z
 UID:8b4cad1b0b62f4dae92de2955f134e@central-massachusetts-events
 DESCRIPTION:networking\, business to business\, business after hours\, soc
  ial\, chamber event\n\nSource: Worcester Regional Chamber of Commerce\nEve
@@ -143,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Newton Square/Highland Street Meeting
 DTSTART:20261119T180000
 DTEND:20261119T193000
-DTSTAMP:20261107T171125Z
+DTSTAMP:20261108T173111Z
 UID:daed5e55f8ab0b1184eb61f482db79@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/newton-squarehighland-street-meeting
