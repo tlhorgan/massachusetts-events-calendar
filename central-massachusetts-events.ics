@@ -6,23 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261109T191500
-DTEND:20261109T211500
-DTSTAMP:20261109T215430Z
-UID:083096d49a50474a039ceaf03a78d4@central-massachusetts-events
-DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
- mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
- editation-mondays-11-09-2026-19582
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/meditation-monday
- s-11-09-2026-19582
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261110T073000
 DTEND:20261110T093000
-DTSTAMP:20261109T215430Z
+DTSTAMP:20261110T190958Z
 UID:1585df1b319d002147f83ceae41b04@central-massachusetts-events
 DESCRIPTION:networking\, Auburn\, Town Manager. Police\, Fire\, talk\,upda
  te\, government\, route 20\n\nSource: Worcester Regional Chamber of Commer
@@ -39,7 +25,7 @@ SUMMARY:Project Blue Worcester - Mill Brook Watershed Draft Final Plan Pub
  lic Meeting
 DTSTART:20261110T183000
 DTEND:20261110T200000
-DTSTAMP:20261109T215430Z
+DTSTAMP:20261110T190958Z
 UID:8efdc0ca01d8bd36a147d5072fc42b@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/project-blue-worcester-mill-brook-watershed-d
@@ -53,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261111T083000
 DTEND:20261111T103000
-DTSTAMP:20261109T215430Z
+DTSTAMP:20261110T190958Z
 UID:81048f8ca7d4184698d708f9aa94d7@central-massachusetts-events
 DESCRIPTION:City of Worcester Veterans Day Parade\, Veterans Inc Pancake B
  reakfast\, November 11\n\nSource: Worcester Regional Chamber of Commerce\n
@@ -68,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Veterans Day Ceremonies
 DTSTART:20261111T083000
 DTEND:20261111T140000
-DTSTAMP:20261109T215430Z
+DTSTAMP:20261110T190958Z
 UID:eceba827dfde47ca2f8331bb8eb7e4@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/veterans-day-ceremonies
@@ -79,14 +65,14 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261112T163000
 DTEND:20261112T183000
-DTSTAMP:20261109T215430Z
-UID:8b4cad1b0b62f4dae92de2955f134e@central-massachusetts-events
+DTSTAMP:20261110T190958Z
+UID:d0de448f78ff131ed5c76b7a0cfa3c@central-massachusetts-events
 DESCRIPTION:networking\, business to business\, business after hours\, soc
  ial\, chamber event\n\nSource: Worcester Regional Chamber of Commerce\nEve
  nt page: https://business.worcesterchamber.org/events/details/7-chamber-b-
  a-s-h-business-after-hours-great-wolf-lodge-23935
-LOCATION:00 PM EST Thursday\, November 20\, 2025 4:30 PM - 7:00 PM Locatio
- n Great Wolf Lodge 150 Great Wolf Drive Fitchburg\, MA 01420
+LOCATION:00 PM EST Location Great Wolf Lodge 150 Great Wolf Drive Fitchbur
+ g\, MA 01420
 URL:https://business.worcesterchamber.org/events/details/7-chamber-b-a-s-h
  -business-after-hours-great-wolf-lodge-23935
 END:VEVENT
@@ -94,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Newton Square/Highland Street Meeting
 DTSTART:20261119T180000
 DTEND:20261119T193000
-DTSTAMP:20261109T215430Z
+DTSTAMP:20261110T190958Z
 UID:daed5e55f8ab0b1184eb61f482db79@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/newton-squarehighland-street-meeting
