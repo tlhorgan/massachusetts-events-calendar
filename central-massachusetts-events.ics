@@ -6,40 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261110T073000
-DTEND:20261110T093000
-DTSTAMP:20261110T190958Z
-UID:1585df1b319d002147f83ceae41b04@central-massachusetts-events
-DESCRIPTION:networking\, Auburn\, Town Manager. Police\, Fire\, talk\,upda
- te\, government\, route 20\n\nSource: Worcester Regional Chamber of Commer
- ce\nEvent page: https://business.worcesterchamber.org/events/details/aubur
- n-chamber-town-talk-2026-21369
-LOCATION:00 AM EST 7:30 - 9:00 AM Continental Breakfast will be provided. 
- Location Pakachoag Center at Pakachoag Church 203 Pakachoag Street Auburn
- \, MA 01501
-URL:https://business.worcesterchamber.org/events/details/auburn-chamber-to
- wn-talk-2026-21369
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Blue Worcester - Mill Brook Watershed Draft Final Plan Pub
- lic Meeting
-DTSTART:20261110T183000
-DTEND:20261110T200000
-DTSTAMP:20261110T190958Z
-UID:8efdc0ca01d8bd36a147d5072fc42b@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/project-blue-worcester-mill-brook-watershed-d
- raft-final-plan-public-meeting
-LOCATION:Unitarian Universalist Church of Worcester\, 140 Shore Drive - Ma
- p It
-URL:https://www.worcesterma.gov/calendar/project-blue-worcester-mill-brook
- -watershed-draft-final-plan-public-meeting
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261111T083000
 DTEND:20261111T103000
-DTSTAMP:20261110T190958Z
+DTSTAMP:20261111T190520Z
 UID:81048f8ca7d4184698d708f9aa94d7@central-massachusetts-events
 DESCRIPTION:City of Worcester Veterans Day Parade\, Veterans Inc Pancake B
  reakfast\, November 11\n\nSource: Worcester Regional Chamber of Commerce\n
@@ -54,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Veterans Day Ceremonies
 DTSTART:20261111T083000
 DTEND:20261111T140000
-DTSTAMP:20261110T190958Z
+DTSTAMP:20261111T190520Z
 UID:eceba827dfde47ca2f8331bb8eb7e4@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/veterans-day-ceremonies
@@ -65,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261112T163000
 DTEND:20261112T183000
-DTSTAMP:20261110T190958Z
+DTSTAMP:20261111T190520Z
 UID:d0de448f78ff131ed5c76b7a0cfa3c@central-massachusetts-events
 DESCRIPTION:networking\, business to business\, business after hours\, soc
  ial\, chamber event\n\nSource: Worcester Regional Chamber of Commerce\nEve
@@ -77,10 +46,58 @@ URL:https://business.worcesterchamber.org/events/details/7-chamber-b-a-s-h
  -business-after-hours-great-wolf-lodge-23935
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261113T153000
+DTEND:20261113T173000
+DTSTAMP:20261111T190520Z
+UID:c5721034ef7f95d249bbb82361e20c@central-massachusetts-events
+DESCRIPTION:Ribbon cutting ceremony to mark the opening of the new btone F
+ itness\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: http
+ s://business.worcesterchamber.org/events/details/ribbon-cutting-btone-fitn
+ ess-24051
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/ribbon-cutting-bt
+ one-fitness-24051
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261114T110000
+DTEND:20261114T130000
+DTSTAMP:20261111T190520Z
+UID:311a46fe46cab425e0142659b9877c@central-massachusetts-events
+DESCRIPTION:Journey to Space Ribbon Cutting and Exhibit Opening Saturday\,
+  November 14\, 2026 11:00am – 11:30am The EcoTarium is excited to announ
+ ce our newest traveling exhibit\, Journey to Space. Come to the official o
+ pening and ribbon cutting on Saturday\, November 14\, 2026 at 11:00 am and
+  be among the first to experience this ...\n\nSource: Worcester Regional C
+ hamber of Commerce\nEvent page: https://business.worcesterchamber.org/even
+ ts/details/journey-to-space-ribbon-cutting-24039
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/journey-to-space-
+ ribbon-cutting-24039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261115T093000
+DTEND:20261115T113000
+DTSTAMP:20261111T190520Z
+UID:e078a060c6fd0a99e112eb4bd01281@central-massachusetts-events
+DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
+ h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
+ https://business.worcesterchamber.org/events/details/meditación-para-la-r
+ educción-del-estrés-en-español-spanish-session-11-15-2026-15905
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/meditación-para-
+ la-reducción-del-estrés-en-español-spanish-session-11-15-2026-15905
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Newton Square/Highland Street Meeting
 DTSTART:20261119T180000
 DTEND:20261119T193000
-DTSTAMP:20261110T190958Z
+DTSTAMP:20261111T190520Z
 UID:daed5e55f8ab0b1184eb61f482db79@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/newton-squarehighland-street-meeting
