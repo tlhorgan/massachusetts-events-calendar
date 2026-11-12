@@ -6,35 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261111T083000
-DTEND:20261111T103000
-DTSTAMP:20261111T190520Z
-UID:81048f8ca7d4184698d708f9aa94d7@central-massachusetts-events
-DESCRIPTION:City of Worcester Veterans Day Parade\, Veterans Inc Pancake B
- reakfast\, November 11\n\nSource: Worcester Regional Chamber of Commerce\n
- Event page: https://business.worcesterchamber.org/events/details/city-of-w
- orcester-73rd-annual-veterans-day-parade-events-24028
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/city-of-worcester
- -73rd-annual-veterans-day-parade-events-24028
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Veterans Day Ceremonies
-DTSTART:20261111T083000
-DTEND:20261111T140000
-DTSTAMP:20261111T190520Z
-UID:eceba827dfde47ca2f8331bb8eb7e4@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/veterans-day-ceremonies
-LOCATION:City-Wide - Map It
-URL:https://www.worcesterma.gov/calendar/veterans-day-ceremonies
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261112T163000
 DTEND:20261112T183000
-DTSTAMP:20261111T190520Z
+DTSTAMP:20261112T192332Z
 UID:d0de448f78ff131ed5c76b7a0cfa3c@central-massachusetts-events
 DESCRIPTION:networking\, business to business\, business after hours\, soc
  ial\, chamber event\n\nSource: Worcester Regional Chamber of Commerce\nEve
@@ -49,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261113T153000
 DTEND:20261113T173000
-DTSTAMP:20261111T190520Z
+DTSTAMP:20261112T192332Z
 UID:c5721034ef7f95d249bbb82361e20c@central-massachusetts-events
 DESCRIPTION:Ribbon cutting ceremony to mark the opening of the new btone F
  itness\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: http
@@ -64,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261114T110000
 DTEND:20261114T130000
-DTSTAMP:20261111T190520Z
+DTSTAMP:20261112T192332Z
 UID:311a46fe46cab425e0142659b9877c@central-massachusetts-events
 DESCRIPTION:Journey to Space Ribbon Cutting and Exhibit Opening Saturday\,
   November 14\, 2026 11:00am – 11:30am The EcoTarium is excited to announ
@@ -82,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261115T093000
 DTEND:20261115T113000
-DTSTAMP:20261111T190520Z
+DTSTAMP:20261112T192332Z
 UID:e078a060c6fd0a99e112eb4bd01281@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -97,12 +71,26 @@ BEGIN:VEVENT
 SUMMARY:Newton Square/Highland Street Meeting
 DTSTART:20261119T180000
 DTEND:20261119T193000
-DTSTAMP:20261111T190520Z
+DTSTAMP:20261112T192332Z
 UID:daed5e55f8ab0b1184eb61f482db79@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/newton-squarehighland-street-meeting
 LOCATION:Doherty Memorial High School\, 299 Highland Street - Map It
 URL:https://www.worcesterma.gov/calendar/newton-squarehighland-street-meet
  ing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Worcester Police Department Information Session
+DTSTART:20261203T180000
+DTEND:20261202T180000
+DTSTAMP:20261112T192332Z
+UID:3e97eb6ef2b2a900ab4d0123cc9ef9@central-massachusetts-events
+DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
+ www.worcesterma.gov/calendar/worcester-police-department-information-sessi
+ on
+LOCATION:Worcester Police Department Training Center\, 9-11 Lincoln Square
+  - Map It
+URL:https://www.worcesterma.gov/calendar/worcester-police-department-infor
+ mation-session
 END:VEVENT
 END:VCALENDAR
