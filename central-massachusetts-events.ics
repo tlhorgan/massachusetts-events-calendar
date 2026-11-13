@@ -6,24 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261112T163000
-DTEND:20261112T183000
-DTSTAMP:20261112T192332Z
-UID:d0de448f78ff131ed5c76b7a0cfa3c@central-massachusetts-events
-DESCRIPTION:networking\, business to business\, business after hours\, soc
- ial\, chamber event\n\nSource: Worcester Regional Chamber of Commerce\nEve
- nt page: https://business.worcesterchamber.org/events/details/7-chamber-b-
- a-s-h-business-after-hours-great-wolf-lodge-23935
-LOCATION:00 PM EST Location Great Wolf Lodge 150 Great Wolf Drive Fitchbur
- g\, MA 01420
-URL:https://business.worcesterchamber.org/events/details/7-chamber-b-a-s-h
- -business-after-hours-great-wolf-lodge-23935
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261113T153000
 DTEND:20261113T173000
-DTSTAMP:20261112T192332Z
+DTSTAMP:20261113T190026Z
 UID:c5721034ef7f95d249bbb82361e20c@central-massachusetts-events
 DESCRIPTION:Ribbon cutting ceremony to mark the opening of the new btone F
  itness\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: http
@@ -38,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261114T110000
 DTEND:20261114T130000
-DTSTAMP:20261112T192332Z
+DTSTAMP:20261113T190026Z
 UID:311a46fe46cab425e0142659b9877c@central-massachusetts-events
 DESCRIPTION:Journey to Space Ribbon Cutting and Exhibit Opening Saturday\,
   November 14\, 2026 11:00am – 11:30am The EcoTarium is excited to announ
@@ -54,36 +39,40 @@ URL:https://business.worcesterchamber.org/events/details/journey-to-space-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261115T093000
-DTEND:20261115T113000
-DTSTAMP:20261112T192332Z
-UID:e078a060c6fd0a99e112eb4bd01281@central-massachusetts-events
-DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
- h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
- https://business.worcesterchamber.org/events/details/meditación-para-la-r
- educción-del-estrés-en-español-spanish-session-11-15-2026-15905
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/meditación-para-
- la-reducción-del-estrés-en-español-spanish-session-11-15-2026-15905
+DTSTART:20261115T180000
+DTEND:20261115T200000
+DTSTAMP:20261113T190026Z
+UID:b1c928f52a6d48c768eb48397bc719@central-massachusetts-events
+DESCRIPTION:Studio Theatre Worcester proudly presents Ghostlight on the Fi
+ fth\, a new play by Carlos Fruzzetti. Join us for a special\, one-night-on
+ ly staged reading on November 15th at 6:00pm at the WCUW Radio Front Room
+ \n\nSource: Worcester Regional Chamber of Commerce\nEvent page: https://bu
+ siness.worcesterchamber.org/events/details/ghostlight-on-the-fifth-a-stage
+ d-reading-24033
+LOCATION:00 PM EST November 15th at 6:00pm Location WCUW Radio Front Room 
+ (910 Main St. Worcester\, MA 01610
+URL:https://business.worcesterchamber.org/events/details/ghostlight-on-the
+ -fifth-a-staged-reading-24033
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newton Square/Highland Street Meeting
-DTSTART:20261119T180000
-DTEND:20261119T193000
-DTSTAMP:20261112T192332Z
-UID:daed5e55f8ab0b1184eb61f482db79@central-massachusetts-events
-DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
- www.worcesterma.gov/calendar/newton-squarehighland-street-meeting
-LOCATION:Doherty Memorial High School\, 299 Highland Street - Map It
-URL:https://www.worcesterma.gov/calendar/newton-squarehighland-street-meet
- ing
+SUMMARY:MicroNet Template
+DTSTART:20261116T191500
+DTEND:20261116T211500
+DTSTAMP:20261113T190026Z
+UID:9b89184ac5aaaa62292b7ffd136a0a@central-massachusetts-events
+DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
+ mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
+ editation-mondays-11-16-2026-19583
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/meditation-monday
+ s-11-16-2026-19583
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Worcester Police Department Information Session
 DTSTART:20261203T180000
 DTEND:20261202T180000
-DTSTAMP:20261112T192332Z
+DTSTAMP:20261113T190026Z
 UID:3e97eb6ef2b2a900ab4d0123cc9ef9@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/worcester-police-department-information-sessi
