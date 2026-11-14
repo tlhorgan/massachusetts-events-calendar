@@ -6,24 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261113T153000
-DTEND:20261113T173000
-DTSTAMP:20261113T190026Z
-UID:c5721034ef7f95d249bbb82361e20c@central-massachusetts-events
-DESCRIPTION:Ribbon cutting ceremony to mark the opening of the new btone F
- itness\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: http
- s://business.worcesterchamber.org/events/details/ribbon-cutting-btone-fitn
- ess-24051
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/ribbon-cutting-bt
- one-fitness-24051
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261114T110000
 DTEND:20261114T130000
-DTSTAMP:20261113T190026Z
+DTSTAMP:20261114T173359Z
 UID:311a46fe46cab425e0142659b9877c@central-massachusetts-events
 DESCRIPTION:Journey to Space Ribbon Cutting and Exhibit Opening Saturday\,
   November 14\, 2026 11:00am – 11:30am The EcoTarium is excited to announ
@@ -41,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261115T180000
 DTEND:20261115T200000
-DTSTAMP:20261113T190026Z
+DTSTAMP:20261114T173359Z
 UID:b1c928f52a6d48c768eb48397bc719@central-massachusetts-events
 DESCRIPTION:Studio Theatre Worcester proudly presents Ghostlight on the Fi
  fth\, a new play by Carlos Fruzzetti. Join us for a special\, one-night-on
@@ -58,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261116T191500
 DTEND:20261116T211500
-DTSTAMP:20261113T190026Z
+DTSTAMP:20261114T173359Z
 UID:9b89184ac5aaaa62292b7ffd136a0a@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -69,10 +54,24 @@ URL:https://business.worcesterchamber.org/events/details/meditation-monday
  s-11-16-2026-19583
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261117T090000
+DTEND:20261117T110000
+DTSTAMP:20261114T173359Z
+UID:0008d3577aae87c655c538fea523c6@central-massachusetts-events
+DESCRIPTION:diversity\, professional\, roundtable\, networking\, education
+ \n\nSource: Worcester Regional Chamber of Commerce\nEvent page: https://bu
+ siness.worcesterchamber.org/events/details/diverse-professional-roundtable
+ -educational-meeting-11-17-2026-24082
+LOCATION:Rooms A & B 100 Institute Road\, Worcester\, MA 01609
+URL:https://business.worcesterchamber.org/events/details/diverse-professio
+ nal-roundtable-educational-meeting-11-17-2026-24082
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Worcester Police Department Information Session
 DTSTART:20261203T180000
 DTEND:20261202T180000
-DTSTAMP:20261113T190026Z
+DTSTAMP:20261114T173359Z
 UID:3e97eb6ef2b2a900ab4d0123cc9ef9@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/worcester-police-department-information-sessi
