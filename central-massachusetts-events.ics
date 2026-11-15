@@ -6,27 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261114T110000
-DTEND:20261114T130000
-DTSTAMP:20261114T173359Z
-UID:311a46fe46cab425e0142659b9877c@central-massachusetts-events
-DESCRIPTION:Journey to Space Ribbon Cutting and Exhibit Opening Saturday\,
-  November 14\, 2026 11:00am – 11:30am The EcoTarium is excited to announ
- ce our newest traveling exhibit\, Journey to Space. Come to the official o
- pening and ribbon cutting on Saturday\, November 14\, 2026 at 11:00 am and
-  be among the first to experience this ...\n\nSource: Worcester Regional C
- hamber of Commerce\nEvent page: https://business.worcesterchamber.org/even
- ts/details/journey-to-space-ribbon-cutting-24039
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/journey-to-space-
- ribbon-cutting-24039
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261115T180000
 DTEND:20261115T200000
-DTSTAMP:20261114T173359Z
+DTSTAMP:20261115T180140Z
 UID:b1c928f52a6d48c768eb48397bc719@central-massachusetts-events
 DESCRIPTION:Studio Theatre Worcester proudly presents Ghostlight on the Fi
  fth\, a new play by Carlos Fruzzetti. Join us for a special\, one-night-on
@@ -43,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261116T191500
 DTEND:20261116T211500
-DTSTAMP:20261114T173359Z
+DTSTAMP:20261115T180140Z
 UID:9b89184ac5aaaa62292b7ffd136a0a@central-massachusetts-events
 DESCRIPTION:Meditation Mondays\n\nSource: Worcester Regional Chamber of Co
  mmerce\nEvent page: https://business.worcesterchamber.org/events/details/m
@@ -57,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261117T090000
 DTEND:20261117T110000
-DTSTAMP:20261114T173359Z
+DTSTAMP:20261115T180140Z
 UID:0008d3577aae87c655c538fea523c6@central-massachusetts-events
 DESCRIPTION:diversity\, professional\, roundtable\, networking\, education
  \n\nSource: Worcester Regional Chamber of Commerce\nEvent page: https://bu
@@ -71,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Worcester Police Department Information Session
 DTSTART:20261203T180000
 DTEND:20261202T180000
-DTSTAMP:20261114T173359Z
+DTSTAMP:20261115T180140Z
 UID:3e97eb6ef2b2a900ab4d0123cc9ef9@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/worcester-police-department-information-sessi
