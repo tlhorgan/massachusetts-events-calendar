@@ -6,23 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261117T090000
-DTEND:20261117T110000
-DTSTAMP:20261117T201327Z
-UID:0008d3577aae87c655c538fea523c6@central-massachusetts-events
-DESCRIPTION:diversity\, professional\, roundtable\, networking\, education
- \n\nSource: Worcester Regional Chamber of Commerce\nEvent page: https://bu
- siness.worcesterchamber.org/events/details/diverse-professional-roundtable
- -educational-meeting-11-17-2026-24082
-LOCATION:Rooms A & B 100 Institute Road\, Worcester\, MA 01609
-URL:https://business.worcesterchamber.org/events/details/diverse-professio
- nal-roundtable-educational-meeting-11-17-2026-24082
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261118T170000
 DTEND:20261118T190000
-DTSTAMP:20261117T201327Z
+DTSTAMP:20261118T194926Z
 UID:20a13ceda3a50598f5c24a8c12aeef@central-massachusetts-events
 DESCRIPTION:networking\, chamber\, Central\, Mass\, South\, Southbridge\, 
  fall\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: https:
@@ -37,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261119T000000
 DTEND:20261119T020000
-DTSTAMP:20261117T201327Z
+DTSTAMP:20261118T194926Z
 UID:4a55425de2fe58e20df64a29d5eb4b@central-massachusetts-events
 DESCRIPTION:BVCC Annual Meeting\n\nSource: Worcester Regional Chamber of C
  ommerce\nEvent page: https://business.worcesterchamber.org/events/details/
@@ -51,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261120T000000
 DTEND:20261120T020000
-DTSTAMP:20261117T201327Z
+DTSTAMP:20261118T194926Z
 UID:5f31ca76b05d50092fb1c06805eecc@central-massachusetts-events
 DESCRIPTION:Join John Maxwell’s Live2Lead in Shrewsbury on November 20 f
  or a day of leadership and personal growth. Connect with local leaders and
@@ -67,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261121T000000
 DTEND:20261121T020000
-DTSTAMP:20261117T201327Z
+DTSTAMP:20261118T194926Z
 UID:ce18c7f1a74005760615c9e36162d5@central-massachusetts-events
 DESCRIPTION:Book your Holiday Party at the Comfort Inn & Suites - Sturbrid
  ge Brimfield\n\nSource: Worcester Regional Chamber of Commerce\nEvent page
@@ -79,10 +65,25 @@ URL:https://business.worcesterchamber.org/events/details/book-your-holiday
  -party-at-the-comfort-inn-suites-sturbridge-brimfield-11-21-2026-20986
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MicroNet Template
+DTSTART:20261122T093000
+DTEND:20261122T113000
+DTSTAMP:20261118T194926Z
+UID:41387989f72d48d8f9c8e01a70acc8@central-massachusetts-events
+DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
+ h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
+ https://business.worcesterchamber.org/events/details/meditación-para-la-r
+ educción-del-estrés-en-español-spanish-session-11-22-2026-15906
+LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
+ \, Suite 200 Worcester\, MA 01608
+URL:https://business.worcesterchamber.org/events/details/meditación-para-
+ la-reducción-del-estrés-en-español-spanish-session-11-22-2026-15906
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Worcester Police Department Information Session
 DTSTART:20261203T180000
 DTEND:20261202T180000
-DTSTAMP:20261117T201327Z
+DTSTAMP:20261118T194926Z
 UID:3e97eb6ef2b2a900ab4d0123cc9ef9@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/worcester-police-department-information-sessi
@@ -96,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Festival of Lights
 DTSTART:20261204T163000
 DTEND:20261204T210000
-DTSTAMP:20261117T201327Z
+DTSTAMP:20261118T194926Z
 UID:2e5d6003fe61c9dbfea18b5ea1108e@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/festival-lights
