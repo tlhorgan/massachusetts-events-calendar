@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 from pathlib import Path
 import re
 
@@ -195,15 +195,45 @@ def main():
         print(f"ERROR loading {LIBRARY_SOURCE}: {exc}")
 
     if not items:
-        raise RuntimeError("No Northborough events were collected from any source.")
+        # Both official sources sometimes return HTTP 403 to GitHub Actions.
+        # Keep the existing feed rather than failing the entire MA workflow.
+        if OUTPUT.exists() and OUTPUT.stat().st_size > 100:
+            from icalendar import Calendar
+            try:
+                previous = Calendar.from_ical(OUTPUT.read_bytes())
+                retained = sum(
+                    1 for event in previous.walk("VEVENT")
+                    if (lambda d: d.date() if isinstance(d, datetime) else d)(
+                        event.decoded("DTSTART")
+                    ) >= date.today()
+                )
+            except Exception as exc:
+                raise RuntimeError(
+                    f"No Northborough events and cached feed is invalid: {exc}"
+                ) from exc
+            print(
+                f"WARNING: Northborough sources unavailable (HTTP 403). "
+                f"Preserving the previous calendar, with {retained} future events; "
+                "the Northborough feed is not refreshed today."
+            )
+            return
+        raise RuntimeError(
+            "No Northborough events collected and no valid prior feed exists."
+        )
 
     print(f"Collected {len(items)} Northborough events before deduplication")
     unique = base.dedupe(items)
 
     if len(unique) < 3:
+        if OUTPUT.exists() and OUTPUT.stat().st_size > 100:
+            print(
+                f"WARNING: Only {len(unique)} Northborough events collected. "
+                "Preserving the previous feed rather than overwriting it."
+            )
+            return
         raise RuntimeError(
-            f"Only {len(unique)} unique Northborough events were generated; "
-            "refusing to publish a suspiciously small feed."
+            f"Only {len(unique)} unique Northborough events were generated "
+            "and no prior feed exists."
         )
 
     original_output = base.OUTPUT
