@@ -6,23 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Central Massachusetts Events
 BEGIN:VEVENT
 SUMMARY:MicroNet Template
-DTSTART:20261124T171500
-DTEND:20261124T191500
-DTSTAMP:20261124T214639Z
-UID:69c9d07acc6237f3ff52bbc12705e2@central-massachusetts-events
-DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
-  Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
- ents/details/inner-harmony-breath-and-mantra-11-24-2026-23664
-LOCATION:RE LOCATED Worcester Regional Chamber of Commerce 311 Main Street
- \, Suite 200 Worcester\, MA 01608
-URL:https://business.worcesterchamber.org/events/details/inner-harmony-bre
- ath-and-mantra-11-24-2026-23664
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MicroNet Template
 DTSTART:20261128T080000
 DTEND:20261128T100000
-DTSTAMP:20261124T214639Z
+DTSTAMP:20261125T205315Z
 UID:de67cd6f2bbcf9233bd67a245e0d90@central-massachusetts-events
 DESCRIPTION:Saturday\, November 28th Celebrate Small Business Saturday at 
  Klem’s! As a thank-you for shopping small and supporting local\, enjoy 1
@@ -43,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261129T093000
 DTEND:20261129T113000
-DTSTAMP:20261124T214639Z
+DTSTAMP:20261125T205315Z
 UID:5c1bce9c7cef72e4ee621014bfbfbc@central-massachusetts-events
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session)\n\nSource: Worcester Regional Chamber of Commerce\nEvent page: 
@@ -58,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261130T080000
 DTEND:20261130T100000
-DTSTAMP:20261124T214639Z
+DTSTAMP:20261125T205315Z
 UID:dca41bfe89a824a2509985af13c9ae@central-massachusetts-events
 DESCRIPTION:holiday\, Auburn\, community\, contest\n\nSource: Worcester Re
  gional Chamber of Commerce\nEvent page: https://business.worcesterchamber.
@@ -71,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261201T171500
 DTEND:20261201T191500
-DTSTAMP:20261124T214639Z
+DTSTAMP:20261125T205315Z
 UID:58e161478ce365fab2bbed8c97946f@central-massachusetts-events
 DESCRIPTION:meditation\, breathwork\, mantra\n\nSource: Worcester Regional
   Chamber of Commerce\nEvent page: https://business.worcesterchamber.org/ev
@@ -85,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261202T090000
 DTEND:20261202T110000
-DTSTAMP:20261124T214639Z
+DTSTAMP:20261125T205315Z
 UID:d1ced6a8b9eadfdb6b42ca3cd96a3a@central-massachusetts-events
 DESCRIPTION:Exclusive Event for Banking Leaders - Limited to 20 Registrati
  ons! Seminar Speaker: Nathaniel White-Joyal President Scout Digital Nathan
@@ -105,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261203T100000
 DTEND:20261203T120000
-DTSTAMP:20261124T214639Z
+DTSTAMP:20261125T205315Z
 UID:846df0a3c4645585e3808b29f25759@central-massachusetts-events
 DESCRIPTION:In Partnership with Worcester Public Schools Better Feedback G
  ets Better Results How to maximize a new hire s chance to succeed!\n\nSour
@@ -121,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Worcester Police Department Information Session
 DTSTART:20261203T180000
 DTEND:20261202T180000
-DTSTAMP:20261124T214639Z
+DTSTAMP:20261125T205315Z
 UID:3e97eb6ef2b2a900ab4d0123cc9ef9@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/worcester-police-department-information-sessi
@@ -135,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Festival of Lights
 DTSTART:20261204T163000
 DTEND:20261204T210000
-DTSTAMP:20261124T214639Z
+DTSTAMP:20261125T205315Z
 UID:2e5d6003fe61c9dbfea18b5ea1108e@central-massachusetts-events
 DESCRIPTION:Source: City of Worcester Special Events\nEvent page: https://
  www.worcesterma.gov/calendar/festival-lights
