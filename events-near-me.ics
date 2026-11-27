@@ -4,27 +4,10 @@ PRODID:-//Events Near Me//EN
 X-WR-CALNAME:Events Near Me
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Hydraulic Arm
-DTSTART:20261126T003000
-DTEND:20261126T023000
-DTSTAMP:20261126T204455Z
-UID:f92bcbd179770f3a11f0ddf810ba4f@events-near-me
-DESCRIPTION:Come build a hydraulic arm using office supplies and other mat
- erials you could find around the home. Dress Code: Casual (jeans ok) --- E
- vent Details: https://myhc.holycross.edu/rsvp?id=2154841 Source: College o
- f the Holy Cross Event page: https://myhc.holycross.edu/rsvp?id=2154841\n
- \nEvents Near Me: within 30 miles of Northborough\, MA 01532\nDiscovery: L
- ocal fallback from worcester-colleges-events.ics\nSource page: https://myh
- c.holycross.edu/rsvp?id=2154841
-LOCATION:New Physics Space\, Haberlin 022\, 1 College Street\, Worcester\,
-  MA 01610\, United States
-URL:https://myhc.holycross.edu/rsvp?id=2154841
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Comedian Jon Fisch
 DTSTART:20261127T000000
 DTEND:20261127T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b4093a8335929bef68e22424e36b60@events-near-me
 DESCRIPTION:Jon Fisch is a New York City-based comedian who has appeared o
  n both The Late Show with David Letterman and The Late Show with Stephen C
@@ -48,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Commonwealth Ballet Company's The Nutcracker
 DTSTART:20261127T000000
 DTEND:20261220T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:07842be840c88b3be6694b5254c10a@events-near-me
 DESCRIPTION:Join us at Commonwealth Ballet for the holiday classic The Nut
  cracker returning to Regis College in Weston. In its 35th year\, CBC is pr
@@ -77,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Festival of Crafts
 DTSTART:20261127T000000
 DTEND:20261129T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0c4cfbaa1f085e21909dc11907b30b@events-near-me
 DESCRIPTION:Once a year\, the Friday\, Saturday\, and Sunday after Thanksg
  iving\, the Worcester Center for Crafts is transformed into a European-sty
@@ -108,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey vs. Air Force
 DTSTART:20261127T000000
 DTEND:20261127T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c72c86a66f2bf957a9b5496e11091a@events-near-me
 DESCRIPTION:Join us in honoring First Responders as Holy Cross Men's Ice H
  ockey plays Air Force at 7:00 P.M.! First responders can receive two free 
@@ -128,7 +111,7 @@ SUMMARY:"Home for the Holidays: A European Grand Tour" @ Salisbury Mansion
   November 27\, 2026 - January 2\, 2027
 DTSTART:20261127T000000
 DTEND:20261127T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:884e19c0a523becbe719bcdfebb844@events-near-me
 DESCRIPTION:Museum of Worcester in collaboration with Preservation Worcest
  er invite you "Home for the Holidays: A European Grand Tour” running Fri
@@ -162,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Houston Bernard & The Moonshine Band
 DTSTART:20261127T000000
 DTEND:20261127T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0db6c1581dacc24df9e85852da9bb3@events-near-me
 DESCRIPTION:Home for Thanksgiving? Skip the mall crowd. The Moonshine Band
   opens for Houston Bernard at Off The Rails in Worcester on Black Friday\,
@@ -181,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Island of Misfit Animals
 DTSTART:20261127T000000
 DTEND:20261227T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:4b7f47abf0e96d3a310892b4d60d8b@events-near-me
 DESCRIPTION:The Island of Misfit Animals November 27 through December 27\,
   2026 (Closed December 25th) Friday\, Saturday\, and Sunday Nights 5:30-8:
@@ -216,7 +199,7 @@ SUMMARY:NorthEast ComicCon & Collectibles Extravaganza - Holiday Shopping
  Show
 DTSTART:20261127T000000
 DTEND:20261129T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1b33b3a5d4d101ecbf085bb7e90fa4@events-near-me
 DESCRIPTION:NorthEast ComicCon & Collectibles Extravaganza returns to the 
  Boxboro Regency Hotel\, 242 Adams Place\, Boxborough\, MA 01719\, November
@@ -254,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:The Nutcracker
 DTSTART:20261127T000000
 DTEND:20261129T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8bdd0240862ca33695130a6e77d84b@events-near-me
 DESCRIPTION:November 27th 2026\, 2:00 pm November 27th 2026\, 7:00 pm Nove
  mber 28th 2026\, 2:00 pm November 28th 2026\, 7:00 pm November 29th 2026\,
@@ -280,26 +263,26 @@ BEGIN:VEVENT
 SUMMARY:Wreath Making Workshop - Deluxe
 DTSTART:20261127T000000
 DTEND:20261127T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8b767bf346a0774625a73d6482e866@events-near-me
 DESCRIPTION:Create a fresh evergreen wreath with a decorative bow and an a
  ssortment of holiday embellishments. Combine natural textures and festive 
  accents to suit your home. Preregistration required. Includes all material
  s and instruction. Sources: Discover Central Massachusetts Event page: htt
- ps://www.discovercentralma.org/event/wreath-making-workshop-deluxe/31221/
+ ps://www.discovercentralma.org/event/wreath-making-workshop-deluxe/31222/
  \n\nEvents Near Me: within 30 miles of Northborough\, MA 01532\nDiscovery:
   Local fallback from massachusetts-events.ics\nSource page: https://www.di
- scovercentralma.org/event/wreath-making-workshop-deluxe/31221/
+ scovercentralma.org/event/wreath-making-workshop-deluxe/31222/
 LOCATION:Bemis Farms Nursery\, 29 North Brookfield Rd 29 North Brookfield 
  Rd\, Spencer\, MA\, 01562-1303
 URL:https://www.discovercentralma.org/event/wreath-making-workshop-deluxe/
- 31221/
+ 31222/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2nd Annual Artisan & Craft Fair
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:502ce32f9e01e80d79f5f1b16b07bf@events-near-me
 DESCRIPTION:The Barn at Blackstone National hosts it's 2nd Annual Artisan 
  & Craft Fair Admission is FREE to the public Cash bar onsite A wide range 
@@ -322,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:AD/HD - The AC/DC Experience - Worcester
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:72240ddd5290e2907075cf694e082c@events-near-me
 DESCRIPTION:Get ready to rock as AD/HD - The AC/DC Experience takes the st
  age at Off The Rails Music Venue in Worcester! This electrifying tribute b
@@ -349,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Art Exhibit: Coastal Visions
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0b222b0ef301bce846d26947cb8e7c@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/art-exhibit-coastal-visions-2
@@ -366,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Boston Tuba Christmas
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e2e5ad752796a976ce85a0de9296d7@events-near-me
 DESCRIPTION:Tuba Christmas returns to Downtown Boston on November 28th wit
  h over 100 regional brass instrument players offering classic holiday favo
@@ -388,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:Cardinal Christmas - Cardinal Wreath
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ef8d994cefadc7c0972a6175567131@events-near-me
 DESCRIPTION:Make a fresh evergreen wreath with small cardinal accents\, pi
  ne cones\, and a red bow. Make all three Cardinal Christmas projects for a
@@ -407,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:Cardinal Christmas - Cardinal Yard Stake or Swag
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:70de7e3d93d7e617ac205200299d44@events-near-me
 DESCRIPTION:Combine a cardinal accent with fresh evergreen branches\, berr
  ies\, pine cones\, and ribbon to create a festive yard stake. Make all thr
@@ -426,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:Cardinal Christmas - Welcome Porch Pot Making Workshop
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2780dbc29696830310fb4a4cfc9ae2@events-near-me
 DESCRIPTION:Create a welcoming porch pot with fresh evergreens\, red berri
  es\, pinecones\, white twigs\, and a cardinal welcome accent. Make all thr
@@ -446,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons & Dragons for Beginners and Beyond
 DTSTART:20261128T120000
 DTEND:20261128T150000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2f10fc45a635b0ce79bfa33b362106@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/dungeons-dragons-for-beginner
@@ -463,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Grinch\, Leif\, Santa\, or Sven
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:53f8a2d1323991819b169cac9eca23@events-near-me
 DESCRIPTION:All four of these extremely cool decorations have similar cons
  truction techniques. So we teach them together at the same time. Simply ch
@@ -492,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey vs. Air Force
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0fd2b6b19ca4069ad125dd1eaf92e9@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey vs Air Force Streaming Video: http
  s://www.flohockey.tv/live/281841 Tickets: https://tickets.goholycross.com/
@@ -512,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey at St. Thomas
 DTSTART:20261128T000000
 DTEND:20261128T030000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d5c46633bfb1eabc7e51b9ca38bfa5@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey at St. Thomas TV: Big Ten Plus S
  treaming Video: https://www.bigtenplus.com/en-int/livestream/college-of-ho
@@ -531,7 +514,7 @@ SUMMARY:"Home for the Holidays: A European Grand Tour" @ Salisbury Mansion
   November 27\, 2026 - January 2\, 2027
 DTSTART:20261128T000000
 DTEND:20270102T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d73342e39b8fb18f860c4ffd57c3a1@events-near-me
 DESCRIPTION:Museum of Worcester in collaboration with Preservation Worcest
  er invite you "Home for the Holidays: A European Grand Tour” running Fri
@@ -565,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261128T080000
 DTEND:20261128T100000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:de67cd6f2bbcf9233bd67a245e0d90@events-near-me
 DESCRIPTION:Saturday\, November 28th Celebrate Small Business Saturday at 
  Klem’s! As a thank-you for shopping small and supporting local\, enjoy 1
@@ -590,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:Nashville Christmas: Fireside Stories
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c133d8afa7aa5bf1dfb4464e77f3e6@events-near-me
 DESCRIPTION:This Christmas season\, step inside historic Blaxton Hall at V
  aillancourt Folk Art for Nashville Christmas: Fireside Stories\, an intima
@@ -621,7 +604,7 @@ BEGIN:VEVENT
 SUMMARY:One-Horse Open Sleigh
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a6b2e5c49f1124ef3c44626de2dfdf@events-near-me
 DESCRIPTION:Fill a decorative sleigh with fragrant evergreen branches\, pi
  ne cones\, berries\, shiny ornaments\, and ribbon. Make a cheerful holiday
@@ -638,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261128T100000
 DTEND:20261128T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:780d83f2d5f790860a44332c3ab0b0@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/saturday-storytime-106/\n\nEv
@@ -654,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:Small Business Super SATURDAY Event!
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:bf7ac2d7e2f1ed5513b082188e0659@events-near-me
 DESCRIPTION:SMALL BUSINESS SUPER SATURDAY AT KLEM’S! Saturday\, November
   28th Celebrate Small Business Saturday with us at Klem’s! As a thank-yo
@@ -695,7 +678,7 @@ BEGIN:VEVENT
 SUMMARY:The Charles Hotel's 41st Tree Lighting
 DTSTART:20261128T000000
 DTEND:20261128T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3c4e942a354f7add09978147121b94@events-near-me
 DESCRIPTION:The Charles Hotel in Harvard Square invites the community to a
   magical evening for its 41st Annual Tree Lighting Celebration. Guests can
@@ -717,7 +700,7 @@ BEGIN:VEVENT
 SUMMARY:Custom Porch Pot Workshop
 DTSTART:20261129T000000
 DTEND:20261129T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8be63ca534104a773bebc32bd71c9c@events-near-me
 DESCRIPTION:Replace your summer flowers with a welcoming winter porch pot 
  of mixed evergreens\, pods\, berries\, cones\, branches\, and a velvet bow
@@ -736,7 +719,7 @@ BEGIN:VEVENT
 SUMMARY:Custom Wreath Making Workshop
 DTSTART:20261129T000000
 DTEND:20261129T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fbebbcbce7a11aff1040ab1ed0082c@events-near-me
 DESCRIPTION:Create a full\, fragrant evergreen wreath and finish it with a
   velvet bow. A welcoming holiday classic for your front door. Add the deco
@@ -757,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:Finals Pit Stop with RA Chloe
 DTSTART:20261129T163000
 DTEND:20261129T173000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a32626a9bbc271029af038f8581e1c@events-near-me
 DESCRIPTION:Stop by on the way to the library for a goodie bag designed to
   make long study sessions easier --- Event Details: https://myhc.holycross
@@ -773,7 +756,7 @@ SUMMARY:Holy Cross Men's Basketball vs New Hampshire - Food Drive | Kids C
  heer Free
 DTSTART:20261129T190000
 DTEND:20261129T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e8e9d576f5f79d2caf4f681ed21629@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs New Hampshire - Food Drive | Ki
  ds Cheer Free Streaming Video: https://www.espn.com/watch/ Tickets: https:
@@ -792,7 +775,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball vs. UNH
 DTSTART:20261129T000000
 DTEND:20261129T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:7804b06a8f85695fff62f982357985@events-near-me
 DESCRIPTION:Join us at 2:00 P.M. as Holy Cross Men's Basketball takes on t
  he University of New Hampshire! Children have free entry to the game. Buy 
@@ -810,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261129T093000
 DTEND:20261129T113000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5c1bce9c7cef72e4ee621014bfbfbc@events-near-me
 DESCRIPTION:Meditación para la Reducción del Estrés en Español (Spanis
  h Session) Source: Worcester Regional Chamber of Commerce Event page: http
@@ -829,7 +812,7 @@ BEGIN:VEVENT
 SUMMARY:November Harvard Square Book Circle
 DTSTART:20261129T000000
 DTEND:20261129T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:74872d73386862f1ad7eaee499c7b1@events-near-me
 DESCRIPTION:Join us for our November Harvard Square Book Circle meeting! T
  his month we're discussing Ceremony by Leslie Marmon Silko. Don't forget e
@@ -853,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:Art Exhibit: Coastal Visions
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5f9de45908b91978134fe5b41909ad@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/art-exhibit-coastal-visions-2
@@ -870,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:Bedazzling
 DTSTART:20261130T230000
 DTEND:20261201T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5e5887cebecff0e2dcd0e06c1139c8@events-near-me
 DESCRIPTION:Come bedazzle claw clips and much more! --- Event Details: htt
  ps://myhc.holycross.edu/rsvp?id=2155263 Source: College of the Holy Cross 
@@ -886,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:Community Helper Storytime: Northborough Town Administrator
 DTSTART:20261130T100000
 DTEND:20261130T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:6d17604d562a9b4ae34e22b72517c3@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/community-helper-storytime-to
@@ -903,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:Copley Square Tree Lighting
 DTSTART:20261130T000000
 DTEND:20261130T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5ae0584900a4a9edae287fb39ada9a@events-near-me
 DESCRIPTION:The Boston Parks and Recreation Department will host the annua
  l Copley Square Tree Lighting starting at 5 p.m. on Monday\, November 30\,
@@ -930,7 +913,7 @@ BEGIN:VEVENT
 SUMMARY:DIY Button Making
 DTSTART:20261130T000000
 DTEND:20261130T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:09df1cc89fe622463f2a0b3a810f4c@events-near-me
 DESCRIPTION:Ages 8-12: Design and create your own unique and wearable butt
  on to take home! Sources: Discover Central Massachusetts Event page: https
@@ -946,7 +929,7 @@ BEGIN:VEVENT
 SUMMARY:Faculty and Staff Thank You Notes
 DTSTART:20261130T170000
 DTEND:20261130T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e408181bfa1ead18c3d23926d0e6bc@events-near-me
 DESCRIPTION:Take a moment to write a note of gratitude to a faculty or sta
  ff member who has made a difference! --- Event Details: https://myhc.holyc
@@ -961,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Virtual Warehouse Sale
 DTSTART:20261130T000000
 DTEND:20261206T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:03a5617d76f4a5e74c64361ebd3431@events-near-me
 DESCRIPTION:Shop our Fall Virtual Warehouse Sale! From November 30 through
   December 6! Visit hbswarehousesale.com to shop the newest titles in stock
@@ -984,7 +967,7 @@ BEGIN:VEVENT
 SUMMARY:Jeremy Jordan
 DTSTART:20261130T000000
 DTEND:20261201T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b32682fc72c1503766572c9c44110c@events-near-me
 DESCRIPTION:Join us for an unforgettable night as the talented Jeremy Jord
  an takes the stage at the iconic Boston Emerson Colonial Theatre! Known fo
@@ -1009,7 +992,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261130T080000
 DTEND:20261130T100000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:dca41bfe89a824a2509985af13c9ae@events-near-me
 DESCRIPTION:holiday\, Auburn\, community\, contest Source: Worcester Regio
  nal Chamber of Commerce Event page: https://business.worcesterchamber.org/
@@ -1026,7 +1009,7 @@ BEGIN:VEVENT
 SUMMARY:Natale Italiano
 DTSTART:20261130T233000
 DTEND:20261201T013000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5a80b85f0b006ad2190ac3672f5313@events-near-me
 DESCRIPTION:Join us for a fun night of Italian Christmas! Ornament making
  \, cookie decorating\, and more! --- Event Details: https://myhc.holycross
@@ -1042,7 +1025,7 @@ BEGIN:VEVENT
 SUMMARY:The Extended Time Debate: A DREAM Presentation
 DTSTART:20261130T213000
 DTEND:20261130T220000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5e5002bec7ff698d4a3bffd9da93db@events-near-me
 DESCRIPTION:Hear about the extended time accommodation\, who it benefits\,
   why this matters\, and what an accessible classroom looks like. Counts fo
@@ -1060,7 +1043,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261201T180000
 DTEND:20261201T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:7eb9176e67a406cfe95f37dcc6b363@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-371/\n\nEvent
@@ -1076,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:ASA Cultural Food Night! 🍴🫒💫
 DTSTART:20261201T230000
 DTEND:20261202T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:51d756f8adad239b7aef0da9e1fc5a@events-near-me
 DESCRIPTION:Come join ASA for a night of Arab food and good company! 🤍 
  We’ll have a variety of dishes from across the Arab world\, so come by\,
@@ -1094,7 +1077,7 @@ BEGIN:VEVENT
 SUMMARY:Brooks Holiday Bash
 DTSTART:20261201T000000
 DTEND:20261201T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:bf406e8038263f318318bf04302920@events-near-me
 DESCRIPTION:Come celebrate the holiday as a community! Have some free food
   and play some holiday themed games Dress Code: Casual (jeans ok) --- Even
@@ -1111,7 +1094,7 @@ BEGIN:VEVENT
 SUMMARY:Cookies and Cocoa Holiday Party with RA Mattie!
 DTSTART:20261201T010000
 DTEND:20261201T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:eb3553f735a6d885387c9290f67db9@events-near-me
 DESCRIPTION:Join RA Mattie for a holiday party with holiday music\, cookie
  s from Insomnia Cookies\, hot cocoa\, and fun holiday-themed coloring and 
@@ -1129,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:Create Club
 DTSTART:20261201T180000
 DTEND:20261201T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b8c717f245399284cd411fe3506f55@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/create-club-3/\n\nEvents Near
@@ -1145,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:Faculty and Staff Thank You Notes
 DTSTART:20261201T170000
 DTEND:20261201T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3f6b7efce06db92d5dd5c64c6bd553@events-near-me
 DESCRIPTION:Take a moment to write a note of gratitude to a professor or s
  taff member who has made a difference! --- Event Details: https://myhc.hol
@@ -1160,7 +1143,7 @@ BEGIN:VEVENT
 SUMMARY:Gingerbread Decorating with RA Gianluca
 DTSTART:20261201T000000
 DTEND:20261201T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:32776f76795349086bd0282d162867@events-near-me
 DESCRIPTION:Take a break from all of the academic craziness to decorate gi
  ngerbread cookies with your peers and enjoy Volturno's pizza. With finals 
@@ -1177,7 +1160,7 @@ BEGIN:VEVENT
 SUMMARY:Healy's Giving
 DTSTART:20261201T233000
 DTEND:20261202T003000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8a91309185a92db35f291864aa913f@events-near-me
 DESCRIPTION:Join RA Sam\, Hannah\, and Chimi in the Healy common room for 
  a resident's thanksgiving. Gather with us to enjoy a meal and remember wha
@@ -1195,7 +1178,7 @@ BEGIN:VEVENT
 SUMMARY:Her Campus General Members Meeting
 DTSTART:20261201T010000
 DTEND:20261201T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c311af02c45450ce78ee7ed45ce659@events-near-me
 DESCRIPTION:Her Campus at Holy Cross General Members Meeting --- Event Det
  ails: https://myhc.holycross.edu/rsvp?id=2154639 Source: College of the Ho
@@ -1211,7 +1194,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Cookie Design Studio
 DTSTART:20261201T000000
 DTEND:20261201T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:7cc6cac5090dbfefe805255221f00a@events-near-me
 DESCRIPTION:Ages 8-12: Join us for a hands-on holiday cookie decorating se
  ssion! Learn icing techniques\, experiment with cool toppings\, and design
@@ -1230,7 +1213,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball at Sacred Heart
 DTSTART:20261201T000000
 DTEND:20261201T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a8f5633bd9575c515aa2700d7dd419@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at Sacred Heart Streaming Video:
   https://www.espn.com/watch/schedule --- Event Details: https://myhc.holyc
@@ -1246,7 +1229,7 @@ BEGIN:VEVENT
 SUMMARY:Insomnia Cookies Before Finals
 DTSTART:20261201T010000
 DTEND:20261201T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3918a85c68d822dfe121c203dbb308@events-near-me
 DESCRIPTION:Insomnia Cookies Before Finals --- Event Details: https://myhc
  .holycross.edu/rsvp?id=2155278 Source: College of the Holy Cross Event pag
@@ -1262,7 +1245,7 @@ BEGIN:VEVENT
 SUMMARY:Manic Monday with The Delilahs!
 DTSTART:20261201T030000
 DTEND:20261201T032000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8deb40beee27932a0042ad5a34db93@events-near-me
 DESCRIPTION:Join the Delilahs in Hogan for their weekly Acapella Performan
  ce. --- Event Details: https://myhc.holycross.edu/rsvp?id=2152820 Source: 
@@ -1278,7 +1261,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261201T171500
 DTEND:20261201T191500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:58e161478ce365fab2bbed8c97946f@events-near-me
 DESCRIPTION:meditation\, breathwork\, mantra Source: Worcester Regional Ch
  amber of Commerce Event page: https://business.worcesterchamber.org/events
@@ -1296,7 +1279,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261201T100000
 DTEND:20261201T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:38180b18e12a2256ffd162891e6af7@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-111/\n\nEvents N
@@ -1312,7 +1295,7 @@ BEGIN:VEVENT
 SUMMARY:Noche Latina Performance Tryouts
 DTSTART:20261201T000000
 DTEND:20261201T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5cba0cade19d53676d4fc4ce0b2b57@events-near-me
 DESCRIPTION:Come tryout for the opportunity to perform at Noche Latina. Al
  l entertainers all welcomed: dancing\, music\, poetry\, etc! --- Event Det
@@ -1329,7 +1312,7 @@ BEGIN:VEVENT
 SUMMARY:PA Club Meeting
 DTSTART:20261201T233000
 DTEND:20261202T003000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:bbf066297ac0c4aec3faa69eac6080@events-near-me
 DESCRIPTION:Join us for our December PA club meeting before finals start! 
  --- Event Details: https://myhc.holycross.edu/rsvp?id=2154750 Source: Coll
@@ -1345,7 +1328,7 @@ BEGIN:VEVENT
 SUMMARY:Python Workshop
 DTSTART:20261201T003000
 DTEND:20261201T023000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d97784df11a0b3fe85477f77267caf@events-near-me
 DESCRIPTION:Come work on your python skills and develop a fun coding proje
  ct. This will help you to hone your skills in google collab with writing p
@@ -1362,7 +1345,7 @@ BEGIN:VEVENT
 SUMMARY:RA Hannah Take Me To
 DTSTART:20261201T220000
 DTEND:20261201T230000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a7ded506047289cf0c2573b034cbcd@events-near-me
 DESCRIPTION:RA Hannah will walk her residents to the Holy Cross Christmas 
  Tree Lighting on December 1. We will walk over to the lighting from the th
@@ -1379,7 +1362,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261201T150000
 DTEND:20261201T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e87e4250e327de476128cb0ca8a1b8@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-1
@@ -1396,7 +1379,7 @@ BEGIN:VEVENT
 SUMMARY:TH holiday decorating
 DTSTART:20261201T230000
 DTEND:20261202T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fb92d8199dc27e0243860ab721b8ce@events-near-me
 DESCRIPTION:RA Matt will collab with the Worcester house to supply materia
  ls for holiday decorating that will allow students to decorate dorms\, int
@@ -1413,7 +1396,7 @@ BEGIN:VEVENT
 SUMMARY:Tree Lighting
 DTSTART:20261201T220000
 DTEND:20261201T230000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2d0163ecd7cbfb45a88916134fcdc2@events-near-me
 DESCRIPTION:O'Kane Hall Christmas Tree Lighting --- Event Details: https:/
  /myhc.holycross.edu/rsvp?id=2155358 Source: College of the Holy Cross Even
@@ -1429,7 +1412,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesday Book Group
 DTSTART:20261201T130000
 DTEND:20261201T140000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:77dab790de267d5fb737569f2a0350@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tuesday-book-group-50/\n\nEve
@@ -1445,7 +1428,7 @@ BEGIN:VEVENT
 SUMMARY:Whole Door Tree
 DTSTART:20261201T000000
 DTEND:20261201T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:84cc8b2ed740adb49b08b9fa999663@events-near-me
 DESCRIPTION:Make a dramatic tree-shaped evergreen decoration for your door
  . Add pine cones\, berries\, ornaments\, and a festive bow for a holiday w
@@ -1462,7 +1445,7 @@ BEGIN:VEVENT
 SUMMARY:Worcester House Tuesday Open Hours
 DTSTART:20261201T213000
 DTEND:20261201T233000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:bf7de3d6aecc68c132c330041f2d91@events-near-me
 DESCRIPTION:Come join our Worcester House Assistant! Woo House open hours 
  from 4:30-6:30 pm today! Grab a snack\, play Mario Kart\, book a study roo
@@ -1483,7 +1466,7 @@ BEGIN:VEVENT
 SUMMARY:WPI Powerlifting Practice
 DTSTART:20261201T230000
 DTEND:20261202T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8ee957d467cb495a64fc1a444bc388@events-near-me
 DESCRIPTION:WPI Powerlifting Practice at Evolve Fitness & Training! Meet u
  s down at the Park Ave Garage bus circle at 5:50pm to ride our free bus to
@@ -1500,7 +1483,7 @@ BEGIN:VEVENT
 SUMMARY:3 Point Contest & Knockout Tournament
 DTSTART:20261202T213000
 DTEND:20261202T223000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c6324618d9ecee6801decf8a7d86fb@events-near-me
 DESCRIPTION:Take a break from last week of classes and compete in a 3 poin
  t contest and knockout basketball tournament sponsored by Campus Recreatio
@@ -1519,7 +1502,7 @@ BEGIN:VEVENT
 SUMMARY:Accounting Internship Panel with Students
 DTSTART:20261202T233000
 DTEND:20261203T001500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:11017e07f3a745c7858559be27a25f@events-near-me
 DESCRIPTION:Hear from upperclassmen who have completed their internships t
  o learn about: applying for internships/jobs\, the internship experience\,
@@ -1537,7 +1520,7 @@ BEGIN:VEVENT
 SUMMARY:ASL CLUB MEETING
 DTSTART:20261202T000000
 DTEND:20261202T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:148f83d8d5e4a6688d262dd5764224@events-near-me
 DESCRIPTION:ASL CLUB MEETING --- Event Details: https://myhc.holycross.edu
  /rsvp?id=2154120 Source: College of the Holy Cross Event page: https://myh
@@ -1552,7 +1535,7 @@ BEGIN:VEVENT
 SUMMARY:Bagel Wednesday
 DTSTART:20261202T143000
 DTEND:20261202T160000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0cd5be0f8fb1f62eaa94738807d8ff@events-near-me
 DESCRIPTION:Please join the members of the Chaplains' Office at Campion Ho
  use on the first Wednesday of every month for Bagel Wednesday. Starting at
@@ -1572,7 +1555,7 @@ BEGIN:VEVENT
 SUMMARY:Bring a Friend to FUSION Day
 DTSTART:20261202T013000
 DTEND:20261202T030000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9c1144beea4eb1bb5e9d915f68f5ff@events-near-me
 DESCRIPTION:Come learn one of the Fusion dances at an official practice! N
  o prior dance experience required! 💜 Dress Code: Casual (jeans ok) --- 
@@ -1589,7 +1572,7 @@ BEGIN:VEVENT
 SUMMARY:Brooks Hall Cookie Decorating Contest
 DTSTART:20261202T000000
 DTEND:20261202T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:dbce40e183d2525f988a785e30e631@events-near-me
 DESCRIPTION:Come to the Brooks Common Room to decorate cookies\, eat pizza
  \, and win prizes! --- Event Details: https://myhc.holycross.edu/rsvp?id=2
@@ -1605,7 +1588,7 @@ BEGIN:VEVENT
 SUMMARY:BSU Holiday Celebration
 DTSTART:20261202T230000
 DTEND:20261203T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d30c1f1f5476ce143f3fe132eccbc8@events-near-me
 DESCRIPTION:Join BSU to celebrate the holiday season with activities and m
  ore! --- Event Details: https://myhc.holycross.edu/rsvp?id=2154874 Source:
@@ -1620,7 +1603,7 @@ BEGIN:VEVENT
 SUMMARY:BVCC's Jingle & Mingle
 DTSTART:20261202T000000
 DTEND:20261202T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:277606703e598f26df02353d8efd6a@events-near-me
 DESCRIPTION:The Blackstone Valley Chamber of Commerce (BVCC) is excited to
   extend an invitation to our annual signature event\, Jingle & Mingle on t
@@ -1665,7 +1648,7 @@ BEGIN:VEVENT
 SUMMARY:Carolers & Cocoa
 DTSTART:20261202T000000
 DTEND:20261216T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:97875674e0c152192ff3ba150710e5@events-near-me
 DESCRIPTION:What are two must-have ingredients to create holiday cheer? Yo
  u’re right — caroling and cocoa. Find that unbeatable combination at P
@@ -1690,7 +1673,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas Village Porch Pot
 DTSTART:20261202T000000
 DTEND:20261202T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:6f2455a34b51fd9f00dfffe3f8bf56@events-near-me
 DESCRIPTION:Create a Christmas village vignette porch pot filled with fres
  h evergreens\, with a miniature village house\, bright accents\, and ribbo
@@ -1708,7 +1691,7 @@ BEGIN:VEVENT
 SUMMARY:Crafting a Conscious Christmas with Eco-Action
 DTSTART:20261202T000000
 DTEND:20261202T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3975c440fde49316c1e217fe8fe1d5@events-near-me
 DESCRIPTION:Craft a Conscious Christmas with us to kick off the holiday se
  ason! After the tree lighting\, come make some Christmas ornaments and dec
@@ -1727,7 +1710,7 @@ BEGIN:VEVENT
 SUMMARY:Dial Down with DREAM!
 DTSTART:20261202T160000
 DTEND:20261202T180000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:6d3944b820e71779368287e51d20cc@events-near-me
 DESCRIPTION:Prepare for finals with DREAM! Get the study tips\, self-care 
  advice\, and tools you need to succeed. --- Event Details: https://myhc.ho
@@ -1744,7 +1727,7 @@ BEGIN:VEVENT
 SUMMARY:DIY Beauty
 DTSTART:20261202T000000
 DTEND:20261202T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:060787ffcdc36ede9871718ad0c153@events-near-me
 DESCRIPTION:Please join us to make two holiday inspired recipes! We will b
  e making a candy cane sugar scrub and a cranberry lip scrub. Please review
@@ -1766,7 +1749,7 @@ BEGIN:VEVENT
 SUMMARY:GINGERBREAD & COCOA: BUILD YOUR DREAM DORM
 DTSTART:20261202T230000
 DTEND:20261203T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c6f9b6980934bf6fce07563b55259a@events-near-me
 DESCRIPTION:Come unwind before finals by decorating gingerbread houses wit
  h cozy hot cocoa bar. The challenge is to design a mini version of their 
@@ -1784,7 +1767,7 @@ BEGIN:VEVENT
 SUMMARY:Gingerbread Houses with RA’s Ari and Josh
 DTSTART:20261202T230000
 DTEND:20261203T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5ac6fe168a711500df9bfd345f7080@events-near-me
 DESCRIPTION:Come build a gingerbread house with your friends on Dec 2nd at
   6pm in the Carlin Common Room! Dress Code: Business Formal --- Event Deta
@@ -1801,7 +1784,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Kyiv Ballet: The Nutcracker
 DTSTART:20261202T000000
 DTEND:20261202T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d30a6b7520d334e32dce2dff9068d6@events-near-me
 DESCRIPTION:Ukraine's Grand Kyiv Ballet brings a magical new vision of Tch
  aikovsky's The Nutcracker to the Emerson Colonial Theatre in Boston on Wed
@@ -1825,7 +1808,7 @@ BEGIN:VEVENT
 SUMMARY:HCF1RST Gingerbread Mania
 DTSTART:20261202T220000
 DTEND:20261202T230000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2f77582ac03ebeee94e59196b255d9@events-near-me
 DESCRIPTION:Join HCF1RST tonight and grab some finals fuel. You can also t
  ake the time to relax and participate in our gingerbread-making competitio
@@ -1842,7 +1825,7 @@ BEGIN:VEVENT
 SUMMARY:Hellenic Society Study Break!
 DTSTART:20261202T000000
 DTEND:20261202T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:77a4505eb7a7e3a36f6804b53cdf08@events-near-me
 DESCRIPTION:Come for a study break as we approach finals season --- Event 
  Details: https://myhc.holycross.edu/rsvp?id=2154775 Source: College of the
@@ -1858,7 +1841,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Music in the Courtyard
 DTSTART:20261202T000000
 DTEND:20261202T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9a10679073a73e76779dd57d94228e@events-near-me
 DESCRIPTION:Ring in the holiday season with this jubilant special performa
  nce in the Gardner Museum Courtyard! George Steel\, Abrams Curator of Musi
@@ -1879,7 +1862,7 @@ BEGIN:VEVENT
 SUMMARY:John Constable and the Outdoors: Writing about Drawing
 DTSTART:20261202T000000
 DTEND:20261202T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1440193827345bbd406b820628dfa0@events-near-me
 DESCRIPTION:In conjunction with the exhibition On Location: Drawing the Ou
  tdoors \, author and scholar Susan Owens will share John Constable’s ske
@@ -1909,7 +1892,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261202T090000
 DTEND:20261202T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d1ced6a8b9eadfdb6b42ca3cd96a3a@events-near-me
 DESCRIPTION:Exclusive Event for Banking Leaders - Limited to 20 Registrati
  ons! Seminar Speaker: Nathaniel White-Joyal President Scout Digital Nathan
@@ -1933,7 +1916,7 @@ BEGIN:VEVENT
 SUMMARY:Off the Record Pop Up Performance
 DTSTART:20261202T030000
 DTEND:20261202T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:f33009e601deb99b8b17f6dc571ec6@events-near-me
 DESCRIPTION:Stop by Hogan for a performance from Off the Record! --- Event
   Details: https://myhc.holycross.edu/rsvp?id=2152833 Source: College of th
@@ -1949,7 +1932,7 @@ BEGIN:VEVENT
 SUMMARY:Seelos Film Series: The Accidental Spy
 DTSTART:20261202T203000
 DTEND:20261202T223000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:f55696c6aae1d249e18fab7815e1bd@events-near-me
 DESCRIPTION:Buck Yuen\, an exercise equipment salesman\, shoots to fame af
  ter inadvertently foiling a bank robbery. --- Event Details: https://myhc.
@@ -1966,7 +1949,7 @@ BEGIN:VEVENT
 SUMMARY:Snowed In W/ With MEPAxProspHER
 DTSTART:20261202T233000
 DTEND:20261203T003000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5a016b2f47b35d50aef3a132b04798@events-near-me
 DESCRIPTION:Join us in the Hub for a Latinó Holiday movie and some Roblox
   to relax us before finals! Dress Code: Casual (jeans ok) --- Event Detail
@@ -1983,7 +1966,7 @@ BEGIN:VEVENT
 SUMMARY:Snowflake Chains
 DTSTART:20261202T000000
 DTEND:20261202T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:62e658568226abe708351613a32c12@events-near-me
 DESCRIPTION:Come create snowflake chains! --- Event Details: https://myhc.
  holycross.edu/rsvp?id=2154587 Source: College of the Holy Cross Event page
@@ -1999,7 +1982,7 @@ BEGIN:VEVENT
 SUMMARY:Society of Saints Peter & Paul Christmas Party and Book Swap
 DTSTART:20261202T230000
 DTEND:20261203T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:deff3bc763964389630a9e71b7c43d@events-near-me
 DESCRIPTION:Come enjoy food\, fellowship\, and fun at our annual Christmas
   party! Bring a wrapped gift to take part in our book swap! --- Event Deta
@@ -2015,7 +1998,7 @@ BEGIN:VEVENT
 SUMMARY:Study & Refuel with RA Tireni
 DTSTART:20261202T000000
 DTEND:20261202T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1254f9ddd06a932af041300647fb27@events-near-me
 DESCRIPTION:A station people can refuel with candy\, a beverage\, and some
   chips. --- Event Details: https://myhc.holycross.edu/rsvp?id=2155262 Sour
@@ -2031,7 +2014,7 @@ BEGIN:VEVENT
 SUMMARY:Tech Tutoring
 DTSTART:20261202T140000
 DTEND:20261202T143000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5b741d3a816113f569c54fe9dab881@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tech-tutoring-577/\n\nEvents 
@@ -2047,7 +2030,7 @@ BEGIN:VEVENT
 SUMMARY:Teen Gift Making: Scrapbook Wall Calendars
 DTSTART:20261202T000000
 DTEND:20261202T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0c779659c7f41cf7b135f8ecd1ae55@events-near-me
 DESCRIPTION:Ages 12-18 are invited to the Roosevelt Branch Library to make
   a 2027 scrapbook wall calendar! Decorate each month of a blank calendar t
@@ -2065,7 +2048,7 @@ BEGIN:VEVENT
 SUMMARY:The Anxiety Elixir
 DTSTART:20261202T001500
 DTEND:20261202T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:27a3c5e5eac3a6b81cd54e365827b7@events-near-me
 DESCRIPTION:Need a break or some quiet relaxation? Each week\, dive into a
   different way to relax and reset through meditation\, breathing hacks\, s
@@ -2085,7 +2068,7 @@ BEGIN:VEVENT
 SUMMARY:Tween Time
 DTSTART:20261202T180000
 DTEND:20261202T193000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:db52bc85e0b656f10e5ebfcf5ce422@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tween-time-21/\n\nEvents Near
@@ -2101,7 +2084,7 @@ BEGIN:VEVENT
 SUMMARY:Weekly Taize Prayer
 DTSTART:20261202T000000
 DTEND:20261202T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:17dea605d9ef31ff330051a79f6918@events-near-me
 DESCRIPTION:Pause. Breathe. Pray. Join us for Taizé Prayer—a half-hour 
  of quiet reflection\, candlelight\, meditative music\, and community. Week
@@ -2121,7 +2104,7 @@ BEGIN:VEVENT
 SUMMARY:Worcester House Wednesday Open Hours
 DTSTART:20261202T220000
 DTEND:20261203T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2b10614756d24787f17ad025691030@events-near-me
 DESCRIPTION:Come join our Worcester House Assistant! Woo House open hours 
  from 4:30-6:30 pm today! Grab a snack\, play Mario Kart\, book a study roo
@@ -2139,10 +2122,36 @@ LOCATION:Worcester House\, 4a City View Street\, CBL Office: Smith 323\; S
 URL:https://myhc.holycross.edu/rsvp?id=2154722
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Art Exhibition: Creatures of Worcester 6
+DTSTART:20261203T000000
+DTEND:20270109T000000
+DTSTAMP:20261127T203100Z
+UID:a927cbb282e3c5efd133cbc0543179@events-near-me
+DESCRIPTION:In Creatures of Worcester 6\, 18 artists and even more creatur
+ es show the color found in Worcester through the lens of photographer and 
+ WSU professor Eric Nichols. Since Creatures of Worcester's inception in 20
+ 21\, artists have created hundreds of creatures added to photographs of th
+ e city. Started to build community and celebrate the different types of pe
+ ople who live in the city\, the project has featured the artwork of both l
+ ocal and international artists and raised thousands of dollars for a varie
+ ty of causes. The exhibitions continue to bring joy to all who view them. 
+ Public Opening Reception Thursday\, December 3 4:00-7:00 pm Mary Cosgrove 
+ Dolphin Gallery Worcester State University Sources: Discover Central Massa
+ chusetts Event page: https://www.discovercentralma.org/event/art-exhibitio
+ n%3a-creatures-of-worcester-6/31325/\n\nEvents Near Me: within 30 miles of
+  Northborough\, MA 01532\nDiscovery: Local fallback from massachusetts-eve
+ nts.ics\nSource page: https://www.discovercentralma.org/event/art-exhibiti
+ on%3a-creatures-of-worcester-6/31325/
+LOCATION:Worcester State University\, 486 Chandler St. Mary Cosgrove Dolph
+ in Gallery Ghosh Science and Technology Center\, Worcester\, MA\, 01602
+URL:https://www.discovercentralma.org/event/art-exhibition%3a-creatures-of
+ -worcester-6/31325/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Assumption University Band Holiday Concert
 DTSTART:20261203T200000
 DTEND:20261203T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c2bc99fc55effed83322832f03221a@events-near-me
 DESCRIPTION:Join us on Thursday\, December 3\, at 8:00 p.m. in Curtis Perf
  ormance Hall for the Assumption University Band Holiday Concert. Source: A
@@ -2157,10 +2166,37 @@ URL:https://www.assumption.edu/news-and-events/events/assumption-universit
  y-jazz-band-concert
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Be Like Blippi
+DTSTART:20261203T000000
+DTEND:20261203T000000
+DTSTAMP:20261127T203100Z
+UID:bb6c436c6191ef33bedbfdbec66646@events-near-me
+DESCRIPTION:Get ready to see the world more curiously\, because Blippi is 
+ coming to your hometown in the all-new Be Like Blippi Tour! Join Blippi an
+ d Meekah live on stage for a one-of-a-kind interactive adventure that insp
+ ires kids to move like\, play like\, and explore just like Blippi! This br
+ and-new show is packed with high-energy music and surprises\, featuring fa
+ n-favorite songs like The Excavator Song\, Monster Truck\, Dino Dance\, an
+ d Curious Like Me . With Blippi’s signature mix of play\, learning\, and
+  exploration\, families can get curious together while singing\, laughing
+ \, and dancing along during this unforgettable adventure full of fun and d
+ iscovery. The Be Like Blippi Tour invites you to break out your orange Bli
+ ppi glasses and ignite that spark of curiosity that lives inside every sin
+ gle one of us and share in an unforgettable experience that encourages kid
+ s to… Be Like Blippi! Learn more / Get Tickets Sources: Meet Boston Even
+ t page: https://www.meetboston.com/event/be-like-blippi/93868/\n\nEvents N
+ ear Me: within 30 miles of Northborough\, MA 01532\nDiscovery: Local fallb
+ ack from massachusetts-events.ics\nSource page: https://www.meetboston.com
+ /event/be-like-blippi/93868/
+LOCATION:Emerson Colonial Theatre\, 106 Boylston Street\, Boston\, MA\, 02
+ 116
+URL:https://www.meetboston.com/event/be-like-blippi/93868/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Book Club
 DTSTART:20261203T220000
 DTEND:20261204T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0dd8a3c2242da76bad6ba933d6f371@events-near-me
 DESCRIPTION:Pride's last book club meeting of the semester! --- Event Deta
  ils: https://myhc.holycross.edu/rsvp?id=2154760 Source: College of the Hol
@@ -2176,7 +2212,7 @@ BEGIN:VEVENT
 SUMMARY:CAB Student Suggestions Lobby Table
 DTSTART:20261203T160000
 DTEND:20261203T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2906967e20aa30f03410db3890d58d@events-near-me
 DESCRIPTION:Find us at our lobby table in Hogan and share some event ideas
   you'd like to see for future programming! Treats will be provided. --- Ev
@@ -2193,7 +2229,7 @@ BEGIN:VEVENT
 SUMMARY:CASA Caliente
 DTSTART:20261203T223000
 DTEND:20261203T233000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a40219b0b32675234f6c481ddb5173@events-near-me
 DESCRIPTION:Do you have an opinion on anything in African and Caribbean po
  p culture\, society\, music\, or media? CASA Cares and wants to hear your 
@@ -2212,7 +2248,7 @@ BEGIN:VEVENT
 SUMMARY:Crown's and Care with RA Jailene
 DTSTART:20261203T223000
 DTEND:20261203T235000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5885699e43bd3dc2aaa8cd876b1621@events-near-me
 DESCRIPTION:Residence can come to Hanselman and create self-care bags and 
  enjoy food with fellow residents. Dress Code: Casual (jeans ok) --- Event 
@@ -2226,10 +2262,32 @@ LOCATION:Hanselman Classroom\, 1 College Street\, Worcester\, MA 01610\, U
 URL:https://myhc.holycross.edu/rsvp?id=2155157
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cup Show juried by Samuel Thompson
+DTSTART:20261203T000000
+DTEND:20261224T000000
+DTSTAMP:20261127T203100Z
+UID:c05d00c3ad2af4d1ddae6d196f5f0f@events-near-me
+DESCRIPTION:The Worcester Center for Crafts’ Krikorian Gallery Presents
+ … Cup Show juried by Samuel Thompson On View: December 4-24\, 2026 In th
+ e Krikorian Gallery + Handcrafted Shop online (thehandcraftedshop.com) Kri
+ korian Gallery Hours: Sunday: Closed Monday: Closed Tuesday: 10am-5pm Wedn
+ esday: 10am-5pm Thursday: 10am-5pm Friday: 10am-5pm Saturday: 10am-5pm Eve
+ nt Page: https://worcestercraftcenter.org/events/bowl-show/ Sources: Disco
+ ver Central Massachusetts Event page: https://www.discovercentralma.org/ev
+ ent/cup-show-juried-by-samuel-thompson/30468/\n\nEvents Near Me: within 30
+  miles of Northborough\, MA 01532\nDiscovery: Local fallback from massachu
+ setts-events.ics\nSource page: https://www.discovercentralma.org/event/cup
+ -show-juried-by-samuel-thompson/30468/
+LOCATION:Worcester Center for Crafts\, 25 Sagamore Rd.\, Worcester\, MA\, 
+ 01605
+URL:https://www.discovercentralma.org/event/cup-show-juried-by-samuel-thom
+ pson/30468/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Entropy Meeting
 DTSTART:20261203T013000
 DTEND:20261203T023000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a6abdc027e9b7f9dca1bb04d4ba36f@events-near-me
 DESCRIPTION:General member meeting for Holy Cross' only comedy club --- Ev
  ent Details: https://myhc.holycross.edu/rsvp?id=2154143 Source: College of
@@ -2245,7 +2303,7 @@ BEGIN:VEVENT
 SUMMARY:Fools on the Hill Pop Up Performance
 DTSTART:20261203T030000
 DTEND:20261203T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:235f2dbe5235608c6a524d822927ab@events-near-me
 DESCRIPTION:Stop by Hogan to see a pop up performance by the Fools on the 
  Hill! --- Event Details: https://myhc.holycross.edu/rsvp?id=2152809 Source
@@ -2261,7 +2319,7 @@ BEGIN:VEVENT
 SUMMARY:Fresher's Christmas Movie Night with RA Dana
 DTSTART:20261203T000000
 DTEND:20261203T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3b73f6fa62b7f2f193a4be31e0f5b4@events-near-me
 DESCRIPTION:This event aims to foster a strong sense of belonging among fr
  eshers toward the end of their first academic term. With a popular comfort
@@ -2281,7 +2339,7 @@ BEGIN:VEVENT
 SUMMARY:GINGERBREAD HOUSE Decorating Contest
 DTSTART:20261203T000000
 DTEND:20261203T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b38b1de2c88e206efcd2d87b2d5d83@events-near-me
 DESCRIPTION:Get into the holiday spirit with gingerbread house decorating!
   🎄🏠 Come decorate with friends\, enjoy some hot cocoa\, and get crea
@@ -2295,10 +2353,29 @@ LOCATION:Loyola Kitchen \, 1 College Street\, Worcester\, MA 01610\, Unite
 URL:https://myhc.holycross.edu/rsvp?id=2155258
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Teddy Bear Tea
+DTSTART:20261203T000000
+DTEND:20261227T000000
+DTSTAMP:20261127T203100Z
+UID:e060feab5cabf1d4a0e103a9a25f72@events-near-me
+DESCRIPTION:Teddy Bear Tea is a festive take on the Garden View Afternoon 
+ Tea\, with a special focus on giving back to children in need this holiday
+  season. Children are encouraged to bring a beloved stuffed animal and to 
+ share the season’s kindness by bringing a new teddy bear with tags to do
+ nate to Boston Children’s Hospital. A portion of all ticket proceeds wil
+ l also be donated. Sources: Meet Boston Event page: https://www.meetboston
+ .com/event/holiday-teddy-bear-tea/94375/\n\nEvents Near Me: within 30 mile
+ s of Northborough\, MA 01532\nDiscovery: Local fallback from massachusetts
+ -events.ics\nSource page: https://www.meetboston.com/event/holiday-teddy-b
+ ear-tea/94375/
+LOCATION:Bistro du Midi\, 272 Boylston Street\, Boston\, MA\, 02116
+URL:https://www.meetboston.com/event/holiday-teddy-bear-tea/94375/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Northeastern
 DTSTART:20261203T000000
 DTEND:20261203T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2dfb3a4bf42c2ed720c49cedb046ec@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Northeastern Streaming Video: h
  ttps://goholycross.com/calendar.ashx/flosports.link/4fLHOpW Tickets: https
@@ -2316,7 +2393,7 @@ BEGIN:VEVENT
 SUMMARY:MicroNet Template
 DTSTART:20261203T100000
 DTEND:20261203T120000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:846df0a3c4645585e3808b29f25759@events-near-me
 DESCRIPTION:In Partnership with Worcester Public Schools Better Feedback G
  ets Better Results How to maximize a new hire s chance to succeed! Source:
@@ -2335,7 +2412,7 @@ BEGIN:VEVENT
 SUMMARY:Online Tools for Contacting Your Lawmakers
 DTSTART:20261203T130000
 DTEND:20261203T140000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:550ff11fde96f71a5385e292f26e77@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/online-tools-for-contacting-y
@@ -2352,7 +2429,7 @@ BEGIN:VEVENT
 SUMMARY:Python Workshop
 DTSTART:20261203T003000
 DTEND:20261203T023000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:56dc1ff02d8e6fe0938f74cf220672@events-near-me
 DESCRIPTION:Come work on your python skills and develop a fun coding proje
  ct. This will help you to hone your skills in google collab with writing p
@@ -2365,10 +2442,29 @@ LOCATION:1 College Street\, Worcester\, MA 01610\, United States
 URL:https://myhc.holycross.edu/rsvp?id=2154843
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:QCC Holiday Market
+DTSTART:20261203T000000
+DTEND:20261203T000000
+DTSTAMP:20261127T203100Z
+UID:82c7fda9ddef92820c313b56fc3620@events-near-me
+DESCRIPTION:Shop crafts & gifts made by QCC students\, staff\, faculty\, a
+ nd alumni! This festive event features local vendors with a QCC connection
+  offering unique gifts\, handmade items\, and more! Get ready to shop loca
+ l\, support the QCC community\, and celebrate the season. Sources: Discove
+ r Central Massachusetts Event page: https://www.discovercentralma.org/even
+ t/qcc-holiday-market/31299/\n\nEvents Near Me: within 30 miles of Northbor
+ ough\, MA 01532\nDiscovery: Local fallback from massachusetts-events.ics\n
+ Source page: https://www.discovercentralma.org/event/qcc-holiday-market/31
+ 299/
+LOCATION:Quinsigamond Community College\, 670 West Boylston St. Harrington
+  Learning Center (HLC) - First Floor\, Worcester\, MA\, 01606
+URL:https://www.discovercentralma.org/event/qcc-holiday-market/31299/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RSO Lobbying Association - Fall 2026
 DTSTART:20261203T000000
 DTEND:20261203T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b8b52a61252aaaa235bb1719465418@events-near-me
 DESCRIPTION:This meeting is mandatory\, and each Recognized Student Organi
  zation (RSO) must have at least one E-Board member in attendance. To ensur
@@ -2391,7 +2487,7 @@ BEGIN:VEVENT
 SUMMARY:Seelos Film Series: The Accidental Spy
 DTSTART:20261203T000000
 DTEND:20261203T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:db6f107854b7a45a2b629327a93338@events-near-me
 DESCRIPTION:Buck Yuen\, an exercise equipment salesman\, shoots to fame af
  ter inadvertently foiling a bank robbery. --- Event Details: https://myhc.
@@ -2408,7 +2504,7 @@ BEGIN:VEVENT
 SUMMARY:SGA Sponsored Student Pub Night
 DTSTART:20261203T010000
 DTEND:20261203T030000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e01e6d4c9809f449167c0fc80fb042@events-near-me
 DESCRIPTION:Join us Wednesday night in Crossroads for a Pub Night sponsore
  d by the Student Government Association! Grab your friends and come down t
@@ -2426,7 +2522,7 @@ BEGIN:VEVENT
 SUMMARY:Shelter Fundraising
 DTSTART:20261203T000000
 DTEND:20261203T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:dc9ba1797649195ba7c74b777241c3@events-near-me
 DESCRIPTION:Fundraising for local animal shelters in the Worcester communi
  ty. Collecting donations based on shelter needs. --- Event Details: https:
@@ -2443,7 +2539,7 @@ BEGIN:VEVENT
 SUMMARY:Storytime with Santa (Sensory Friendly)
 DTSTART:20261203T110000
 DTEND:20261203T120000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:dff1898d318956579c0ded62487054@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/storytime-with-santa-sensory-
@@ -2460,7 +2556,7 @@ BEGIN:VEVENT
 SUMMARY:Student evaluation of the faculty due
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:11bd40dae1a749ad363654ed687e55@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/student-evaluation-of-the-faculty-due-7/\n\nEvents Near M
@@ -2476,7 +2572,7 @@ BEGIN:VEVENT
 SUMMARY:Study Hard\, Crumbl Harder
 DTSTART:20261203T230000
 DTEND:20261204T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:70a06e59768e96327d5f7aad719117@events-near-me
 DESCRIPTION:Take a break from studying and recharge with fresh Crumbl cook
  ies! Stop by for a cozy finals-week pick-me-up. --- Event Details: https:/
@@ -2490,10 +2586,118 @@ LOCATION:Healy Common Room\, 1 College Street\, Worcester\, MA 01610\, Uni
 URL:https://myhc.holycross.edu/rsvp?id=2155248
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Teen Maker Club
+DTSTART:20261203T000000
+DTEND:20270225T000000
+DTSTAMP:20261127T203100Z
+UID:fa76cbff6ee94d7be629bcbc9fa463@events-near-me
+DESCRIPTION:Join us in the Innovation Center for our drop-in\, work-at-you
+ r-own-pace\, maker club where each month\, teens can work on a select proj
+ ect over a few sessions\, with a focus on a specific piece of equipment or
+  material. Or\, they can create their own project using our machines and s
+ upplies. December: Needle Felted Gingerbread Men January: 3d Printed Sross
+  Stitch Wall Art February: Learn Kinusaiga-creating Art with Fabric Scraps
+ ! Ages 12-18 Sources: Discover Central Massachusetts Event page: https://w
+ ww.discovercentralma.org/event/teen-maker-club/31409/\n\nEvents Near Me: w
+ ithin 30 miles of Northborough\, MA 01532\nDiscovery: Local fallback from 
+ massachusetts-events.ics\nSource page: https://www.discovercentralma.org/e
+ vent/teen-maker-club/31409/
+LOCATION:Worcester Public Library\, 3 Salem St.\, Worcester\, MA\, 01608
+URL:https://www.discovercentralma.org/event/teen-maker-club/31409/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Coal Train Express Art Market and Festivus
+DTSTART:20261203T000000
+DTEND:20261203T000000
+DTSTAMP:20261127T203100Z
+UID:c911430d0a17cc68f84b43d2e71a14@events-near-me
+DESCRIPTION:Worcester Artists Group cordially invites one and all to our s
+ econd Winter Art Market held at The White Room! Featuring: Returning Artis
+ ts and many new! Live music by Awareness of Joy Festivus activities: Airin
+ g of Grievances a plenty and Feats of Strength that would make the Olympia
+ ns weep ie\; Staring Contests\, Thumb Wars and Arm Wrestling And a Pretzel
+  of Epic Proportions Free coal! The White Room has a bar for alcoholic and
+  nonalcoholic refreshments on location.✨ Sources: Discover Central Massa
+ chusetts Event page: https://www.discovercentralma.org/event/the-coal-trai
+ n-express-art-market-and-festivus/31396/\n\nEvents Near Me: within 30 mile
+ s of Northborough\, MA 01532\nDiscovery: Local fallback from massachusetts
+ -events.ics\nSource page: https://www.discovercentralma.org/event/the-coal
+ -train-express-art-market-and-festivus/31396/
+LOCATION:The White Room\, 138 Green St.\, Worcester\, MA\, 01604
+URL:https://www.discovercentralma.org/event/the-coal-train-express-art-mar
+ ket-and-festivus/31396/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Life and Times of the Eccentric Lorenzo Dow
+DTSTART:20261203T000000
+DTEND:20261203T000000
+DTSTAMP:20261127T203100Z
+UID:5da637fb7d38d823eb4fb045fee26a@events-near-me
+DESCRIPTION:Lorenzo Dow (1777-1834) was the most famous preacher in Americ
+ a during the early nineteenth century. An itinerant known as “Crazy Dow
+ \,” he spent three decades roaming the United States and Britain\, preac
+ hing\, publishing\, provoking audiences\, and building one of the first tr
+ uly national celebrity followings in American history. He was a character 
+ who got people’s attention\, for better or for worse. In an era before e
+ lectronic media\, the face and the voice of “Crazy Dow” were recogniza
+ ble from Natchez\, Mississippi\, to Belfast\, Ireland\, and his countless 
+ broadsides\, pamphlets\, and books spread his influence even farther. In t
+ his hybrid talk\, historian Seth Perry explores how Dow built his fame and
+  what his remarkable career can teach us about religion\, celebrity\, and 
+ the origins of a very American style of public influence that continues to
+  shape the nation today. Register to attend this program in person on live
+ streamed here. Seth Perry is associate professor of religion in America at
+  Princeton University. His first book\, Bible Culture and Authority in the
+  Early United States (2018) explores the performative\, rhetorical\, and m
+ aterial aspects of bible-based authority in early-national America. His wo
+ rk has appeared in Church History \, Early American Studies \, the Journal
+  of the American Academy of Religion \, the William and Mary Quarterly \, 
+ Slate \, among others. His second book\, American Preacher: The Life and T
+ imes of the Eccentric Lorenzo Dow \, will be published by the University o
+ f Pennsylvania Press in November 2026. Sources: Discover Central Massachus
+ etts Event page: https://www.discovercentralma.org/event/the-life-and-time
+ s-of-the-eccentric-lorenzo-dow/30894/\n\nEvents Near Me: within 30 miles o
+ f Northborough\, MA 01532\nDiscovery: Local fallback from massachusetts-ev
+ ents.ics\nSource page: https://www.discovercentralma.org/event/the-life-an
+ d-times-of-the-eccentric-lorenzo-dow/30894/
+LOCATION:American Antiquarian Society\, 185 Salisbury St.\, Worcester\, MA
+ \, 01609
+URL:https://www.discovercentralma.org/event/the-life-and-times-of-the-ecce
+ ntric-lorenzo-dow/30894/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Worcester Chamber Music Society: Northern Lights - Princeton
+DTSTART:20261203T000000
+DTEND:20261203T000000
+DTSTAMP:20261127T203100Z
+UID:5172daa8fd2a6b711427824264d8de@events-near-me
+DESCRIPTION:Northern Lights Our annual holiday Baroque concert journeys no
+ rth to the Baltic and features a host of composers from the region. Glitte
+ ring musical selections reflect the northern sky’s brilliant starscape a
+ nd the spectacular aurora borealis. Thursday\, December 3 @7:30 PM First C
+ ongregational Church 14 Mountain Road\, Princeton Pre-concert talk @7:00 P
+ M Program Johan Daniel Berlin: Sinfonia a 6 Stanisław Sylwester Szarzyńs
+ ki: Sonata a due violini Georg Philipp Telemann: Concerto for 2 violas TWV
+  52:G3 Johan Helmich Roman: Assaggio in G minor for solo violin Johann Seb
+ astian Bach: Concerto for Oboe and Violin in C minor George Frideric Hande
+ l: Concerto Grosso Op. 6\, No. 5 With guests Catherine Weinfield-Zell\, ob
+ oe / Pablo Kennedy\, double bass / John McKean\, harpsichord venue is hand
+ icapped accessible Sources: Discover Central Massachusetts Event page: htt
+ ps://www.discovercentralma.org/event/worcester-chamber-music-society%3a-no
+ rthern-lights-princeton/30761/\n\nEvents Near Me: within 30 miles of North
+ borough\, MA 01532\nDiscovery: Local fallback from massachusetts-events.ic
+ s\nSource page: https://www.discovercentralma.org/event/worcester-chamber-
+ music-society%3a-northern-lights-princeton/30761/
+LOCATION:Worcester Chamber Music Society\, 14 Mountain Road\, Princeton\, 
+ MA\, 01541
+URL:https://www.discovercentralma.org/event/worcester-chamber-music-societ
+ y%3a-northern-lights-princeton/30761/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Worcester House Thursday Open Hours
 DTSTART:20261203T210000
 DTEND:20261204T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a43f174cddc3a68302b6f942e40529@events-near-me
 DESCRIPTION:Come join our Worcester House Assistant! Woo House open hours 
  from 4-9 pm today! Grab a snack\, play Mario Kart\, book a study room…or
@@ -2514,7 +2718,7 @@ BEGIN:VEVENT
 SUMMARY:Worcester Police Department Information Session
 DTSTART:20261203T180000
 DTEND:20261202T180000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3e97eb6ef2b2a900ab4d0123cc9ef9@events-near-me
 DESCRIPTION:Source: City of Worcester Special Events Event page: https://w
  ww.worcesterma.gov/calendar/worcester-police-department-information-sessio
@@ -2531,7 +2735,7 @@ BEGIN:VEVENT
 SUMMARY:WPI Powerlifting Practice
 DTSTART:20261203T230000
 DTEND:20261204T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ffd6013f241d9ac7da5ac92eb495f7@events-near-me
 DESCRIPTION:WPI Powerlifting Practice at Evolve Fitness & Training! Meet u
  s down at the Park Ave Garage bus circle at 5:50pm to ride our free bus to
@@ -2548,7 +2752,7 @@ BEGIN:VEVENT
 SUMMARY:Benching For Breast Cancer 2026
 DTSTART:20261204T220000
 DTEND:20261205T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:4fdc830644a0c6a7a83b5290b0251b@events-near-me
 DESCRIPTION:All students are welcome to join us for some friendly competit
  ion\, lots of good food\, pink Holy Cross merchandise\, all for a great ca
@@ -2565,7 +2769,7 @@ BEGIN:VEVENT
 SUMMARY:Brooks & Cookies
 DTSTART:20261204T230000
 DTEND:20261205T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:50902299788d639bac3124ca20adb3@events-near-me
 DESCRIPTION:An opportunity for the entire Brooks Building to gather and co
  nnect before the stress of exams. Brooks & Cookies will consist of student
@@ -2583,7 +2787,7 @@ BEGIN:VEVENT
 SUMMARY:CAB's Annual Holiday Market
 DTSTART:20261204T150000
 DTEND:20261204T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:60ac6f1463614c0d7dd9dfad68f852@events-near-me
 DESCRIPTION:Join us for the annual Holiday Market - shop from a wide selec
  tion of vendors - get ahead on your holiday shopping for treat yourself! -
@@ -2600,7 +2804,7 @@ BEGIN:VEVENT
 SUMMARY:Ciampi Wonderland Fest
 DTSTART:20261204T010000
 DTEND:20261204T030000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:be42ee2896dee5c6c0b85576597036@events-near-me
 DESCRIPTION:Bring your friend and get into the holiday spirit! Join SWELL
  \, RA Alexa\, and RA Fiona for a fun gingerbread house competition with a 
@@ -2619,7 +2823,7 @@ BEGIN:VEVENT
 SUMMARY:Donut Stress!
 DTSTART:20261204T000000
 DTEND:20261204T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ba7070ccdd7ed17f4248bf35bda937@events-near-me
 DESCRIPTION:Join RA Anahi for donuts\, coloring\, and a relaxing study bre
  ak! Take a break from the stress of upcoming finals\, get creative\, and e
@@ -2637,7 +2841,7 @@ BEGIN:VEVENT
 SUMMARY:EMBODY December Event
 DTSTART:20261204T210000
 DTEND:20261204T230000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5803e5d49f0bddff8b719c4f3d2f8b@events-near-me
 DESCRIPTION:TBD --- Event Details: https://myhc.holycross.edu/rsvp?id=2154
  779 Source: College of the Holy Cross Event page: https://myhc.holycross.e
@@ -2652,7 +2856,7 @@ BEGIN:VEVENT
 SUMMARY:End of Semester Reflection
 DTSTART:20261204T220000
 DTEND:20261204T233000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:128159234a9d9c98f5d666812f99b5@events-near-me
 DESCRIPTION:As the semester draws to a close\, join us for an informal con
  versation reflecting on the the international student experience at Holy C
@@ -2676,7 +2880,7 @@ BEGIN:VEVENT
 SUMMARY:Festival of Lights
 DTSTART:20261204T163000
 DTEND:20261204T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2e5d6003fe61c9dbfea18b5ea1108e@events-near-me
 DESCRIPTION:Source: City of Worcester Special Events Event page: https://w
  ww.worcesterma.gov/calendar/festival-lights\n\nEvents Near Me: within 30 m
@@ -2690,7 +2894,7 @@ BEGIN:VEVENT
 SUMMARY:Finals Care Package
 DTSTART:20261204T013000
 DTEND:20261204T023000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:62b325040af58e3b3cb6176c890503@events-near-me
 DESCRIPTION:Residents can get snacks\, practical items and self-care goodi
  es that will make finals feel a little less stressful. There will also be 
@@ -2707,7 +2911,7 @@ BEGIN:VEVENT
 SUMMARY:Forty-Eighth Annual Festival of Lessons & Carols
 DTSTART:20261204T010000
 DTEND:20261204T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:96fc514fac88fea47a9f461b190be2@events-near-me
 DESCRIPTION:Please join us for the College’s Annual Festival of Lessons 
  and Carols for Advent. The service will take place in St. Joseph Memorial 
@@ -2725,7 +2929,7 @@ BEGIN:VEVENT
 SUMMARY:Gingerbread Dorms
 DTSTART:20261204T220000
 DTEND:20261204T230000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9e63bee4d10b03b76a59e2557c54ce@events-near-me
 DESCRIPTION:Debrief your semester\, plan next year’s time in Figge\, all
   while designing a gingerbread house with your roomies!! --- Event Details
@@ -2742,7 +2946,7 @@ BEGIN:VEVENT
 SUMMARY:Goo Luck on Finals with RA Bella
 DTSTART:20261204T210000
 DTEND:20261204T220000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2331052eb1d31f831e0a81635eae98@events-near-me
 DESCRIPTION:Stop by for a quick break to help you get through finals week!
   Take a break from studying\, recharge\, and enjoy a fun activity as you p
@@ -2760,7 +2964,7 @@ BEGIN:VEVENT
 SUMMARY:Hanukkah Storytime with the Jewish Federation of Central MA
 DTSTART:20261204T100000
 DTEND:20261204T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c95aa470a959f127859f2366b6aaa4@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/hanukkah-storytime-with-the-j
@@ -2778,7 +2982,7 @@ SUMMARY:Holy Cross Men's Track & Field at Sharon Colyear-Danville Season O
  pener - Boston University Track & Tennis Center
 DTSTART:20261204T140000
 DTEND:20261205T045900
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3820bbd05931c5e6895decfcf4e73b@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at Sharon Colyear-Danville Seas
  on Opener - Boston University Track & Tennis Center --- Event Details: htt
@@ -2795,7 +2999,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey vs Vermont
 DTSTART:20261204T230000
 DTEND:20261205T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:149abb123225845bb4904f80b0fe18@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey vs Vermont TV: ESPN+ Streaming V
  ideo: https://www.espn.com/watch/schedule --- Event Details: https://myhc.
@@ -2813,7 +3017,7 @@ BEGIN:VEVENT
 SUMMARY:Mass in Spanish
 DTSTART:20261204T210000
 DTEND:20261204T213000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5d6ee3f004f8e991e23e54eba4bce9@events-near-me
 DESCRIPTION:Monthly mass in Spanish starts Friday\, 9/4 and will continue 
  for the semester - first Friday of every month. Fridays at 4pm: 9/4\, 10/2
@@ -2831,7 +3035,7 @@ BEGIN:VEVENT
 SUMMARY:Pizza and games
 DTSTART:20261204T000000
 DTEND:20261204T004000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3196fd12aa6f6dbb245b7a4c87dfd9@events-near-me
 DESCRIPTION:Come grab a slice of pizza and enjoy as classes come to and en
  d. Feel free to hang out while you eat and even play some games like indoo
@@ -2849,7 +3053,7 @@ BEGIN:VEVENT
 SUMMARY:Pre-Finals Christmas Crafts
 DTSTART:20261204T230000
 DTEND:20261205T003000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:12d82a899d1527f8899b1d1b4aca52@events-near-me
 DESCRIPTION:Take a break from your work and join us for some hot cocoa\, p
  izza\, and ornament decorating on the last day of classes! --- Event Detai
@@ -2866,7 +3070,7 @@ BEGIN:VEVENT
 SUMMARY:Puzzles
 DTSTART:20261204T223000
 DTEND:20261204T230000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5f9fb0e8037e146ec7510951a6bf20@events-near-me
 DESCRIPTION:Build puzzles with friends --- Event Details: https://myhc.hol
  ycross.edu/rsvp?id=2155432 Source: College of the Holy Cross Event page: h
@@ -2881,7 +3085,7 @@ BEGIN:VEVENT
 SUMMARY:Semester Wind Down
 DTSTART:20261204T000000
 DTEND:20261204T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:faa5d69cedc761eeecae8f9df42799@events-near-me
 DESCRIPTION:Take a break from the stress of the semester and enjoy some Ch
  ick-fil-A with your fellow residents! Come hang out\, grab some food\, and
@@ -2898,7 +3102,7 @@ BEGIN:VEVENT
 SUMMARY:Snap & Scrap
 DTSTART:20261204T000000
 DTEND:20261204T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3adf13f39d8d921e22f2782ca47f2a@events-near-me
 DESCRIPTION:Come join RA Hayleigh for a fun night of Polaroid pictures\, s
  crapbooking\, and decorating mini photo stands! Dress Code: Casual (jeans 
@@ -2915,7 +3119,7 @@ BEGIN:VEVENT
 SUMMARY:Snowed-In with LASO
 DTSTART:20261204T230000
 DTEND:20261205T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:19dc189f1414a36e964ef0380f70a4@events-near-me
 DESCRIPTION:Join us for a relaxing evening before finals start! We will be
   having activities\, conchas\, and chocolate de abuelita. --- Event Detail
@@ -2931,7 +3135,7 @@ BEGIN:VEVENT
 SUMMARY:Squish Away the Stress
 DTSTART:20261204T220000
 DTEND:20261204T230000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5d4bd3317586c3b44ee6db8fdbe438@events-near-me
 DESCRIPTION:Join SCS for a fun break before finals! Make your own stress b
  all and spend some time de-stressing with friends. --- Event Details: http
@@ -2947,7 +3151,7 @@ BEGIN:VEVENT
 SUMMARY:Thrive Thursdays
 DTSTART:20261204T010000
 DTEND:20261204T030000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d7945e015e4482ecd976387ad6ccb7@events-near-me
 DESCRIPTION:Your Thursday nights just got better! Thrive Thursdays is a we
  ekly hangout featuring good food\, good music\, good people\, and plenty o
@@ -2970,7 +3174,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons & Dragons for Beginners and Beyond
 DTSTART:20261205T120000
 DTEND:20261205T150000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:6bd2ff387b25725edcfc971fa3b56c@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/dungeons-dragons-for-beginner
@@ -2987,7 +3191,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Stonehill
 DTSTART:20261205T180000
 DTEND:20261205T200000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a6ecb34825f81d2cc350b8a9d8fcce@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Stonehill Streaming Video: http
  s://stonehillskyhawks.com/404-1.aspx?url=url=/custompages/mens-basketball/
@@ -3007,7 +3211,7 @@ SUMMARY:Holy Cross Men's Track & Field at Alden Invitational - Olney-Margo
  lies Athletic Center
 DTSTART:20261205T140000
 DTEND:20261205T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:71156c01c58758cd32fed1fd1a9322@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at Alden Invitational - Olney-M
  argolies Athletic Center --- Event Details: https://myhc.holycross.edu/rsv
@@ -3023,7 +3227,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey vs Vermont
 DTSTART:20261205T050000
 DTEND:20261206T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e7522da6aa012f90864c3a6ca3ae5b@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey vs Vermont --- Event Details: ht
  tps://myhc.holycross.edu/rsvp?id=2153285 Source: College of the Holy Cross
@@ -3040,7 +3244,7 @@ BEGIN:VEVENT
 SUMMARY:Kwanzaa Storytime
 DTSTART:20261205T100000
 DTEND:20261205T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ff0be7e8e0984aa787e6d423792eb0@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/kwanzaa-storytime/\n\nEvents 
@@ -3056,7 +3260,7 @@ BEGIN:VEVENT
 SUMMARY:Little Innovators Big Dreams
 DTSTART:20261205T140000
 DTEND:20261205T150000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c4269dbf12d1ab8d2ac5c231a13081@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/little-innovators-big-dreams-
@@ -3073,7 +3277,7 @@ BEGIN:VEVENT
 SUMMARY:Seelos Film Series: The Sheep Detective
 DTSTART:20261205T000000
 DTEND:20261205T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:105a20d671769bfc1021876142be73@events-near-me
 DESCRIPTION:A devoted shepherd named George (Hugh Jackman) who reads murde
  r mystery novels to his beloved flock every night\, completely unaware tha
@@ -3091,7 +3295,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wellness Fest
 DTSTART:20261205T150000
 DTEND:20261205T180000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1a87de8c0629d9a0dcd7090a3c801c@events-near-me
 DESCRIPTION:Winter Wellness Fest: Get Ready for Finals The Jo 10 am-1 pm F
  inals are coming up\, and we’ve got the perfect way to help you get read
@@ -3122,7 +3326,7 @@ BEGIN:VEVENT
 SUMMARY:Clark-Mas
 DTSTART:20261206T230000
 DTEND:20261207T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2a120700bf8e629d7662a47c2b1ae5@events-near-me
 DESCRIPTION:A fun\, creative break for students before exam week Decoratin
  g Christmas cookies\, listening to Christmas music\, and making decoration
@@ -3138,7 +3342,7 @@ BEGIN:VEVENT
 SUMMARY:Club Hockey Game
 DTSTART:20261206T223000
 DTEND:20261207T003000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d1b643c85daeb41d11176a7e029ac7@events-near-me
 DESCRIPTION:Game vs. Norwich --- Event Details: https://myhc.holycross.edu
  /rsvp?id=2154435 Source: College of the Holy Cross Event page: https://myh
@@ -3152,7 +3356,7 @@ BEGIN:VEVENT
 SUMMARY:Gamelan Gita Sari Concert
 DTSTART:20261206T003000
 DTEND:20261206T013000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:369b2faddd893fde50598365b7666c@events-near-me
 DESCRIPTION:Under the direction of Nyoman Catra\, one of Bali’s most ren
  owned master artists of traditional dance/theatre\, our Balinese dance and
@@ -3173,7 +3377,7 @@ BEGIN:VEVENT
 SUMMARY:Seelos Film Series: The Sheep Detective
 DTSTART:20261206T000000
 DTEND:20261206T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:149957a4b82b89b9ca494e6dabe0a3@events-near-me
 DESCRIPTION:A devoted shepherd named George (Hugh Jackman) who reads murde
  r mystery novels to his beloved flock every night\, completely unaware tha
@@ -3191,7 +3395,7 @@ BEGIN:VEVENT
 SUMMARY:All classes end
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:326066ba6eeea7e013b8f8d89be831@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/all-classes-end-10/\n\nEvents Near Me: within 30 miles of
@@ -3206,7 +3410,7 @@ BEGIN:VEVENT
 SUMMARY:Cocoa and Chill
 DTSTART:20261207T000000
 DTEND:20261207T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5dced06eca4f776ae7c7e98f5c7bfc@events-near-me
 DESCRIPTION:Take a much needed break from studying and join us in the Whee
  ler classroom for a hot cocoa bar and s'mores! Wear your pjs to be extra c
@@ -3223,7 +3427,7 @@ BEGIN:VEVENT
 SUMMARY:Festival of Lessons and Carols
 DTSTART:20261207T193000
 DTEND:20261207T203000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b2a7db2018fb191496c2fdc1ddb69a@events-near-me
 DESCRIPTION:Join Campus Ministry and the Assumption community as we prepar
  e for the Advent season with the Festival Lessons and Carols on Monday\, D
@@ -3242,7 +3446,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball at Massachusetts
 DTSTART:20261207T230000
 DTEND:20261208T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:dfcd6897a979e77e15a9b581fd000d@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at Massachusetts Streaming Video
  : https://www.espn.com/watch/ --- Event Details: https://myhc.holycross.ed
@@ -3258,7 +3462,7 @@ BEGIN:VEVENT
 SUMMARY:LEGO Club
 DTSTART:20261207T180000
 DTEND:20261207T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3b40978693f4542bc8345e562ef8e5@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/lego-club-28/\n\nEvents Near 
@@ -3274,7 +3478,7 @@ BEGIN:VEVENT
 SUMMARY:Take a Break
 DTSTART:20261207T180000
 DTEND:20261208T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ee9cdddbce0e81e1cf460bce84b2ac@events-near-me
 DESCRIPTION:Studying for finals? Take a break to rest and recharge in Dina
  nd Library. Visit the Dinand Library Conference Room (Room 101H) any time 
@@ -3295,7 +3499,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261208T180000
 DTEND:20261208T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5d9b3a8fec066793d55d1d6c53164f@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-372/\n\nEvent
@@ -3311,7 +3515,7 @@ BEGIN:VEVENT
 SUMMARY:Create Club\, Jr.
 DTSTART:20261208T180000
 DTEND:20261208T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:496d67e84d614fea381e6141a68912@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/create-club-jr-3/\n\nEvents N
@@ -3327,7 +3531,7 @@ BEGIN:VEVENT
 SUMMARY:Gardening Tech At a Glance
 DTSTART:20261208T140000
 DTEND:20261208T150000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e63dffe506a4b04ad511540ea2833d@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/gardening-tech-at-a-glance/\n
@@ -3343,7 +3547,7 @@ BEGIN:VEVENT
 SUMMARY:Intro to 3D Printing
 DTSTART:20261208T183000
 DTEND:20261208T193000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:93fc213e898867993eb35b3f24e15e@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/intro-to-3d-printing/\n\nEven
@@ -3359,7 +3563,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261208T100000
 DTEND:20261208T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e5941c72fa63f7c46e299b22fd0396@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-112/\n\nEvents N
@@ -3375,7 +3579,7 @@ BEGIN:VEVENT
 SUMMARY:Reading Day
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:aec76972552ed3fba72364981abd1a@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/reading-day-10/\n\nEvents Near Me: within 30 miles of Nor
@@ -3389,7 +3593,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261208T170000
 DTEND:20261208T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:181d119267f07573a8fb40d51c97d6@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-3
@@ -3406,7 +3610,7 @@ BEGIN:VEVENT
 SUMMARY:Tai Chi
 DTSTART:20261208T000000
 DTEND:20261208T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0e6d298469d9d808bb0ad155fbf60a@events-near-me
 DESCRIPTION:Hustle culture isn’t a flex\, recovery is. This FREE\, drop-
  in reset that downshifts your nervous system\, loosens laptop-shoulders\, 
@@ -3425,7 +3629,7 @@ BEGIN:VEVENT
 SUMMARY:Therapy Dogs at Ciampi-Condron!
 DTSTART:20261208T170000
 DTEND:20261208T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8b1f160ee76af0a6178d49f014952e@events-near-me
 DESCRIPTION:Stressed during finals? DREAM invites you to wind down for a b
  it and spend some time with some adorable therapy dogs! --- Event Details:
@@ -3442,7 +3646,7 @@ BEGIN:VEVENT
 SUMMARY:WPI Powerlifting Practice
 DTSTART:20261208T230000
 DTEND:20261209T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:4bee186d6d7502e86cf08e2425fc3f@events-near-me
 DESCRIPTION:WPI Powerlifting Practice at Evolve Fitness & Training! Meet u
  s down at the Park Ave Garage bus circle at 5:50pm to ride our free bus to
@@ -3459,7 +3663,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261209T103000
 DTEND:20261209T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:82b99a66cc4637589d6823136e1835@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-94/\n\nEvents N
@@ -3475,7 +3679,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261209T100000
 DTEND:20261209T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:318296ad0e1df02ff8baedef4ce81c@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-126/\n\nEvents
@@ -3491,7 +3695,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball vs Johnson & Wales - Toy Drive
 DTSTART:20261209T000000
 DTEND:20261209T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a1df3c5239c8409f74b4070d0f3765@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Johnson & Wales - Toy Drive Str
  eaming Video: https://www.espn.com/watch/ Tickets: https://tickets.goholyc
@@ -3510,7 +3714,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey at Cornell
 DTSTART:20261209T000000
 DTEND:20261209T030000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:38ca9f278a10fe49c8b26475ae0da3@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey at Cornell Streaming Video: https:
  //www.espn.com/search/_/appearance/dark/type/upcoming/o/watch/q/cornell St
@@ -3530,7 +3734,7 @@ BEGIN:VEVENT
 SUMMARY:Professional Development Day
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:cf94043097b33dc546c73bf44fc782@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/professional-development-day-9/\n\nEvents Near Me: within
@@ -3545,7 +3749,7 @@ BEGIN:VEVENT
 SUMMARY:Tech Tutoring
 DTSTART:20261209T140000
 DTEND:20261209T143000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:dbd3d4e945f82919badf5835b82d90@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tech-tutoring-583/\n\nEvents 
@@ -3561,7 +3765,7 @@ BEGIN:VEVENT
 SUMMARY:The Anxiety Elixir
 DTSTART:20261209T001500
 DTEND:20261209T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9505a80cc77606017bf7c090069d2e@events-near-me
 DESCRIPTION:Need a break or some quiet relaxation? Each week\, dive into a
   different way to relax and reset through meditation\, breathing hacks\, s
@@ -3581,7 +3785,7 @@ BEGIN:VEVENT
 SUMMARY:Tween Minecraft Club
 DTSTART:20261209T180000
 DTEND:20261209T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c790d79e510f0a2b41b58fe45b817c@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tween-minecraft-club-2/\n\nEv
@@ -3597,7 +3801,7 @@ BEGIN:VEVENT
 SUMMARY:Final Exams
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d0b8bd8394abe31b70ee4580477857@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/final-exams-25/\n\nEvents Near Me: within 30 miles of Nor
@@ -3611,7 +3815,7 @@ BEGIN:VEVENT
 SUMMARY:Sound Bathing with Char Willingham
 DTSTART:20261210T000000
 DTEND:20261210T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c7614bf5456ca364baa160ef5049ee@events-near-me
 DESCRIPTION:Lay down\, listen\, breathe\, explore\, relax. No experience n
  eeded. All students are welcome --- Event Details: https://myhc.holycross.
@@ -3627,7 +3831,7 @@ BEGIN:VEVENT
 SUMMARY:Stories and Snacks-Holiday Edition!
 DTSTART:20261210T110000
 DTEND:20261210T120000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b8a35c636f20c8655c03687a6998e9@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/stories-and-snacks-8/\n\nEven
@@ -3643,7 +3847,7 @@ BEGIN:VEVENT
 SUMMARY:Therapy Dogs in Hogan!
 DTSTART:20261210T153000
 DTEND:20261210T173000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c2512a17418b48ae3fae4845ec2078@events-near-me
 DESCRIPTION:Stop by Cool Beans to de-stress and spend some time with our a
  dorable therapy dogs\, Tomo and Toshi! --- Event Details: https://myhc.hol
@@ -3658,7 +3862,7 @@ BEGIN:VEVENT
 SUMMARY:WPI Powerlifting Practice
 DTSTART:20261210T230000
 DTEND:20261211T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:71972fa84a04fc942b241232d1bad7@events-near-me
 DESCRIPTION:WPI Powerlifting Practice at Evolve Fitness & Training! Meet u
  s down at the Park Ave Garage bus circle at 5:50pm to ride our free bus to
@@ -3676,7 +3880,7 @@ SUMMARY:Holy Cross Men's Track & Field at Dartmouth December Invitational
  - Leverone Field House
 DTSTART:20261211T140000
 DTEND:20261212T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:dc65c5d697b22fe1e5bce61fe7f4d0@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at Dartmouth December Invitatio
  nal - Leverone Field House --- Event Details: https://myhc.holycross.edu/r
@@ -3692,7 +3896,7 @@ BEGIN:VEVENT
 SUMMARY:Page to Screen Book Club
 DTSTART:20261211T163000
 DTEND:20261211T183000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c8cbdcdad6803476f33c785c898540@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/page-to-screen-book-club-3/\n
@@ -3708,7 +3912,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20261211T103000
 DTEND:20261211T113000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fe3ec4958af4f48178a71fbe62895f@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-play-zone-112/\n\nEve
@@ -3724,7 +3928,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261211T100000
 DTEND:20261211T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c0f742c37b925de2a144cbe8f9dde9@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-280/\n\nEvents N
@@ -3740,7 +3944,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261212T100000
 DTEND:20261212T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ba891635cdfea7e3ef49d4589f6be2@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/saturday-storytime-108/\n\nEv
@@ -3756,7 +3960,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Sow Workshop (Part 2)
 DTSTART:20261212T100000
 DTEND:20261212T120000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8713a98985c4457689894eb2e9a4c5@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/winter-sow/\n\nEvents Near Me
@@ -3772,7 +3976,7 @@ BEGIN:VEVENT
 SUMMARY:Choose Your Own Adventure Book Club\, Jr. (1st & 2nd Grade)
 DTSTART:20261214T180000
 DTEND:20261214T184500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:66f08c08b9724d300a5fcf37ea0c1a@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/choose-your-own-adventure-boo
@@ -3789,7 +3993,7 @@ BEGIN:VEVENT
 SUMMARY:Mindfulness for Parents and Caregivers
 DTSTART:20261214T183000
 DTEND:20261214T193000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d2af56451735e9821ee82e74a34113@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/mindfulness-for-the-caregiver
@@ -3806,7 +4010,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261215T180000
 DTEND:20261215T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0a360e75b229c7d92ed1a6c012ca3a@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-373/\n\nEvent
@@ -3822,7 +4026,7 @@ BEGIN:VEVENT
 SUMMARY:Digital Coupon Tools
 DTSTART:20261215T180000
 DTEND:20261215T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e29f255ecacae875c93b36199f9120@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/digital-coupon-tools/\n\nEven
@@ -3838,7 +4042,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey at Dartmouth
 DTSTART:20261215T233000
 DTEND:20261216T023000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:25961368a59b5e65b8417669bbd5cf@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey at Dartmouth Streaming Video: http
  s://www.espn.com/search/_/q/dart/o/watch Tickets: https://lp.constantconta
@@ -3855,7 +4059,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261215T100000
 DTEND:20261215T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:98a2dad30204f82add862416728a84@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-113/\n\nEvents N
@@ -3871,7 +4075,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261215T150000
 DTEND:20261215T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fa99a1aa86f239d89233c0fd6c5b82@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-2
@@ -3888,7 +4092,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261216T103000
 DTEND:20261216T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5b05e1cdc15bb10fc9358ec413d386@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-95/\n\nEvents N
@@ -3904,7 +4108,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261216T100000
 DTEND:20261216T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:376d5c2d020f99f2ab77557583ab84@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-127/\n\nEvents
@@ -3920,7 +4124,7 @@ BEGIN:VEVENT
 SUMMARY:Graphic Novel Book Club
 DTSTART:20261216T180000
 DTEND:20261216T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b082597db4ce2ece946af423760b84@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/graphic-novel-book-club-19/\n
@@ -3936,7 +4140,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball vs Lesley - Holiday Game
 DTSTART:20261216T000000
 DTEND:20261216T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0aaa454664cca85c86687a02d6221a@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Lesley - Holiday Game Streaming
   Video: https://www.espn.com/watch/ Tickets: https://tickets.goholycross.c
@@ -3955,7 +4159,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball vs Western Kentucky
 DTSTART:20261216T230000
 DTEND:20261217T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0adf1c464605fe7f38f679858a034e@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball vs Western Kentucky Streaming Vi
  deo: https://www.espn.com/watch/schedule Tickets: https://tickets.goholycr
@@ -3974,7 +4178,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20261216T180000
 DTEND:20261216T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2008a1f36b09f7f51e38925bdd0285@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/night-fic-book-club-4/\n\nEve
@@ -3990,7 +4194,7 @@ BEGIN:VEVENT
 SUMMARY:Tech Tutoring
 DTSTART:20261216T140000
 DTEND:20261216T143000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ca9009a02aef727f1f680c70fd3db8@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tech-tutoring-589/\n\nEvents 
@@ -4006,7 +4210,7 @@ BEGIN:VEVENT
 SUMMARY:Closing at 2pm (Staff Development Day)
 DTSTART:20261217T140000
 DTEND:20261217T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:696f32d32b05e21b8deb42156553c5@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/closing-at-2pm-staff-developm
@@ -4023,7 +4227,7 @@ BEGIN:VEVENT
 SUMMARY:Storytime with Santa
 DTSTART:20261217T110000
 DTEND:20261217T120000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5f7361f6ea8738306a8802730979ea@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/storytime-with-santa-2/\n\nEv
@@ -4039,7 +4243,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Texas A&M
 DTSTART:20261218T000000
 DTEND:20261218T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:f5ccea846da54e1976a199a7d31661@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Texas A&M Streaming Video: http
  s://goholycross.com/calendar.ashx/espn.com/watch Streaming Audio: https://
@@ -4057,7 +4261,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Play Zone
 DTSTART:20261218T103000
 DTEND:20261218T113000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:46a3161f705533fcc0dca9b42cc65d@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-play-zone-113/\n\nEve
@@ -4073,7 +4277,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20261218T100000
 DTEND:20261218T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:efea22aab4d407a4005ec8165ac9a1@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-281/\n\nEvents N
@@ -4089,7 +4293,7 @@ BEGIN:VEVENT
 SUMMARY:Craft-a-Gift Workshop
 DTSTART:20261219T140000
 DTEND:20261219T150000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2ad305b5bb9f7b2e57f21a43145176@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/craft-a-gift-workshop-3/\n\nE
@@ -4105,7 +4309,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Texas Christian
 DTSTART:20261219T220000
 DTEND:20261220T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:955aa6d6bc7a0eb8e5ab21091771c5@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Texas Christian Streaming Video
  : https://www.espn.com/watch/ --- Event Details: https://myhc.holycross.ed
@@ -4121,7 +4325,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20261219T100000
 DTEND:20261219T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3e47cb29cf0485001af9d95c393826@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/saturday-storytime-109/\n\nEv
@@ -4137,7 +4341,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball at Saint Joseph's
 DTSTART:20261220T170000
 DTEND:20261220T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2b137259cb0ec488defcd28586f9b3@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at Saint Joseph's --- Event Deta
  ils: https://myhc.holycross.edu/rsvp?id=2154222 Source: College of the Hol
@@ -4153,7 +4357,7 @@ BEGIN:VEVENT
 SUMMARY:Bookworms Beginning Reader Book Club
 DTSTART:20261221T180000
 DTEND:20261221T184500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:787ecbb581f675a967f0478916edf1@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/bookworms-beginning-reader-bo
@@ -4171,7 +4375,7 @@ SUMMARY:Holy Cross Women's Basketball vs Liberty or Washington State - Cha
  mpionship/Consolation Game
 DTSTART:20261221T180000
 DTEND:20261221T200000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:de18336b15c541c76be0c69c552cdd@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball vs Liberty or Washington State -
   Championship/Consolation Game --- Event Details: https://myhc.holycross.e
@@ -4187,7 +4391,7 @@ BEGIN:VEVENT
 SUMMARY:Make-up days for exams postponed due to inclement weather
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3b5e17b2bf7d233168f88ca27c6fda@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/make-up-days-for-exams-postponed-due-to-inclement-weather
@@ -4204,7 +4408,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261222T180000
 DTEND:20261222T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:bb2d5154f23ace2baeb0a3d191f49f@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-374/\n\nEvent
@@ -4220,7 +4424,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20261222T100000
 DTEND:20261222T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:780c789ab2cc9ef995bffd538477b1@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-166/\n\nEvents N
@@ -4236,7 +4440,7 @@ BEGIN:VEVENT
 SUMMARY:Pokémon Club
 DTSTART:20261222T180000
 DTEND:20261222T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9ec6929eb6fb975f41585e9a62b120@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/pok-mon-club-4/\n\nEvents Nea
@@ -4252,7 +4456,7 @@ BEGIN:VEVENT
 SUMMARY:Semester ends
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e57473474d6066d4adfde4fc384237@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/semester-ends-3/\n\nEvents Near Me: within 30 miles of No
@@ -4266,7 +4470,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261222T170000
 DTEND:20261222T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5ca5f352ffce45f0185560a109b54b@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-6
@@ -4283,7 +4487,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20261223T103000
 DTEND:20261223T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:43dc485804f1c4fceca7c097c35037@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-96/\n\nEvents N
@@ -4299,7 +4503,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20261223T100000
 DTEND:20261223T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fbca794a3627c89737c1a4365287c9@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-128/\n\nEvents
@@ -4315,7 +4519,7 @@ BEGIN:VEVENT
 SUMMARY:Cookie Decorating
 DTSTART:20261223T130000
 DTEND:20261223T133000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ecbffe6a0d73e6afb73adcd5f31d6f@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/cookie-decorating-4/\n\nEvent
@@ -4331,7 +4535,7 @@ BEGIN:VEVENT
 SUMMARY:Discovering Browser Extensions
 DTSTART:20261223T163000
 DTEND:20261223T173000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:dde07fa77e2fd484e0c8f34a96ad63@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/discovering-browser-extension
@@ -4348,7 +4552,7 @@ BEGIN:VEVENT
 SUMMARY:Tech Tutoring
 DTSTART:20261223T140000
 DTEND:20261223T143000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:bb8f8773ae129edefab3fbf2e9f650@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tech-tutoring-595/\n\nEvents 
@@ -4364,7 +4568,7 @@ BEGIN:VEVENT
 SUMMARY:Library Closing at 12pm
 DTSTART:20261224T120000
 DTEND:20261224T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a45bf3efcf61e92795080fa0cb6467@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/library-closing-at-12pm-2/\n
@@ -4380,7 +4584,7 @@ BEGIN:VEVENT
 SUMMARY:Family Movie Night: Forgotten Island
 DTSTART:20261228T180000
 DTEND:20261228T193000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:75482222efe73b6da4213bd6addbac@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/family-movie-night-forgotten-
@@ -4398,7 +4602,7 @@ SUMMARY:Holy Cross Men's Ice Hockey at Massachusetts-Lowell - Exhibition G
  ame
 DTSTART:20261228T190500
 DTEND:20261228T220500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:245baaeee694614540fd166dc8a154@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey at Massachusetts-Lowell - Exhibiti
  on Game Tickets: https://tsongascenter.evenue.net/event/RH26/RH26GM13 --- 
@@ -4415,7 +4619,7 @@ BEGIN:VEVENT
 SUMMARY:Lego Free Build
 DTSTART:20261228T110000
 DTEND:20261228T140000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e54b4e0019f00071d507484e28523f@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/lego-free-build-16/\n\nEvents
@@ -4431,7 +4635,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20261229T180000
 DTEND:20261229T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2ab61c37591a9038427b8af437d1e8@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-375/\n\nEvent
@@ -4447,7 +4651,7 @@ BEGIN:VEVENT
 SUMMARY:Exploring RX Drug Resources Online
 DTSTART:20261229T110000
 DTEND:20261229T120000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:cfd55d127d735393b0219d262b7a29@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/exploring-rx-drug-resources-o
@@ -4464,7 +4668,7 @@ BEGIN:VEVENT
 SUMMARY:Final grades for Fall 2026 due in Registrar’s Office
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:eeda8033330ec30f485a53fa7c4573@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/final-grades-for-fall-2026-due-in-registrars-office/\n\nE
@@ -4480,7 +4684,7 @@ BEGIN:VEVENT
 SUMMARY:Nintendo Switch Open Play
 DTSTART:20261229T140000
 DTEND:20261229T160000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2d82bc6aeb2496e6b299698173387e@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/nintendo-switch-open-play-12/
@@ -4496,7 +4700,7 @@ BEGIN:VEVENT
 SUMMARY:Social Worker Drop-In Hours
 DTSTART:20261229T150000
 DTEND:20261229T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:dbba0089fd9fc4707d1ebec14cfe5b@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/social-worker-drop-in-hours-6
@@ -4514,7 +4718,7 @@ SUMMARY:Holy Cross Men's Basketball vs Army West Point - Crusader New Year
  's Eve | Kids Cheer Free
 DTSTART:20261230T190000
 DTEND:20261230T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:93b11cc282af307871d33974723434@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Army West Point - Crusader New 
  Year's Eve | Kids Cheer Free Streaming Video: https://www.espn.com/watch/ 
@@ -4533,7 +4737,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball at Army West Point
 DTSTART:20261230T230000
 DTEND:20261231T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b7eb6154d42363caca3a722a39ca7e@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at Army West Point Streaming Vid
  eo: https://www.espn.com/watch/schedule Tickets: https://goarmywestpoint.e
@@ -4550,7 +4754,7 @@ BEGIN:VEVENT
 SUMMARY:New Year's Crafternoon
 DTSTART:20261230T130000
 DTEND:20261230T150000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:67037de9a81db32874ead4893d2e12@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/new-years-crafternoon/\n\nEve
@@ -4566,7 +4770,7 @@ BEGIN:VEVENT
 SUMMARY:Tech Tutoring
 DTSTART:20261230T140000
 DTEND:20261230T143000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:f6d644dfc964388937dd6b172382e6@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tech-tutoring-601/\n\nEvents 
@@ -4582,7 +4786,7 @@ BEGIN:VEVENT
 SUMMARY:Tween Time
 DTSTART:20261230T180000
 DTEND:20261230T193000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1a72a98d707c67d11fc0b5b05f19c1@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tween-time-22/\n\nEvents Near
@@ -4598,7 +4802,7 @@ BEGIN:VEVENT
 SUMMARY:Library Closing at 12pm
 DTSTART:20261231T120000
 DTEND:20261231T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2c9930d680857218ab875f77389685@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/library-closing-at-12pm-3/\n
@@ -4614,7 +4818,7 @@ BEGIN:VEVENT
 SUMMARY:Noon Year's Eve Party
 DTSTART:20261231T110000
 DTEND:20261231T120000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ceb7078ea363f19b9f85f68a46bc35@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/noon-years-eve-party-3/\n\nEv
@@ -4630,7 +4834,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at American
 DTSTART:20270102T190000
 DTEND:20270102T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2aedd9bdb4bea8a782dd008a64636e@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at American Streaming Video: https
  ://www.espn.com/watch/ Tickets: https://aueaglestickets.universitytickets.
@@ -4647,7 +4851,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20270102T100000
 DTEND:20270102T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1ceba146546636e9ce2c22c27ba1f4@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/saturday-storytime-111/\n\nEv
@@ -4663,7 +4867,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey vs Maryville - Exhibition Game
 DTSTART:20270103T230000
 DTEND:20270104T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a0b2b9a20b6419d42fd9ef4bb10d97@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey vs Maryville - Exhibition Game Str
  eaming Video: https://www.flohockey.tv/live/281864 Tickets: https://ticket
@@ -4682,7 +4886,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270105T180000
 DTEND:20270105T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:6c6498a4a6bb2ff4172f957366c242@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-376/\n\nEvent
@@ -4698,7 +4902,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270105T100000
 DTEND:20270105T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:4b2203ad11309514f73fc41611cc49@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-114/\n\nEvents N
@@ -4714,7 +4918,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesday Book Group
 DTSTART:20270105T130000
 DTEND:20270105T140000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ece39b8c247d22921b178131383e93@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tuesday-book-group-51/\n\nEve
@@ -4730,7 +4934,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20270106T103000
 DTEND:20270106T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:156cea20b5732b1d8bdc78ef8abd33@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-98/\n\nEvents N
@@ -4746,7 +4950,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20270106T100000
 DTEND:20270106T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a3d226eb137e5abcb8b334041bbf66@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-130/\n\nEvents
@@ -4762,7 +4966,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball at Navy
 DTSTART:20270106T230000
 DTEND:20270107T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c78ab75761d84b91ad2a9aee98d7f9@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at Navy Streaming Video: https:/
  /www.espn.com/watch/schedule --- Event Details: https://myhc.holycross.edu
@@ -4778,7 +4982,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball vs Navy - Military Appreciation
 DTSTART:20270107T000000
 DTEND:20270107T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c4cdc399690664bd564ba83b6f6c47@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Navy - Military Appreciation St
  reaming Video: https://www.espn.com/watch/ Tickets: https://tickets.goholy
@@ -4797,7 +5001,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey at Boston College
 DTSTART:20270108T230000
 DTEND:20270109T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e3fa58972d215f586c24ff6e7da63a@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey at Boston College --- Event Deta
  ils: https://myhc.holycross.edu/rsvp?id=2153286 Source: College of the Hol
@@ -4813,7 +5017,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20270108T100000
 DTEND:20270108T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:68d922be134bdd9934ba9fb00f3530@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-283/\n\nEvents N
@@ -4829,7 +5033,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Loyola (Md.)
 DTSTART:20270109T190000
 DTEND:20270109T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0c4ede741f1895b943b77ca40b5aa2@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Loyola (Md.) Streaming Video: h
  ttps://www.espn.com/watch/ --- Event Details: https://myhc.holycross.edu/r
@@ -4845,7 +5049,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey at Canisius
 DTSTART:20270109T050000
 DTEND:20270110T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:bb27173607c4b49e0b88472b0c5e8a@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey at Canisius --- Event Details: htt
  ps://myhc.holycross.edu/rsvp?id=2151952 Source: College of the Holy Cross 
@@ -4861,7 +5065,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20270109T100000
 DTEND:20270109T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0d08a711340aede3ec5ea59846d876@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/saturday-storytime-112/\n\nEv
@@ -4877,7 +5081,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270112T180000
 DTEND:20270112T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3dee10569e37d522003099c6385ed6@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-377/\n\nEvent
@@ -4893,7 +5097,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270112T100000
 DTEND:20270112T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fb1568b23dc9e895d6fed968910eac@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-115/\n\nEvents N
@@ -4909,7 +5113,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20270113T103000
 DTEND:20270113T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:064ad4e9708507b396ad56e71d067f@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-99/\n\nEvents N
@@ -4925,7 +5129,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20270113T100000
 DTEND:20270113T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a98a7718454b04b9a3e6fd599f2ef5@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-131/\n\nEvents
@@ -4941,7 +5145,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Lehigh
 DTSTART:20270113T230000
 DTEND:20270114T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:02f4432b8ae940a8f4579e5d36e86a@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Lehigh Streaming Video: https:/
  /www.espn.com/watch/ --- Event Details: https://myhc.holycross.edu/rsvp?id
@@ -4957,7 +5161,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Swimming & Diving vs Colgate - Senior Day
 DTSTART:20270115T170000
 DTEND:20270115T200000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e86077afafbc9b962c13c2d2ab17c0@events-near-me
 DESCRIPTION:Holy Cross Men's Swimming & Diving vs Colgate - Senior Day ---
   Event Details: https://myhc.holycross.edu/rsvp?id=2152420 Source: College
@@ -4973,7 +5177,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey at Boston University
 DTSTART:20270115T050000
 DTEND:20270116T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ec4755e65ac66241ec9b00f020ec52@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey at Boston University --- Event D
  etails: https://myhc.holycross.edu/rsvp?id=2153288 Source: College of the 
@@ -4989,7 +5193,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20270115T100000
 DTEND:20270115T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:4a27cca575fb2f1eb80b6f743cae0a@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-284/\n\nEvents N
@@ -5005,7 +5209,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball vs Colgate - First Responders Day
 DTSTART:20270116T190000
 DTEND:20270116T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:69de8a72f64ad83dcd52e1bdc2ebb0@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Colgate - First Responders Day 
  Streaming Video: https://www.espn.com/watch/ Tickets: https://tickets.goho
@@ -5024,7 +5228,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey vs Niagara
 DTSTART:20270116T000000
 DTEND:20270116T030000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:f9c0518ae4e29b8429342d5a266ce6@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey vs Niagara Streaming Video: https:
  //www.flohockey.tv/live/281876 Tickets: https://tickets.goholycross.com/On
@@ -5044,7 +5248,7 @@ SUMMARY:Holy Cross Men's Track & Field at URI Invitational - Mackal Field
  House
 DTSTART:20270116T160000
 DTEND:20270116T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:21d778d51266e9e20e24e196a314c8@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at URI Invitational - Mackal Fi
  eld House --- Event Details: https://myhc.holycross.edu/rsvp?id=2155339 So
@@ -5060,7 +5264,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball at Colgate
 DTSTART:20270116T190000
 DTEND:20270116T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0f89f73cdfed5cf43b614fcf1b2904@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at Colgate Streaming Video: http
  s://www.espn.com/watch/schedule --- Event Details: https://myhc.holycross.
@@ -5076,7 +5280,7 @@ BEGIN:VEVENT
 SUMMARY:Northborough’s Historical Markers – In Plain Sight but Unseen
 DTSTART:20270116T110000
 DTEND:20270116T120000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9af579b2c83e1893092e75931e5f73@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/norm-corbin-historical-societ
@@ -5093,7 +5297,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Storytime
 DTSTART:20270116T100000
 DTEND:20270116T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ac122e9e7765bf47cd7a3e33733b03@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/saturday-storytime-113/\n\nEv
@@ -5110,7 +5314,7 @@ SUMMARY:Holy Cross Men's Track & Field at UMass Invitational - The TRACK a
  t New Balance
 DTSTART:20270117T140000
 DTEND:20270117T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a58dc3ffcb8a4df01cbe403c071b3c@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at UMass Invitational - The TRA
  CK at New Balance --- Event Details: https://myhc.holycross.edu/rsvp?id=21
@@ -5126,7 +5330,7 @@ BEGIN:VEVENT
 SUMMARY:Martin Luther King Jr. Day: NO CLASSES
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:64cd10d0419e7f99dfb9501b38fe87@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/martin-luther-king-jr-day-no-classes-3/\n\nEvents Near Me
@@ -5142,7 +5346,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270119T180000
 DTEND:20270119T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d089bee1e354a5325c645875e08059@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-378/\n\nEvent
@@ -5158,7 +5362,7 @@ BEGIN:VEVENT
 SUMMARY:Classes begin: day\, evening\, graduate
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:af58911f3080a7789b9bb8eca6275c@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/classes-begin-day-evening-graduate-10/\n\nEvents Near Me:
@@ -5173,7 +5377,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270119T100000
 DTEND:20270119T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3c957061179fbfda9235e9fd5e4db2@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-116/\n\nEvents N
@@ -5189,7 +5393,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20270120T103000
 DTEND:20270120T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:20e96ed1c83e6f1a860cba15c2516d@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-100/\n\nEvents 
@@ -5205,7 +5409,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20270120T100000
 DTEND:20270120T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b6f79d14c87b9e42240ea0e94537a7@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-132/\n\nEvents
@@ -5221,7 +5425,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Swimming & Diving vs Providence
 DTSTART:20270120T220000
 DTEND:20270121T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:40a1fa730c9d52ea94e61d857615ec@events-near-me
 DESCRIPTION:Holy Cross Men's Swimming & Diving vs Providence --- Event Det
  ails: https://myhc.holycross.edu/rsvp?id=2152421 Source: College of the Ho
@@ -5237,7 +5441,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball vs Bucknell
 DTSTART:20270120T230000
 DTEND:20270121T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a0c9c026d9cecbd899e272bf187179@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball vs Bucknell Streaming Video: htt
  ps://www.espn.com/watch/schedule Tickets: https://tickets.goholycross.com/
@@ -5256,7 +5460,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Bucknell
 DTSTART:20270121T000000
 DTEND:20270121T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ba878e179e50d361b2e3b5bb948234@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Bucknell Streaming Video: https
  ://www.espn.com/watch/ Tickets: https://bucknell.jump.com/ --- Event Detai
@@ -5273,7 +5477,7 @@ BEGIN:VEVENT
 SUMMARY:CAB Winter Training
 DTSTART:20270122T190000
 DTEND:20270124T230000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a91507aa8b6940f1228fe0f0e1f817@events-near-me
 DESCRIPTION:CAB Winter Training will include forecasting out the spring se
  mester events\, team dynamics and building workshops and more. --- Event D
@@ -5291,7 +5495,7 @@ SUMMARY:Holy Cross Men's Track & Field at River Hawk Invitational - The TR
  ACK at New Balance
 DTSTART:20270122T140000
 DTEND:20270122T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3fb0abdfe9ef5c2ac6d1782d076055@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at River Hawk Invitational - Th
  e TRACK at New Balance --- Event Details: https://myhc.holycross.edu/rsvp?
@@ -5307,7 +5511,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey at Providence
 DTSTART:20270122T230000
 DTEND:20270123T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3557db753d9d25e32309b65315183e@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey at Providence TV: ESPN+ Streamin
  g Video: https://www.espn.com/watch/schedule --- Event Details: https://my
@@ -5324,7 +5528,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20270122T100000
 DTEND:20270122T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:aca8610691d19948e278f65e0f14f8@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-285/\n\nEvents N
@@ -5341,7 +5545,7 @@ SUMMARY:Holy Cross Men's Basketball vs Boston University - Education Appre
  ciation | Youth Day | Turnpike Trophy
 DTSTART:20270123T190000
 DTEND:20270123T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:eeac11d03b4591064d657390d29e50@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Boston University - Education A
  ppreciation | Youth Day | Turnpike Trophy Streaming Video: https://www.esp
@@ -5361,7 +5565,7 @@ SUMMARY:Holy Cross Women's Basketball at Boston University - Turnpike Trop
  hy
 DTSTART:20270123T190000
 DTEND:20270123T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0243709aa3f1caf1274f4ca74d4369@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at Boston University - Turnpike 
  Trophy Streaming Video: https://www.espn.com/watch/schedule --- Event Deta
@@ -5378,7 +5582,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey vs Providence
 DTSTART:20270123T050000
 DTEND:20270124T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9b648ad8857466af533ddf94688161@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey vs Providence --- Event Details:
   https://myhc.holycross.edu/rsvp?id=2153291 Source: College of the Holy Cr
@@ -5396,7 +5600,7 @@ SUMMARY:Holy Cross Women's Track & Field at River Hawk Invitational - The
  TRACK at New Balance
 DTSTART:20270123T150000
 DTEND:20270123T180000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3919474328b2f60cb77f896c02cc89@events-near-me
 DESCRIPTION:Holy Cross Women's Track & Field at River Hawk Invitational - 
  The TRACK at New Balance --- Event Details: https://myhc.holycross.edu/rsv
@@ -5412,7 +5616,7 @@ BEGIN:VEVENT
 SUMMARY:Last day to add courses
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:7144ae658ac257b5a34dcb3fd1c9e2@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/last-day-to-add-day-courses-6/\n\nEvents Near Me: within 
@@ -5427,7 +5631,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270126T180000
 DTEND:20270126T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b0e6c4a96a2a88bfed51e2dc37b399@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-379/\n\nEvent
@@ -5443,7 +5647,7 @@ BEGIN:VEVENT
 SUMMARY:DREAM Meeting!♿🌟
 DTSTART:20270126T230000
 DTEND:20270127T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:bf804d151fa0499fa9a126f6d2c812@events-near-me
 DESCRIPTION:You're invited to join Disability Rights\, Education\, Activis
  m\, and Mentoring (DREAM)'s Tuesday meetings! Stay connected with DREAM vi
@@ -5460,7 +5664,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270126T100000
 DTEND:20270126T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:74f66434e11623482e91d8119acf2b@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-117/\n\nEvents N
@@ -5476,7 +5680,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20270127T103000
 DTEND:20270127T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9bb33c134ed1f8ba4b98a17e76b6be@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-101/\n\nEvents 
@@ -5492,7 +5696,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20270127T100000
 DTEND:20270127T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0fe091b500d0cee26208ad164f0867@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-133/\n\nEvents
@@ -5508,7 +5712,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Army West Point
 DTSTART:20270127T230000
 DTEND:20270128T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d0559cfdc058c0b8ae773059b766f1@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Army West Point Streaming Video
  : https://www.espn.com/watch/ Streaming Audio: https://thevarsitynetwork.c
@@ -5527,7 +5731,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20270127T180000
 DTEND:20270127T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:6f3f7a89d9b222c96845a5c5a35131@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/night-fic-book-club-5/\n\nEve
@@ -5543,7 +5747,7 @@ BEGIN:VEVENT
 SUMMARY:Final RA Info Session
 DTSTART:20270128T000000
 DTEND:20270128T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5eb64f22b18e876b98107bbe62b29a@events-near-me
 DESCRIPTION:If you are interested in learning more about the RA position a
  nd application process\, stop by this session to speak with a member of th
@@ -5561,7 +5765,7 @@ SUMMARY:Holy Cross Men's Track & Field at Harvard Invitational - Gordon In
  door Track
 DTSTART:20270129T140000
 DTEND:20270129T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:cf4340a56820e1dcc5aac0da6a2605@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at Harvard Invitational - Gordo
  n Indoor Track --- Event Details: https://myhc.holycross.edu/rsvp?id=21553
@@ -5577,7 +5781,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey at Northeastern
 DTSTART:20270129T000000
 DTEND:20270129T030000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:42ed34f625e111ca63e68b164cc196@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey at Northeastern --- Event Detail
  s: https://myhc.holycross.edu/rsvp?id=2153293 Source: College of the Holy 
@@ -5594,7 +5798,7 @@ SUMMARY:Holy Cross Women's Track & Field at John Thomas Terrier Classic -
  Boston University Track & Tennis Center
 DTSTART:20270129T140000
 DTEND:20270129T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c3417de90e3440f9f24d9bb303eca6@events-near-me
 DESCRIPTION:Holy Cross Women's Track & Field at John Thomas Terrier Classi
  c - Boston University Track & Tennis Center --- Event Details: https://myh
@@ -5611,7 +5815,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20270129T100000
 DTEND:20270129T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1fae69696380f6220782aaa99a8669@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-286/\n\nEvents N
@@ -5628,7 +5832,7 @@ SUMMARY:Holy Cross Men's Basketball vs Loyola (Md.) - Winter Homecoming |
  Coaches vs. Cancer
 DTSTART:20270130T180000
 DTEND:20270130T200000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fb7b4174dbe40f3dd9a663be31a6d4@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Loyola (Md.) - Winter Homecomin
  g | Coaches vs. Cancer Streaming Video: https://www.espn.com/watch/ Ticket
@@ -5647,7 +5851,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey vs Robert Morris
 DTSTART:20270130T050000
 DTEND:20270131T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:966abcc1eabe4bf8f77da6c65976f6@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey vs Robert Morris --- Event Details
  : https://myhc.holycross.edu/rsvp?id=2151959 Source: College of the Holy C
@@ -5664,7 +5868,7 @@ SUMMARY:Holy Cross Men's Track & Field at John Thomas Terrier Classic - Bo
  ston University Track & Tennis Center
 DTSTART:20270130T140000
 DTEND:20270130T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5b1e76d09218c2ccd70fede99ccd8b@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at John Thomas Terrier Classic 
  - Boston University Track & Tennis Center --- Event Details: https://myhc.
@@ -5681,7 +5885,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball at Loyola (Md.)
 DTSTART:20270130T180000
 DTEND:20270130T200000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c1e387c6eb01f96a37033117dbe859@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at Loyola (Md.) Streaming Video:
   https://www.espn.com/watch/schedule --- Event Details: https://myhc.holyc
@@ -5697,7 +5901,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey at Northeastern
 DTSTART:20270130T050000
 DTEND:20270131T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:aea936a89227bfd246e3fd18fc40e8@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey at Northeastern --- Event Detail
  s: https://myhc.holycross.edu/rsvp?id=2153294 Source: College of the Holy 
@@ -5714,7 +5918,7 @@ SUMMARY:Holy Cross Women's Track & Field at Harvard Invitational - Gordon
  Indoor Track
 DTSTART:20270130T140000
 DTEND:20270130T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2f1476d1da687d39c11bc6f5f64935@events-near-me
 DESCRIPTION:Holy Cross Women's Track & Field at Harvard Invitational - Gor
  don Indoor Track --- Event Details: https://myhc.holycross.edu/rsvp?id=215
@@ -5730,7 +5934,7 @@ BEGIN:VEVENT
 SUMMARY:HC Goes Unified Basketball
 DTSTART:20270131T160000
 DTEND:20270131T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:668b90ac41c943b4693417bd260c39@events-near-me
 DESCRIPTION:COLLEGE OF THE HOLY CROSS WAIVER AND ASSUMPTION OF RISK Holy C
  ross Goes Unified 2026-2027 Participant\, signed below\, has voluntarily c
@@ -5805,7 +6009,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey vs Robert Morris
 DTSTART:20270131T190000
 DTEND:20270131T220000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:86ab61ceed1382744d4fe69da17032@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey vs Robert Morris Streaming Video: 
  https://www.flohockey.tv/live/281895 Tickets: https://tickets.goholycross.
@@ -5824,7 +6028,7 @@ BEGIN:VEVENT
 SUMMARY:Winter 2027 SPEECH Peer Educator Workshop
 DTSTART:20270131T190000
 DTEND:20270131T230000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fbe89cd53bfd8f31fe2f9a08055200@events-near-me
 DESCRIPTION:SPEECH Peer Educators workshop to plan ahead for the spring 20
  27 semester and receive combined training. --- Event Details: https://myhc
@@ -5841,7 +6045,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Lafayette
 DTSTART:20270201T233000
 DTEND:20270202T013000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d233c7360daa5920da0df7cb265e28@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Lafayette --- Event Details: ht
  tps://myhc.holycross.edu/rsvp?id=2154244 Source: College of the Holy Cross
@@ -5857,7 +6061,7 @@ BEGIN:VEVENT
 SUMMARY:Last day to drop courses
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8021a6c23827ef78973c6693a7623c@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/last-day-to-drop-day-courses-6/\n\nEvents Near Me: within
@@ -5872,7 +6076,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270202T180000
 DTEND:20270202T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:c0f75c153baf46f30a76932431de6b@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-380/\n\nEvent
@@ -5888,7 +6092,7 @@ BEGIN:VEVENT
 SUMMARY:DREAM Meeting!♿🌟
 DTSTART:20270202T230000
 DTEND:20270203T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:685a27a92ea6ef4fdc42d586499371@events-near-me
 DESCRIPTION:You're invited to join Disability Rights\, Education\, Activis
  m\, and Mentoring (DREAM)'s Tuesday meetings! Stay connected with DREAM vi
@@ -5906,7 +6110,7 @@ BEGIN:VEVENT
 SUMMARY:Manic Monday with The Delilahs!
 DTSTART:20270202T030000
 DTEND:20270202T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:41168564a78caa98f8366f2740a774@events-near-me
 DESCRIPTION:Join the Delilahs in Hogan for their weekly Acapella Performan
  ce. --- Event Details: https://myhc.holycross.edu/rsvp?id=2155451 Source: 
@@ -5922,7 +6126,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270202T100000
 DTEND:20270202T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:24712c71efd0f94274a5ec13a45748@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-118/\n\nEvents N
@@ -5938,7 +6142,7 @@ BEGIN:VEVENT
 SUMMARY:RSO Winter Training 2027
 DTSTART:20270202T220000
 DTEND:20270202T233000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d78759084026bbcbd2af73db3205c5@events-near-me
 DESCRIPTION:RSO e-board members are required to attend this training sessi
  on covering important updates\, upcoming events\, key deadlines\, and remi
@@ -5961,7 +6165,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesday Book Group
 DTSTART:20270202T130000
 DTEND:20270202T140000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:4d18f4ff2dc096089d7b78c7e3d996@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tuesday-book-group-52/\n\nEve
@@ -5977,7 +6181,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20270203T103000
 DTEND:20270203T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:aad7074a97c2708495ed83d1e2dc31@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-102/\n\nEvents 
@@ -5993,7 +6197,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20270203T100000
 DTEND:20270203T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b75d5c650dba61ded07194e7031c0b@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-134/\n\nEvents
@@ -6009,7 +6213,7 @@ BEGIN:VEVENT
 SUMMARY:Bagel Wednesday
 DTSTART:20270203T143000
 DTEND:20270203T160000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:48e12c38a54ca39ff9d3865eb0bb06@events-near-me
 DESCRIPTION:Please join the members of the Chaplains' Office at Campion Ho
  use on the first Wednesday of every month for Bagel Wednesday. Starting at
@@ -6029,7 +6233,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball vs Lafayette
 DTSTART:20270203T230000
 DTEND:20270204T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:271586e71e0e3747d84686ef38a765@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball vs Lafayette Streaming Video: ht
  tps://www.espn.com/watch/schedule Tickets: https://tickets.goholycross.com
@@ -6048,7 +6252,7 @@ BEGIN:VEVENT
 SUMMARY:Love Letters to the Earth!
 DTSTART:20270203T000000
 DTEND:20270203T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:900aa68fab8555c875b2e83e8c3d63@events-near-me
 DESCRIPTION:Join Eco-Action to create Valentines for the Earth for Valenti
  ne's Day! --- Event Details: https://myhc.holycross.edu/rsvp?id=2155361 So
@@ -6064,7 +6268,7 @@ BEGIN:VEVENT
 SUMMARY:Fools on the Hill Pop Up Performance
 DTSTART:20270204T030000
 DTEND:20270204T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0699026435208c08c0491c3ab215b2@events-near-me
 DESCRIPTION:Stop by Hogan for a performance by the Fools on the Hill acape
  lla group! --- Event Details: https://myhc.holycross.edu/rsvp?id=2155445 S
@@ -6080,7 +6284,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED - Toddler Time
 DTSTART:20270205T100000
 DTEND:20270205T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3940374fabe55b3e5ba1aeea130fdd@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-287/\n\nEvents N
@@ -6097,7 +6301,7 @@ SUMMARY:Holy Cross Men's Swimming & Diving at Boston University Winter Ope
  n
 DTSTART:20270205T230000
 DTEND:20270206T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5cc202c6e2bced238f8418f25a716a@events-near-me
 DESCRIPTION:Holy Cross Men's Swimming & Diving at Boston University Winter
   Open --- Event Details: https://myhc.holycross.edu/rsvp?id=2152424 Source
@@ -6113,7 +6317,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Navy
 DTSTART:20270206T190000
 DTEND:20270206T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3cdf4f732f7cb5815869673d6e2931@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Navy Streaming Video: https://w
  ww.espn.com/watch/ Tickets: https://navysports.evenue.net/event/B2026/MB10
@@ -6130,7 +6334,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey at Bentley
 DTSTART:20270206T000000
 DTEND:20270206T030000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:cea93dc9ee7216cd805b16779f211b@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey at Bentley Streaming Video: https:
  //www.flohockey.tv/live/281884 Tickets: https://www.etix.com/ticket/p/6064
@@ -6149,7 +6353,7 @@ SUMMARY:Holy Cross Men's Swimming & Diving at Boston University Winter Ope
  n
 DTSTART:20270206T170000
 DTEND:20270206T200000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8a301c93257db78a7456ef9b5655e4@events-near-me
 DESCRIPTION:Holy Cross Men's Swimming & Diving at Boston University Winter
   Open --- Event Details: https://myhc.holycross.edu/rsvp?id=2152425 Source
@@ -6166,7 +6370,7 @@ SUMMARY:Holy Cross Men's Track & Field at IC4A Indoor Championship - Bosto
  n University Track & Tennis Center
 DTSTART:20270206T140000
 DTEND:20270207T140000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:4076f0d8708e962713a0e912c1625a@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at IC4A Indoor Championship - B
  oston University Track & Tennis Center --- Event Details: https://myhc.hol
@@ -6182,7 +6386,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey vs Northeastern
 DTSTART:20270206T170000
 DTEND:20270206T200000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:112e1e45e44133af08edc277efe3b2@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey vs Northeastern TV: ESPN+ Stream
  ing Video: https://www.espn.com/watch/schedule --- Event Details: https://
@@ -6200,7 +6404,7 @@ BEGIN:VEVENT
 SUMMARY:HC Goes Unified Basketball
 DTSTART:20270207T160000
 DTEND:20270207T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2d5dfc51c05e166d5ed779b5df82d8@events-near-me
 DESCRIPTION:COLLEGE OF THE HOLY CROSS WAIVER AND ASSUMPTION OF RISK Holy C
  ross Goes Unified 2026-2027 Participant\, signed below\, has voluntarily c
@@ -6276,7 +6480,7 @@ SUMMARY:Holy Cross Men's Golf at Dorado Beach Collegiate - Dorado Beach Re
  sort & Club
 DTSTART:20270207T050000
 DTEND:20270208T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:38394522b71f04fbbb81fd44fbee95@events-near-me
 DESCRIPTION:Holy Cross Men's Golf at Dorado Beach Collegiate - Dorado Beac
  h Resort & Club --- Event Details: https://myhc.holycross.edu/rsvp?id=2153
@@ -6292,7 +6496,7 @@ BEGIN:VEVENT
 SUMMARY:Women's Club Ice Hockey Game vs. Assumption University
 DTSTART:20270207T223000
 DTEND:20270208T003000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:495c794f480cdc1ad2f55c6618c80d@events-near-me
 DESCRIPTION:Holy Cross Women's Club Ice Hockey Senior Night! This game at 
  the Hart Center at Holy Cross vs. Assumption University to celebrate our s
@@ -6311,7 +6515,7 @@ SUMMARY:Holy Cross Men's Golf at Dorado Beach Collegiate - Dorado Beach Re
  sort & Club
 DTSTART:20270208T050000
 DTEND:20270209T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b132ffc298e4a2c1ed79697f59a1b8@events-near-me
 DESCRIPTION:Holy Cross Men's Golf at Dorado Beach Collegiate - Dorado Beac
  h Resort & Club --- Event Details: https://myhc.holycross.edu/rsvp?id=2153
@@ -6327,7 +6531,7 @@ BEGIN:VEVENT
 SUMMARY:Sexual Respect Week 2027
 DTSTART:20270208T180000
 DTEND:20270212T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e0120159d8473dfb74623c6e9f0450@events-near-me
 DESCRIPTION:Sexual Respect Week reflects on the role we all play in creati
  ng a safe\, healthy\, and respectful campus and is an invitation to engage
@@ -6344,7 +6548,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270209T180000
 DTEND:20270209T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3270881e9769f61319ba2dfc341c87@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-381/\n\nEvent
@@ -6360,7 +6564,7 @@ BEGIN:VEVENT
 SUMMARY:DREAM Meeting!♿🌟
 DTSTART:20270209T230000
 DTEND:20270210T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b52d47304b41ff74a1d5a09f8a25bd@events-near-me
 DESCRIPTION:You're invited to join Disability Rights\, Education\, Activis
  m\, and Mentoring (DREAM)'s Tuesday meetings! Stay connected with DREAM vi
@@ -6379,7 +6583,7 @@ SUMMARY:Holy Cross Men's Golf at Dorado Beach Collegiate - Dorado Beach Re
  sort & Club
 DTSTART:20270209T050000
 DTEND:20270210T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:827bef35bf8fc9808626d1454d5cea@events-near-me
 DESCRIPTION:Holy Cross Men's Golf at Dorado Beach Collegiate - Dorado Beac
  h Resort & Club --- Event Details: https://myhc.holycross.edu/rsvp?id=2153
@@ -6395,7 +6599,7 @@ BEGIN:VEVENT
 SUMMARY:Manic Monday with The Delilahs!
 DTSTART:20270209T030000
 DTEND:20270209T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:50a02f69c3ca2635cd2ac102b8c1e7@events-near-me
 DESCRIPTION:Join the Delilahs in Hogan for their weekly Acapella Performan
  ce. --- Event Details: https://myhc.holycross.edu/rsvp?id=2155452 Source: 
@@ -6411,7 +6615,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270209T100000
 DTEND:20270209T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3e971c9a274bf937efe933597d0a38@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-119/\n\nEvents N
@@ -6427,7 +6631,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20270210T103000
 DTEND:20270210T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b51334d90b8c9e5d9fd0c028960319@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-103/\n\nEvents 
@@ -6443,7 +6647,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20270210T100000
 DTEND:20270210T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9870b1c090850b8412d844324a0e0f@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-135/\n\nEvents
@@ -6459,7 +6663,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball at Bucknell
 DTSTART:20270210T230000
 DTEND:20270211T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3798ac33b79ace4e1ad811dd8fd28a@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at Bucknell Streaming Video: htt
  ps://www.espn.com/watch/schedule --- Event Details: https://myhc.holycross
@@ -6475,7 +6679,7 @@ BEGIN:VEVENT
 SUMMARY:Off the Record Pop Up Performance
 DTSTART:20270210T030000
 DTEND:20270210T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b2fb53620b36ff34ec0602e2235223@events-near-me
 DESCRIPTION:Stop by Hogan 1st floor for a performance by Off the Record ac
  apella group! --- Event Details: https://myhc.holycross.edu/rsvp?id=215543
@@ -6492,7 +6696,7 @@ SUMMARY:Holy Cross Men's Basketball vs Bucknell - Ash Wednesday | Academic
   Recognition
 DTSTART:20270211T000000
 DTEND:20270211T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:009cca14c8f2b09c751f5846525d29@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Bucknell - Ash Wednesday | Acad
  emic Recognition Streaming Video: https://www.espn.com/watch/ Tickets: htt
@@ -6511,7 +6715,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey at Air Force
 DTSTART:20270212T050000
 DTEND:20270213T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:aefa3ccdd4f7c649378fbc94732d73@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey at Air Force --- Event Details: ht
  tps://myhc.holycross.edu/rsvp?id=2151964 Source: College of the Holy Cross
@@ -6528,7 +6732,7 @@ SUMMARY:Holy Cross Men's Track & Field at David Hemery Valentine Invitatio
  nal - Boston University Track & Tennis Center
 DTSTART:20270212T140000
 DTEND:20270212T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8ae4550434f0cbb2a0ffee12cad71b@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at David Hemery Valentine Invit
  ational - Boston University Track & Tennis Center --- Event Details: https
@@ -6545,7 +6749,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20270212T100000
 DTEND:20270212T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:4ed0f4692bdbe452db3cecd139b3e7@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-288/\n\nEvents N
@@ -6562,7 +6766,7 @@ SUMMARY:Holy Cross Men's Basketball vs Lehigh - Healthcare Appreciation |
  Kids Cheer Free
 DTSTART:20270213T190000
 DTEND:20270213T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b857014fc071c243d980b90ffabf05@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Lehigh - Healthcare Appreciatio
  n | Kids Cheer Free Streaming Video: https://www.espn.com/watch/ Tickets: 
@@ -6581,7 +6785,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey at Air Force
 DTSTART:20270213T020000
 DTEND:20270213T045900
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e9d645c9ac6108f6cd11ed40d02def@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey at Air Force Streaming Video: http
  s://www.flohockey.tv/live/281909 Tickets: https://goairforcefalcons.evenue
@@ -6599,7 +6803,7 @@ SUMMARY:Holy Cross Men's Track & Field at URI Coaches Invitational - Macka
  l Field House
 DTSTART:20270213T140000
 DTEND:20270213T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:21647ed457e8e90605146eaf59c716@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at URI Coaches Invitational - M
  ackal Field House --- Event Details: https://myhc.holycross.edu/rsvp?id=21
@@ -6615,7 +6819,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball at Lehigh
 DTSTART:20270213T050000
 DTEND:20270214T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:45f7fa51303acf265aa610a56a3138@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at Lehigh Streaming Video: https
  ://www.espn.com/watch/schedule --- Event Details: https://myhc.holycross.e
@@ -6631,7 +6835,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey vs Connecticut
 DTSTART:20270213T050000
 DTEND:20270214T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:de158a607c84fa056315db350a4829@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey vs Connecticut TV: ESPN+ Streami
  ng Video: https://www.espn.com/watch/schedule --- Event Details: https://m
@@ -6650,7 +6854,7 @@ SUMMARY:Holy Cross Women's Track & Field at David Hemery Valentine Invitat
  ional - Boston University Track & Tennis Center
 DTSTART:20270213T140000
 DTEND:20270213T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:7f82db3a7e2d417a9bba898775d2c0@events-near-me
 DESCRIPTION:Holy Cross Women's Track & Field at David Hemery Valentine Inv
  itational - Boston University Track & Tennis Center --- Event Details: htt
@@ -6667,7 +6871,7 @@ BEGIN:VEVENT
 SUMMARY:HC Goes Unified Basketball
 DTSTART:20270214T160000
 DTEND:20270214T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8c467e3f9931e49e42ff1f1f1fcfd4@events-near-me
 DESCRIPTION:COLLEGE OF THE HOLY CROSS WAIVER AND ASSUMPTION OF RISK Holy C
  ross Goes Unified 2026-2027 Participant\, signed below\, has voluntarily c
@@ -6742,7 +6946,7 @@ BEGIN:VEVENT
 SUMMARY:Presidents’ Day: NO CLASSES
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3af75cef8437382da7a47a7fd26021@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/presidents-day-no-classes-5/\n\nEvents Near Me: within 30
@@ -6757,7 +6961,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270216T180000
 DTEND:20270216T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a8a1673e37b287051c4afab8b12b18@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-382/\n\nEvent
@@ -6773,7 +6977,7 @@ BEGIN:VEVENT
 SUMMARY:DREAM Meeting!♿🌟
 DTSTART:20270216T230000
 DTEND:20270217T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fd8e7342e2e4751a9b22d02895ea53@events-near-me
 DESCRIPTION:You're invited to join Disability Rights\, Education\, Activis
  m\, and Mentoring (DREAM)'s Tuesday meetings! Stay connected with DREAM vi
@@ -6791,7 +6995,7 @@ BEGIN:VEVENT
 SUMMARY:Manic Monday with The Delilahs!
 DTSTART:20270216T030000
 DTEND:20270216T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:910050e21312f74cf1ccb7177198f6@events-near-me
 DESCRIPTION:Join the Delilahs in Hogan for their weekly Acapella Performan
  ce. --- Event Details: https://myhc.holycross.edu/rsvp?id=2155453 Source: 
@@ -6807,7 +7011,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270216T100000
 DTEND:20270216T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:495ec56c5a816a410163fdbad27b64@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-120/\n\nEvents N
@@ -6823,7 +7027,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20270217T103000
 DTEND:20270217T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:80f0b40ea19d13214c77cc55505530@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-104/\n\nEvents 
@@ -6839,7 +7043,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20270217T100000
 DTEND:20270217T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:11cf42e0a2debeaee6947eb0d7d415@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-136/\n\nEvents
@@ -6855,7 +7059,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Swimming & Diving at Patriot League Championship
 DTSTART:20270217T050000
 DTEND:20270218T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:995bca440e8e454b8ebed84b1e3ac6@events-near-me
 DESCRIPTION:Holy Cross Men's Swimming & Diving at Patriot League Champions
  hip --- Event Details: https://myhc.holycross.edu/rsvp?id=2152428 Source: 
@@ -6871,7 +7075,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball vs Colgate
 DTSTART:20270217T230000
 DTEND:20270218T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b4669f35ab765fb03509cfb348b85b@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball vs Colgate Streaming Video: http
  s://www.espn.com/watch/schedule Tickets: https://tickets.goholycross.com/O
@@ -6890,7 +7094,7 @@ BEGIN:VEVENT
 SUMMARY:Fools on the Hill Pop Up Performance
 DTSTART:20270218T030000
 DTEND:20270218T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1137eda66a8482716d9efc3a4bc12d@events-near-me
 DESCRIPTION:Stop by Hogan for a performance by the Fools on the Hill acape
  lla group! --- Event Details: https://myhc.holycross.edu/rsvp?id=2155446 S
@@ -6906,7 +7110,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Colgate
 DTSTART:20270218T000000
 DTEND:20270218T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:cec64d902ca00b4186985935dff359@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Colgate Streaming Video: https:
  //www.espn.com/watch/ --- Event Details: https://myhc.holycross.edu/rsvp?i
@@ -6922,7 +7126,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Swimming & Diving at Patriot League Championship
 DTSTART:20270218T050000
 DTEND:20270219T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a2f55b3697aaf7552f4f30d76b8954@events-near-me
 DESCRIPTION:Holy Cross Men's Swimming & Diving at Patriot League Champions
  hip --- Event Details: https://myhc.holycross.edu/rsvp?id=2152429 Source: 
@@ -6938,7 +7142,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Swimming & Diving at Patriot League Championship
 DTSTART:20270219T050000
 DTEND:20270220T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:233303e0801480ef166213136936b1@events-near-me
 DESCRIPTION:Holy Cross Men's Swimming & Diving at Patriot League Champions
  hip --- Event Details: https://myhc.holycross.edu/rsvp?id=2152432 Source: 
@@ -6954,7 +7158,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey at Boston College
 DTSTART:20270219T050000
 DTEND:20270220T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e24e2a0d50bc983806b883299219d6@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey at Boston College --- Event Deta
  ils: https://myhc.holycross.edu/rsvp?id=2153303 Source: College of the Hol
@@ -6970,7 +7174,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20270219T100000
 DTEND:20270219T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0939c55f29cf71df0db354f38c0753@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-289/\n\nEvents N
@@ -6986,7 +7190,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Swimming & Diving at Patriot League Championship
 DTSTART:20270220T050000
 DTEND:20270221T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:093e4fd90f3e508cc8fcffe12b21d4@events-near-me
 DESCRIPTION:Holy Cross Men's Swimming & Diving at Patriot League Champions
  hip --- Event Details: https://myhc.holycross.edu/rsvp?id=2152433 Source: 
@@ -7003,7 +7207,7 @@ SUMMARY:Holy Cross Men's Track & Field at Brown Invitational - Olney-Margo
  lies Athletic Center
 DTSTART:20270220T150000
 DTEND:20270220T180000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0c21ccf78220a4259cc9e9c7e4ebd4@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at Brown Invitational - Olney-M
  argolies Athletic Center --- Event Details: https://myhc.holycross.edu/rsv
@@ -7020,7 +7224,7 @@ SUMMARY:Holy Cross Women's Basketball vs Boston University - Turnpike Trop
  hy
 DTSTART:20270220T190000
 DTEND:20270220T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:6a9a37da22ed00fb7cada4566bbb8c@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball vs Boston University - Turnpike 
  Trophy Streaming Video: https://www.espn.com/watch/schedule Tickets: https
@@ -7039,7 +7243,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Golf at Space Coast Classic - Duran Golf Club
 DTSTART:20270220T050000
 DTEND:20270221T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9127b0c1b24b8e44a977df9a6fd95d@events-near-me
 DESCRIPTION:Holy Cross Women's Golf at Space Coast Classic - Duran Golf Cl
  ub --- Event Details: https://myhc.holycross.edu/rsvp?id=2153814 Source: C
@@ -7055,7 +7259,7 @@ BEGIN:VEVENT
 SUMMARY:HC Goes Unified Basketball
 DTSTART:20270221T160000
 DTEND:20270221T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:6df0551699556911b294fdf9311dee@events-near-me
 DESCRIPTION:COLLEGE OF THE HOLY CROSS WAIVER AND ASSUMPTION OF RISK Holy C
  ross Goes Unified 2026-2027 Participant\, signed below\, has voluntarily c
@@ -7130,7 +7334,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball at Boston University - Turnpike Trophy
 DTSTART:20270221T180000
 DTEND:20270221T200000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:7208ed6716efb0f7e9fd671674926b@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball at Boston University - Turnpike Tr
  ophy Streaming Video: https://www.espn.com/watch/ Tickets: https://www.tic
@@ -7148,7 +7352,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270223T180000
 DTEND:20270223T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fdbb2f6002482568d1112633930973@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-383/\n\nEvent
@@ -7164,7 +7368,7 @@ BEGIN:VEVENT
 SUMMARY:DREAM Meeting!♿🌟
 DTSTART:20270223T230000
 DTEND:20270224T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:cb342011448a9b1cf048b7197933d2@events-near-me
 DESCRIPTION:You're invited to join Disability Rights\, Education\, Activis
  m\, and Mentoring (DREAM)'s Tuesday meetings! Stay connected with DREAM vi
@@ -7182,7 +7386,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball at Lafayette
 DTSTART:20270223T230000
 DTEND:20270224T010000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:643b55d90fdbc7080d8224c059f46d@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at Lafayette Streaming Video: ht
  tps://www.espn.com/watch/schedule --- Event Details: https://myhc.holycros
@@ -7198,7 +7402,7 @@ BEGIN:VEVENT
 SUMMARY:Manic Monday with The Delilahs!
 DTSTART:20270223T030000
 DTEND:20270223T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2330e45495dcbf98fc9de8439ebc55@events-near-me
 DESCRIPTION:Join the Delilahs in Hogan for their weekly Acapella Performan
  ce. --- Event Details: https://myhc.holycross.edu/rsvp?id=2155454 Source: 
@@ -7214,7 +7418,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270223T100000
 DTEND:20270223T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:97dd9d24953b122f6f61e93081e685@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-121/\n\nEvents N
@@ -7230,7 +7434,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20270224T103000
 DTEND:20270224T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fcbd5efcfeb6461703c122184723fe@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-105/\n\nEvents 
@@ -7246,7 +7450,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20270224T100000
 DTEND:20270224T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a6e096ca6929c2d0a25fc72d4f9a9a@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-137/\n\nEvents
@@ -7262,7 +7466,7 @@ BEGIN:VEVENT
 SUMMARY:Night Fiction Book Club
 DTSTART:20270224T180000
 DTEND:20270224T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:02a43a2bb8fa0e39282b10a012668d@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/night-fic-book-club-6/\n\nEve
@@ -7278,7 +7482,7 @@ BEGIN:VEVENT
 SUMMARY:Off the Record Pop Up Performance
 DTSTART:20270224T030000
 DTEND:20270224T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9c34931b1aca2e5881a7436eb21702@events-near-me
 DESCRIPTION:Stop by Hogan 1st floor for a performance by Off the Record ac
  apella group! --- Event Details: https://myhc.holycross.edu/rsvp?id=215544
@@ -7295,7 +7499,7 @@ SUMMARY:Holy Cross Men's Basketball vs Lafayette - Club Spirit Night prese
  nted by Pepsi
 DTSTART:20270225T000000
 DTEND:20270225T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b15a79b93287d1d33779c896bba4ed@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Lafayette - Club Spirit Night p
  resented by Pepsi Streaming Video: https://www.espn.com/watch/ Tickets: ht
@@ -7314,7 +7518,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball at American
 DTSTART:20270226T220000
 DTEND:20270227T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9ca5cf33bed1acb7eeb0b6fee1a4fb@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball at American Streaming Video: htt
  ps://www.espn.com/watch/schedule --- Event Details: https://myhc.holycross
@@ -7330,7 +7534,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20270226T100000
 DTEND:20270226T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1df85bc63e060b6c170f4aaddf33ee@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-290/\n\nEvents N
@@ -7346,7 +7550,7 @@ BEGIN:VEVENT
 SUMMARY:Dance Ensemble February Benefit Show
 DTSTART:20270227T000000
 DTEND:20270227T013000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:7718d507812d679da05d5fbd10093f@events-near-me
 DESCRIPTION:Save the date for the Dance Ensemble winter showcase! All tick
  et sales will be donated to a (soon-to-be-chosen) cause. We can't wait to 
@@ -7364,7 +7568,7 @@ SUMMARY:Holy Cross Men's Basketball vs American - Senior Day | Fan Appreci
  ation
 DTSTART:20270227T170000
 DTEND:20270227T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a52995b807a97abd76de6f48a1870e@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs American - Senior Day | Fan App
  reciation Streaming Video: https://www.espn.com/watch/ Tickets: https://ti
@@ -7384,7 +7588,7 @@ SUMMARY:Holy Cross Men's Track & Field at Patriot League Indoor Championsh
  ip - Wesley A. Brown Field House
 DTSTART:20270227T140000
 DTEND:20270228T150000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:64cfb27b160c7068ac8453dbb545ae@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at Patriot League Indoor Champi
  onship - Wesley A. Brown Field House --- Event Details: https://myhc.holyc
@@ -7400,7 +7604,7 @@ BEGIN:VEVENT
 SUMMARY:HC Goes Unified Basketball
 DTSTART:20270228T160000
 DTEND:20270228T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:cbd4460b65be4e78c7c79721c21b28@events-near-me
 DESCRIPTION:COLLEGE OF THE HOLY CROSS WAIVER AND ASSUMPTION OF RISK Holy C
  ross Goes Unified 2026-2027 Participant\, signed below\, has voluntarily c
@@ -7475,7 +7679,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball vs First Round
 DTSTART:20270301T050000
 DTEND:20270302T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:002f8759a510e5c6b4b655f6616106@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball vs First Round --- Event Details
  : https://myhc.holycross.edu/rsvp?id=2154260 Source: College of the Holy C
@@ -7491,7 +7695,7 @@ BEGIN:VEVENT
 SUMMARY:Unity Week 2027
 DTSTART:20270301T180000
 DTEND:20270305T190000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:cb0ebda0bd632e9762160c252f46f9@events-near-me
 DESCRIPTION:Unity Week recognizes how each individual experiences enhance 
  the greater campus community. --- Event Details: https://myhc.holycross.ed
@@ -7506,7 +7710,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270302T180000
 DTEND:20270302T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8413359e1fd6959883df89fe0a048a@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-384/\n\nEvent
@@ -7522,7 +7726,7 @@ BEGIN:VEVENT
 SUMMARY:DREAM Meeting!♿🌟
 DTSTART:20270302T230000
 DTEND:20270303T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1e6d632b6a3f61ca645e4f37b548f9@events-near-me
 DESCRIPTION:You're invited to join Disability Rights\, Education\, Activis
  m\, and Mentoring (DREAM)'s Tuesday meetings! Stay connected with DREAM vi
@@ -7540,7 +7744,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball vs First Round
 DTSTART:20270302T050000
 DTEND:20270303T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:043109bfa68d4d03ce6990e4ad64e4@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs First Round Streaming Video: ht
  tps://www.espn.com/watch/ --- Event Details: https://myhc.holycross.edu/rs
@@ -7556,7 +7760,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey vs Atlantic Hockey First Round
 DTSTART:20270302T050000
 DTEND:20270303T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:7473cc3e02c8cac06ce6b1d21c48c4@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey vs Atlantic Hockey First Round ---
   Event Details: https://myhc.holycross.edu/rsvp?id=2151969 Source: College
@@ -7572,7 +7776,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Ice Hockey vs Semifinals
 DTSTART:20270302T050000
 DTEND:20270303T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d9933354833749e1e4e6f17cd50cac@events-near-me
 DESCRIPTION:Holy Cross Women's Ice Hockey vs Semifinals --- Event Details:
   https://myhc.holycross.edu/rsvp?id=2153306 Source: College of the Holy Cr
@@ -7588,7 +7792,7 @@ BEGIN:VEVENT
 SUMMARY:Last day to make up Incompletes from Fall 2026
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:eb751865eba8b4244c5f06e2ed001f@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/last-day-to-make-up-incompletes-from-fall-2026/\n\nEvents
@@ -7604,7 +7808,7 @@ BEGIN:VEVENT
 SUMMARY:Manic Monday with The Delilahs!
 DTSTART:20270302T030000
 DTEND:20270302T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:73c65a6c594be9eb40f0248b70f9df@events-near-me
 DESCRIPTION:Join the Delilahs in Hogan for their weekly Acapella Performan
  ce. --- Event Details: https://myhc.holycross.edu/rsvp?id=2155455 Source: 
@@ -7620,7 +7824,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270302T100000
 DTEND:20270302T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:da4306dca8355c405e492f5a886112@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-122/\n\nEvents N
@@ -7636,7 +7840,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesday Book Group
 DTSTART:20270302T130000
 DTEND:20270302T140000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2006dfbe0cc6728cad18376ec62ed1@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/tuesday-book-group-53/\n\nEve
@@ -7652,7 +7856,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20270303T103000
 DTEND:20270303T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e808a54b85b7b3ec8fa794a44f7f93@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-106/\n\nEvents 
@@ -7668,7 +7872,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20270303T100000
 DTEND:20270303T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0cec4f989aec5e2dc43e20fbb9304b@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-138/\n\nEvents
@@ -7684,7 +7888,7 @@ BEGIN:VEVENT
 SUMMARY:Bagel Wednesday
 DTSTART:20270303T143000
 DTEND:20270303T160000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:9b4ab389a33be86028a7f65f4b62b4@events-near-me
 DESCRIPTION:Please join the members of the Chaplains' Office at Campion Ho
  use on the first Wednesday of every month for Bagel Wednesday. Starting at
@@ -7704,7 +7908,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball vs Quarterfinals
 DTSTART:20270303T050000
 DTEND:20270304T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0a423e7fc8d19fff8c3195904f5bc0@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball vs Quarterfinals --- Event Detai
  ls: https://myhc.holycross.edu/rsvp?id=2154262 Source: College of the Holy
@@ -7720,7 +7924,7 @@ BEGIN:VEVENT
 SUMMARY:Fools on the Hill Pop Up Performance
 DTSTART:20270304T030000
 DTEND:20270304T031500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ad5bc276eeffb9657b977ada7e12bc@events-near-me
 DESCRIPTION:Stop by Hogan for a performance by the Fools on the Hill acape
  lla group! --- Event Details: https://myhc.holycross.edu/rsvp?id=2155447 S
@@ -7736,7 +7940,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball vs Quarterfinals
 DTSTART:20270304T050000
 DTEND:20270305T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:6598ecb5c2457ebb8b1009cfac4ef1@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Quarterfinals Streaming Video: 
  https://www.espn.com/watch/ --- Event Details: https://myhc.holycross.edu/
@@ -7752,7 +7956,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20270305T100000
 DTEND:20270305T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5a466ccab828777def2c0a94d2450e@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-291/\n\nEvents N
@@ -7768,7 +7972,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Track & Field at New England Indoor Championship
 DTSTART:20270306T140000
 DTEND:20270306T170000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:85e1f3d373254852841ab8402e7ec5@events-near-me
 DESCRIPTION:Holy Cross Men's Track & Field at New England Indoor Champions
  hip --- Event Details: https://myhc.holycross.edu/rsvp?id=2155349 Source: 
@@ -7784,7 +7988,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball vs Semifinals
 DTSTART:20270306T050000
 DTEND:20270307T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:cc81f081f8244d9ed0008103c72347@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball vs Semifinals --- Event Details:
   https://myhc.holycross.edu/rsvp?id=2154264 Source: College of the Holy Cr
@@ -7800,7 +8004,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball vs Semifinals
 DTSTART:20270307T050000
 DTEND:20270308T050000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:aad8257d2aadbbbddc926513ba5573@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Semifinals --- Event Details: h
  ttps://myhc.holycross.edu/rsvp?id=2154265 Source: College of the Holy Cros
@@ -7816,7 +8020,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270309T180000
 DTEND:20270309T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:30c654ee2d1cc8944c17dd75f97432@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-385/\n\nEvent
@@ -7832,7 +8036,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Women's Basketball vs Championship
 DTSTART:20270309T220000
 DTEND:20270310T000000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b6741bdbe448f600992ba2cdf13c62@events-near-me
 DESCRIPTION:Holy Cross Women's Basketball vs Championship --- Event Detail
  s: https://myhc.holycross.edu/rsvp?id=2154266 Source: College of the Holy 
@@ -7848,7 +8052,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270309T100000
 DTEND:20270309T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:0efe4e027ca252ded00fdaeedbd7ce@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-123/\n\nEvents N
@@ -7864,7 +8068,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20270310T103000
 DTEND:20270310T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:eaa23bb1be16956ac1bbee2e14d9f7@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-107/\n\nEvents 
@@ -7880,7 +8084,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20270310T100000
 DTEND:20270310T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:fde972d388090e9b467e649a259e10@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-139/\n\nEvents
@@ -7896,7 +8100,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Basketball vs Championship
 DTSTART:20270311T000000
 DTEND:20270311T020000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:04ba9cd77d108b30320c0cd3a70d21@events-near-me
 DESCRIPTION:Holy Cross Men's Basketball vs Championship --- Event Details:
   https://myhc.holycross.edu/rsvp?id=2154267 Source: College of the Holy Cr
@@ -7912,7 +8116,7 @@ BEGIN:VEVENT
 SUMMARY:Last day to declare or change major or minor
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:a8ad442fb6f2e1c99687ca4bd32cdf@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/last-day-to-declare-or-change-major-or-minor-3/\n\nEvents
@@ -7928,7 +8132,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20270312T100000
 DTEND:20270312T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1c9388baa10ae0f7c1da51de3c871d@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-292/\n\nEvents N
@@ -7944,7 +8148,7 @@ BEGIN:VEVENT
 SUMMARY:Spring Break: NO CLASSES
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:8218f73cf26d63f1102f7465f290e9@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/spring-break-no-classes-10/\n\nEvents Near Me: within 30 
@@ -7959,7 +8163,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270316T180000
 DTEND:20270316T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:dd78508435a16b456d321f604d6283@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-386/\n\nEvent
@@ -7975,7 +8179,7 @@ BEGIN:VEVENT
 SUMMARY:DREAM Meeting!♿🌟
 DTSTART:20270316T220000
 DTEND:20270316T230000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:bfff2a71427148a9f642bb10c85c7a@events-near-me
 DESCRIPTION:You're invited to join Disability Rights\, Education\, Activis
  m\, and Mentoring (DREAM)'s Tuesday meetings! Stay connected with DREAM vi
@@ -7993,7 +8197,7 @@ BEGIN:VEVENT
 SUMMARY:Manic Monday with The Delilahs!
 DTSTART:20270316T020000
 DTEND:20270316T021500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5481465e37c48c99351909f3f6d905@events-near-me
 DESCRIPTION:Join the Delilahs in Hogan for their weekly Acapella Performan
  ce. --- Event Details: https://myhc.holycross.edu/rsvp?id=2155456 Source: 
@@ -8009,7 +8213,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270316T100000
 DTEND:20270316T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:3becec2b5300203d31f23f94bf32c5@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-124/\n\nEvents N
@@ -8025,7 +8229,7 @@ BEGIN:VEVENT
 SUMMARY:Purple Key Society Member Meeting
 DTSTART:20270316T230000
 DTEND:20270316T234500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:b7a6e2abe3f90d31070e6f58c92445@events-near-me
 DESCRIPTION:PKS Member Meeting will overview the 100 Days Ball volunteer r
  oles and other ways PKS members can get involved in upcoming events. --- E
@@ -8042,7 +8246,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED - Baby Playtime
 DTSTART:20270317T103000
 DTEND:20270317T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:33b6ecb8e2c1c6507a97ce59192973@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-108/\n\nEvents 
@@ -8058,7 +8262,7 @@ BEGIN:VEVENT
 SUMMARY:Entropy Show
 DTSTART:20270317T010000
 DTEND:20270317T023000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:1b9ad7683fc02dead994acd878efff@events-near-me
 DESCRIPTION:Come see live comedy! --- Event Details: https://myhc.holycros
  s.edu/rsvp?id=2155406 Source: College of the Holy Cross Event page: https:
@@ -8073,7 +8277,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED - Toddler Time
 DTSTART:20270319T100000
 DTEND:20270319T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e99528ff5b751078a70a7bd438c94d@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-293/\n\nEvents N
@@ -8089,7 +8293,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Cross Men's Ice Hockey vs Atlantic Hockey Championship
 DTSTART:20270320T040000
 DTEND:20270321T040000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:7504f81606b632bbcdfba30f66e414@events-near-me
 DESCRIPTION:Holy Cross Men's Ice Hockey vs Atlantic Hockey Championship --
  - Event Details: https://myhc.holycross.edu/rsvp?id=2151973 Source: Colleg
@@ -8106,7 +8310,7 @@ SUMMARY:Holy Cross Men's Golf at UC San Diego Invitational - Torrey Pines
  North Course
 DTSTART:20270321T040000
 DTEND:20270322T040000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:d8b9710320ee6060326108ad85e5d8@events-near-me
 DESCRIPTION:Holy Cross Men's Golf at UC San Diego Invitational - Torrey Pi
  nes North Course --- Event Details: https://myhc.holycross.edu/rsvp?id=215
@@ -8122,7 +8326,7 @@ BEGIN:VEVENT
 SUMMARY:Failure warnings due in the Registrar’s Office
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:928af71ed8d5054beced45152999f9@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/failure-warnings-due-in-the-registrars-office-6/\n\nEvent
@@ -8139,7 +8343,7 @@ SUMMARY:Holy Cross Women's Golf at Kingsmill Intercollegiate - Kingsmill R
  iver Course
 DTSTART:20270322T040000
 DTEND:20270323T040000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:ae570187be0db4faaff936add439c4@events-near-me
 DESCRIPTION:Holy Cross Women's Golf at Kingsmill Intercollegiate - Kingsmi
  ll River Course --- Event Details: https://myhc.holycross.edu/rsvp?id=2153
@@ -8155,7 +8359,7 @@ BEGIN:VEVENT
 SUMMARY:Adult D&D Night
 DTSTART:20270323T180000
 DTEND:20270323T210000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:219fde18e7f6dbc71b05dfcdd38e84@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/adult-d-d-night-387/\n\nEvent
@@ -8171,7 +8375,7 @@ BEGIN:VEVENT
 SUMMARY:DREAM Meeting!♿🌟
 DTSTART:20270323T220000
 DTEND:20270323T230000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:6b2abedd965050c5c638969aa29d9c@events-near-me
 DESCRIPTION:You're invited to join Disability Rights\, Education\, Activis
  m\, and Mentoring (DREAM)'s Tuesday meetings! Stay connected with DREAM vi
@@ -8189,7 +8393,7 @@ BEGIN:VEVENT
 SUMMARY:Failure warnings issued to students
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:bda33666342694c37f82e26fed0e34@events-near-me
 DESCRIPTION:Source: Worcester State University Event page: https://www.wor
  cester.edu/event/failure-warnings-issued-to-students-11/\n\nEvents Near Me
@@ -8206,7 +8410,7 @@ SUMMARY:Holy Cross Women's Golf at Kingsmill Intercollegiate - Kingsmill R
  iver Course
 DTSTART:20270323T040000
 DTEND:20270324T040000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:5cf4e0b0a20dc1007f78d04a710a12@events-near-me
 DESCRIPTION:Holy Cross Women's Golf at Kingsmill Intercollegiate - Kingsmi
  ll River Course --- Event Details: https://myhc.holycross.edu/rsvp?id=2153
@@ -8222,7 +8426,7 @@ BEGIN:VEVENT
 SUMMARY:Manic Monday with The Delilahs!
 DTSTART:20270323T020000
 DTEND:20270323T021500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:e6dc30b58a45249c247f5d5729301f@events-near-me
 DESCRIPTION:Join the Delilahs in Hogan for their weekly Acapella Performan
  ce. --- Event Details: https://myhc.holycross.edu/rsvp?id=2155457 Source: 
@@ -8238,7 +8442,7 @@ BEGIN:VEVENT
 SUMMARY:Music Mashup
 DTSTART:20270323T100000
 DTEND:20270323T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:33c7b7f5ceadc489a029d98e5e5541@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/music-mashup-125/\n\nEvents N
@@ -8254,7 +8458,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Playtime
 DTSTART:20270324T103000
 DTEND:20270324T110000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:2cef0cd5db70e1dc3db57ba8f6b6ce@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-playtime-109/\n\nEvents 
@@ -8270,7 +8474,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Storytime
 DTSTART:20270324T100000
 DTEND:20270324T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:eaccb6630abfd369ca86bc7bf02219@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/baby-storytime-141/\n\nEvents
@@ -8286,7 +8490,7 @@ BEGIN:VEVENT
 SUMMARY:Off the Record Pop Up Performance
 DTSTART:20270324T020000
 DTEND:20270324T021500
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:503fc5597a62350cf48d19814db13e@events-near-me
 DESCRIPTION:Stop by Hogan 1st floor for a performance by Off the Record ac
  apella group! --- Event Details: https://myhc.holycross.edu/rsvp?id=215544
@@ -8302,7 +8506,7 @@ BEGIN:VEVENT
 SUMMARY:Toddler Time
 DTSTART:20270326T100000
 DTEND:20270326T103000
-DTSTAMP:20261126T204455Z
+DTSTAMP:20261127T203100Z
 UID:88480bcc74f9c6b70b841cc603da71@events-near-me
 DESCRIPTION:Sources: Northborough Free Library Event page: https://northbo
  roughlibrary.assabetinteractive.com/calendar/toddler-time-294/\n\nEvents N
